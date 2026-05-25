@@ -1,0 +1,12 @@
+{
+  "parts": "Hell",
+  "map": "JN077",
+  "bkType": 1,
+  "back": "bkRed",
+  "back_water": "bkRed",
+  "npc": "Hell",
+  "boss": "Press",
+  "boss_no": 8,
+  "lighting": "disabled",
+  "name": "Once-Sacred Ground"
+}

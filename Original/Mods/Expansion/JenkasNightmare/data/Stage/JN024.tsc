@@ -1,0 +1,539 @@
+
+#0080
+<MNP0001:0014:0013:0000<MNP0310:0014:0013:0000<CMU0028<FAI0000<END
+#0081
+<MNP0001:0014:0013:0000<MNP0310:0014:0013:0000<CMU0028<FAI0001<END
+#0082
+<MNP0001:0014:0013:0000<MNP0310:0014:0013:0000<CMU0028<FAI0002<END
+#0083
+<MNP0001:0014:0013:0000<MNP0310:0014:0013:0000<CMU0028<FAI0003<END
+#0084
+<MNP0001:0014:0013:0000<MNP0310:0014:0013:0000<CMU0028<FAI0004<END
+#0085
+<MNP0001:0014:0013:0000<MNP0310:0014:0013:0000<CMU0002<FAI0000<END
+#0086
+<MNP0001:0014:0013:0000<MNP0310:0014:0013:0000<CMU0002<FAI0001<END
+#0087
+<MNP0001:0014:0013:0000<MNP0310:0014:0013:0000<CMU0002<FAI0002<END
+#0088
+<MNP0001:0014:0013:0000<MNP0310:0014:0013:0000<CMU0002<FAI0003<END
+#0089
+<MNP0001:0014:0013:0000<MNP0310:0014:0013:0000<CMU0002<FAI0004<END
+#0090
+<MNA<FLJ0343:0080<FLJ0045:0085<CMU0002<FAI0000<END
+#0091
+<MNA<FLJ0343:0081<FLJ0045:0086<CMU0002<FAI0001<END
+#0092
+<MNA<FLJ0343:0082<FLJ0045:0087<CMU0002<FAI0002<END
+#0093
+<MNA<FLJ0343:0083<FLJ0045:0088<CMU0002<FAI0003<END
+#0094
+<MNA<FLJ0343:0084<FLJ0045:0089<CMU0002<FAI0004<END
+#0095
+<FLJ0028:0094<FL+0028<FL+0034<FL+0042<EVE0150
+#0098
+<MNP0001:0014:0013:0000<MNP0310:0014:0013:0000<END
+#0099
+<DNP0099<FLJ0343:0098<FLJ0045:0098<END
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0022:0094:0041:0051
+#0101
+<PRI<SOU0011<DNP0101<FAO0004<TRA0022:0094:0039:0044
+#0110
+<KEY<SOU0011
+<CNP0110:0000:0000<WAI0016<HMC
+<CNP0110:0018:0000<MOV0005:0013<WAI0040<SOU0011
+<CNP0111:0000:0000<MYD0002<SMC<WAI0016
+<CNP0111:0018:0000<END
+#0111
+<KEY<SOU0011
+<CNP0111:0000:0000<WAI0016<HMC
+<CNP0111:0018:0000<MOV0004:0019<WAI0040<SOU0011
+<CNP0110:0000:0000<MYD0002<SMC<WAI0016
+<CNP0110:0018:0000<END
+#0112
+<KEY<SOU0011
+<CNP0112:0000:0000<WAI0016<HMC
+<CNP0112:0018:0000<MOV0013:0007<WAI0040<SOU0011
+<CNP0113:0000:0000<MYD0000<SMC<WAI0016
+<CNP0113:0018:0000<END
+#0113
+<KEY<SOU0011
+<CNP0113:0000:0000<WAI0016<HMC
+<CNP0113:0018:0000<MOV0016:0013<WAI0040<SOU0011
+<CNP0112:0000:0000<MYD0000<SMC<WAI0016
+<CNP0112:0018:0000<END
+#0150
+<HMC<CMU0000<ANP0300:0000:0002<MNP0200:0014:0020:0000
+<MSG<FAC0021...Alright, will do.<NOD<CLO<FAC0000<CMU0002<FAI0004
+<MSG<FAC0023Right.<NOD Well, I'll keep
+an eye out for him--<SOU0011<MNP0100:0000:0000:0000<SMC<NOD<CLR<FAC0021Oh, speak of the devil,
+he just walked in.<NOD<SOU0011<MNP0100:0010:0020:0000
+No, don't worry about it,
+I'll let him know.<NOD<CLR<FAC0023
+Talk to you later, Susan.<NOD<CLO<FAC0000
+<WAI0005<SOU0043<ANP0300:0000:0000<WAI0010<MYD0002
+<ANP0200:0008:0000<WAI0045<ANP0200:0000:0000
+<MSG<FAC0023Well now here's a face 
+I haven't seen in a while!<NOD<FAC0021
+What?<NOD You don't remember 
+me?<NOD<FAC0023 It's me, Jack!<NOD<CLRThat was Sue on the
+console behind me, just
+now.<NOD<FAC0022 I didn't think
+I'd ever have to see
+HER again...<NOD<CLR<FAC0021But I digress.<NOD
+She let me know that
+she's working on getting
+the teleporters working.<NOD<FAC0023
+Wanted me to tell you to
+look for Grasstown's and
+turn it on.<NOD
+<FAC0021She said it'd take a
+while to get it all up
+and running, though...<NOD<CLRHmm?<NOD You're busy looking
+for someone?<NOD I haven't
+seen anyone new around
+Grasstown lately...<NOD
+<FAC0023Tell you what.<NOD
+If you help out Sue,
+it'll help you out in
+searching the island.<NOD
+<FAC0021Being able to see a
+connection might do
+something...<NOD<CLR<FAC0023We moved the teleporter
+to another house a little
+bit above us.<NOD You might
+have to flip on the fan
+power to the east to
+reach it, though.<NOD<CLR<FAC0023Anyway, I won't keep
+you any longer.<NOD<FAC0021
+Good luck out there.<NOD
+It's a lot different than
+it was just a year ago.<NOD<END
+#0200
+<FLJ0117:0206<ITJ0021:0205<FLJ0047:0202<FLJ0045:0203
+<FLJ0029:0201<FL+0029
+<KEY<MSG<FAC0023Luckily for us, the fans
+leading to the teleporter
+are seperate from the rest.<NOD
+They're on a different
+circuit than the others,
+and still have power.<NOD<CLR<FAC0021
+That said...<NOD<CLRSome creep has been
+fooling around with the
+power terminals for laughs.<NOD
+He looks sorta like one
+of The Doctor's henchmen.<NOD<FAC0022
+Is he working solo now?<NOD<END
+#0201
+<KEY<MSG<FAC0021If you're gonna try
+getting in the generator
+room, don't bother.<NOD
+I have the key for that
+place, and I'm NOT giving
+it away willy-nilly.<NOD<CLR<FAC0022If that creep going
+around got ahold of it, we
+might lose power for good!<NOD<END
+#0202
+<KEY<MSG<FAC0021What!?<NOD You just saw
+that creep steal the data
+card from the teleporter?<NOD<EVE0204
+#0203
+<KEY<MSG<FAC0021What!?<NOD You just saw
+that creep messing around
+with the teleporter?<NOD<EVE0204
+#0204
+<CLR<FAC0021Alright, that does it.<NOD
+We need to get rid of
+that nuisance once and
+for all!<NOD<CLRIf my suspicions are
+correct, he hides out at
+our old storehouse.<NOD
+You can find it far, far
+east of us.<NOD<CLRTo get to it you're
+going to have to turn
+on the generator...<NOD
+I've been holding onto the
+key to the place for
+safekeeping.<NOD
+Here you are.<NOD<GIT1021<IT+0021<FL+0217<FAC0000<CLR<MSG
+<CMU0010Got the =Generator Key=!<WAI0180<NOD<RMU<CLR<GIT0000<MSG<FAC0023The generator room is
+a little ways east of the
+teleporter room.<NOD<CLR<FAC0021Come back in one piece,
+alright?<NOD<END
+#0205
+<KEY<MSG<FAC0023My original plan was
+to just wait it out.<NOD
+The ground under the old
+storehouse has gotten
+weaker over time...<NOD
+It could give out at any
+moment, and the whole
+building would fall!<NOD<END
+#0206
+<FLJ0343:0216<FLJ0135:0209<FLJ0134:0207<FL+0134
+<KEY<MYB0002<WAS<MSG<FAC0023Y-You're...<NOD
+You're okay!?<NOD<CLR<FAC0023Whew...<NOD What a relief.<NOD<FAC0021
+When I heard from Santa
+that the ground around the
+storehouse collapsed...<NOD<CLR<FAC0021But no, Sue was pretty
+sure that you were alive
+the moment I told her.<NOD
+She seems to have a lot
+more confidence since the
+last time she was here...<NOD<CLR
+*Sigh*...<NOD<CLRI really do try to keep
+everyone's safety in my
+best interest since then.<NOD<FAC0023
+I ask myself,
+'What would King do?'<NOD<FAC0021
+And honestly, the more
+I act on that impulse,
+the more I hate myself.<NOD<CLRI guess I just...<NOD
+Really miss King and
+Toroko.<NOD And maybe I'm
+holding you guys
+responsible?<NOD<CLRMaybe I'm really not
+'number one' material.<NOD
+But what else am I
+going to do?<NOD<CLO<AMJ0009:0208<FL+0175<END
+#0207
+<KEY<MYB0002<WAS<MSG<FAC0021I'm sorry I sent you
+off to the Storehouse
+alone.<NOD I really am
+glad that you're okay.<NOD
+But am I really 'leader'
+material...?<NOD<CLO<AMJ0009:0208<FL+0175<END
+#0208
+<KEY<MSG<CMU0000<FAC0000<GIT0009<FL+0135
+And you call yourself a Mimiga!?<NOD<CLR<FAC0021<GIT0000
+...!?<NOD<FAC0023 K-King!?<NOD<CLR<FAC0020<GIT0009I just can't get a
+moment's peace around
+here, can I?<NOD<CLRI didn't get myself killed
+for nothing, Jack.<NOD You
+know that.<NOD And I sure as
+heck didn't die to leave
+you whining like a baby.<NOD<CLR<FAC0021<GIT0000And what am I supposed to
+do!?<NOD I'm not you!<NOD I'm no
+leader!<NOD Earthquakes tore
+apart the old village, and
+any day could be our last!<NOD
+<FAC0021Your death was a wake-up
+call to how helpless we
+all are!<NOD<CLR<FAC0020<GIT0009
+...<NOD<CLR<FAC0021<GIT0000Face it, King!<NOD I'm just
+another wannabe loser!<NOD
+I'm helpless, and the
+other Mimiga would be
+better off without me!<NOD<CLR<FAC0020<GIT0009
+......<NOD<CLR<FAC0021<GIT0000How am I supposed to live
+up to your image!?<NOD Tell me
+what I'm supposed to do!<NOD
+Tell me!!<NOD<CLO<FAC0000<WAI0050<CMU0028
+<KEY<MSG<FAC0020<GIT0009The day I died was the
+most helpless moment of
+my life.<NOD<CLR<FAC0021<GIT0000
+!?<NOD<CLR<FAC0020<GIT0009When I arrived, Jack, I
+was already too late.<NOD
+The Doctor had already
+force-fed Toroko a
+handful of red flowers.<NOD<CLRAs I watched Toroko's mind
+fade away in my arms, I
+realized something.<NOD
+I realized that I'm just a
+damn fool.<NOD I lived a fool,
+angry at humans and what
+their war did to us.<NOD
+I was just another stupid
+Mimiga who thought he knew
+what was best.<NOD<CLRWith tears in my eyes, I
+saw the Doctor, and I saw
+red.<NOD Without thinking,
+I threw myself at him,
+and he showed me just how
+powerless I really was.<NOD<CLRI couldn't save Toroko.<NOD
+I just let her watch me
+get myself killed, and
+likely crushed her will.<NOD<CLR<FAC0021<GIT0000
+...<NOD<CLR<FAC0020<GIT0009As I woke, I tried my
+hardest to call her name.<NOD
+But her screams of anger
+were stronger, and she
+could not be saved.<NOD<CLRWe died together that day.<NOD
+Neither one of us any
+stronger than the other.<NOD<CLO<GIT0000<FAC0000<WAI0050
+<KEY<MSG<FAC0020<GIT0009You're my number two for a
+reason, Jack.<NOD
+A leader needs a plan
+before he acts.<NOD
+Me?<NOD I'm sure as heck not
+'leader' material.<NOD<CLRBut you?<NOD You've moved the
+entire village to protect
+its people.<NOD
+You put together a plan
+and followed through.<NOD<CLRYou're a hell of a better
+leader than I ever was,
+thank you very much.<NOD<CLR<FAC0021<GIT0000
+King...<NOD<CLR<FAC0020<GIT0009Now, tell me.<NOD Are you Jack
+the coward?<NOD Or are you
+Jack the leader?<NOD<CLO<GIT0000<FAC0000<WAI0050<MSG<FAC0021<CMU0000
+I'm...<NOD<CLR<FAC0023
+I'm Jack, the leader.<NOD<CLR<FAC0021King...<NOD<FAC0023 Thank you.<NOD
+I'll never forget you.<NOD
+As both a leader, and
+as a friend.<NOD<CLR<FAC0020<GIT0009Heh.<NOD Then I guess I better
+get going so you can live
+up to that promise.<NOD<CLR<FAC0023<GIT0000For what it's worth...<NOD
+I think you made an
+excellent leader.<NOD
+And I'll miss you.<NOD
+We all will.<NOD<CLO<FAC0000<WAI0050<MSG<GIT0009Then I guess I didn't die for
+nothing after all...<NOD<CLRKeep them safe, Jack.<NOD
+I'm counting on you.<NOD<CLO<GIT0000<FAC0000<WAI0050
+<KEY<MSG<FAC0021<CMU0002
+...<NOD<CLR<FAC0023So I guess that settles
+it, then.<NOD I've got a lot
+of work I need to do around
+here.<NOD I'll get in contact
+with Sue and see what I can
+do to help out on her end.<NOD
+Maybe we'll be able to put
+the past behind us, huh?<NOD<CLR<FAC0023Thank you...<NOD
+For avenging King, and for
+saving the island.<NOD
+Everyone here, myself
+included, are really
+quite grateful.<NOD
+We couldn't stress that
+enough if we tried.<NOD<END
+#0209
+<ITJ0008:0212<EVE0211
+#0211
+<FLJ0225:0214
+<KEY<MSG<FAC0023I'm okay now, thank you.<NOD
+I think being a real
+leader will take some
+getting used to.<NOD
+But I'm up to the task!<NOD<END
+#0212
+<KEY<MSG<GIT1008<FAC0023Oh?<NOD Hey, could I have
+a look at that capsule
+you've got there?<YNJ0213<CLR<FAC0021
+.....<NOD<CLR
+..........<NOD<CLR<SOU0022<GIT0000<IT-0008<FAC0023
+Ahah!<NOD Got it open!<NOD<CLR<FAC0021...Strange, this is all
+that was inside it.<NOD<FAC0023
+Oh well, it's all yours.<NOD<FAC0000<FLJ3999:0005<EVE0004
+#0213
+<MSG<FAC0021
+Oh.<NOD Alright.<NOD<END
+#0214
+<FLJ0248:0215<FL+0248
+<KEY<MSG<FAC0021I heard it from Sue...<NOD
+So I guess this is goodbye,
+now...<NOD<CLR<FAC0023Thanks for everything
+you've done for us.<NOD You're
+welcome back at either
+village any time.<NOD<END
+#0215
+<KEY<MSG<FAC0021I've got plenty of work to
+do if I want to make up
+for all that moping I did.<NOD<FAC0023
+And plenty of time to do
+it!<NOD<END
+#0216
+<FLJ0273:0217<FL+0273
+<KEY<MSG<FAC0023
+Welcome...<NOD<FAC0021 ...<NOD<CLR<FAC0021I'm sorry, but now isn't
+a very good time for
+introductions.<NOD I've been
+told that The Doctor has
+unexpectedly returned...<NOD
+What should I do...?<NOD<END
+#0217
+<KEY<MSG<FAC0021If you see a surface robot
+with a red hat, tell him
+we're counting on him.<NOD
+But if you can't find
+him...<NOD I fear we may
+not survive...<NOD<END
+#0220
+<FLJ0343:0230<FLJ0225:0228<FLJ0117:0224<FLJ0045:0222
+<FLJ0030:0221<FL+0030
+<KEY<MSGI'm going to build a house over
+on the other end of Grasstown.<NOD
+That way, Chaco can't call me
+a scaredy-cat!<NOD<END
+#0221
+<KEY<MSGB-But then again, I did hear
+this weird laugh when I got back.<NOD
+It sounded kinda like...<NOD hissing?<NOD<END
+#0222
+<FLJ0048:0223<FL+0048
+<KEY<MSGWhat??<NOD Th-That snake thing
+is still on the loose?<NOD<CLRUh-Uhm...<NOD I think I'll
+just stay put.<NOD S-Someone needs
+to guard the tower!<NOD<END
+#0223
+<KEY<MSG
+...His legs are shaking nervously.<NOD<END
+#0224
+<FLJ0136:0225<FL+0136
+<KEY<MSG
+Ah!<NOD A g-ghost!?<NOD<CLRNot a ghost...?<NOD I swear I saw you
+fall down that deep hole with
+the quake...<NOD How do you survive
+something like that!?<NOD<END
+#0225
+<FLJ0135:0226
+<KEY<MSGEver since I told Jack that I
+saw you fall down the pit, he's
+been in a bit of a rut.<NOD
+I think it hit him hard, and he
+felt wholly responsible...<NOD<END
+#0226
+<KEY<MSGJack's in a much better mood,
+lately...<NOD A lot better than I've
+seen him act in a long time.<NOD<END
+#0228
+<FLJ0249:0229<FL+0249
+<KEY<MSGSo I haven't heard any of that
+hissing for a while now...<NOD
+Is it safe to go out?<NOD<END
+#0229
+<KEY<MSGAh, you're leaving?<NOD
+Well, be safe out there, okay?<NOD<END
+#0230
+<FLJ0274:0231<FL+0274
+<KEY<MSGTh-the Doctor is b-back!?<NOD
+Uhm...<NOD What do we do?<NOD<CLRI hope the island doesn't
+fall again...<NOD<END
+#0231
+<KEY<MSGMomorin and Itoh saved Chaco and
+I the last time the island fell,<NOD
+But they happened to be on the
+Balcony at the time when we
+scattered...<NOD<CLRIf the island falls again, we'd
+have to get to the Balcony before
+it hits the surface...<NOD
+And I don't think we could...<NOD<END
+#0240
+<FLJ0343:0250<FLJ0225:0248<FLJ0117:0244<FLJ0045:0242
+<FLJ0031:0241<FL+0031
+<KEY<MSGI'm a nurse.<NOD
+I'm ready to treat anyone injured
+during any earthquakes.<NOD<END
+#0241
+<KEY<MSGThere have been a lot of
+earthquakes, but I haven't seen
+many people hurt.<NOD
+I don't think these are
+the typical kind of quake.<NOD<END
+#0242
+<FLJ0049:0243<FL+0049
+<KEY<MSGWe found an old chest hiding in
+the basement just now, and
+decided to bring it up here.<NOD
+Do you think you could use
+what's inside it?<NOD<END
+#0243
+<KEY<MSGOh, while you're out, be careful
+of the fans.<NOD It's a bit deceiving
+how strong they really are!<NOD<END
+#0244
+<FLJ0137:0245<FL+0137
+<KEY<MSGOh, hello!<NOD Are you injured?<NOD
+Nurse Hasumi is here to help!<NOD<CLR
+...No?<NOD Hmm...<NOD<CLRWere you in the labyrinth?<NOD
+I can smell it on you.<NOD You should
+take a bath sometime.<NOD<END
+#0245
+<KEY<MSGDid you happen to run into
+Dr. Gero while you were there?<NOD<CLO<FLJ0104:0246
+<MSGNo?<NOD Now where could that man
+have wandered off to...<NOD<END
+#0246
+<MSGYou did?<NOD
+What a relief he's alright!<NOD
+Tell him to get out of there the
+next time you see him!<NOD<END
+#0248
+<FLJ0250:0249<FL+0250
+<KEY<MSG
+Oh, are you heading home now?<NOD<CLRIf you're ever injured, you
+know who to call!<NOD<END
+#0249
+<KEY<MSGMaybe I could give you a going-
+away gift?<NOD How about some gauze?<NOD
+I've got PLENTY of gauze.<NOD<END
+#0250
+<FLJ0275:0251<FL+0275
+<KEY<MSGI'm a nurse.<NOD
+But I don't think any of this was
+in my training program...<NOD<CLROh well.<NOD If anyone is injured by
+The Doctor, at least I'll be
+there to patch them back up.<NOD<END
+#0251
+<KEY<MSGIn any case, I know for certain
+The Doctor isn't nearly as good a
+doctor as Dr. Gero.<NOD
+A real doctor wouldn't harm
+anyone, no matter what.<NOD<END
+#0260
+<FLJ0343:0268<FLJ0225:0266<FLJ0117:0264<FLJ0045:0262
+<FLJ0032:0261<FL+0032
+<KEY<MSGThere is a storage facility to
+the far eastern edge of Grasstown.<NOD
+We used to use it for storing
+food and building materials,
+but the quakes pushed us away.<NOD<END
+#0261
+<KEY<MSGLast time we were over there
+salvaging what was left, we heard
+a weird hissing.<NOD We stopped
+going back there for fear of
+poisonous snakes.<NOD Or gas leak.<NOD
+I'm not really sure what it was!<NOD<END
+#0262
+<FLJ0050:0263<FL+0050
+<KEY<MSGThere's an auxiliary terminal a
+good bit above the generator room.<NOD
+If the creepy guy going around
+messed up the generator, you can
+use it to get the fans running.<NOD<CLR<END
+#0263
+<KEY<MSGSomething weird I noticed,
+looking at the generator map...<NOD
+Circuit A seems to reach all the
+way over to the eastern end of
+Grasstown.<NOD I wonder why that is?<NOD<END
+#0264
+<FLJ0138:0265<FL+0138
+<KEY<MSGDid nobody tell you about
+the large pit under the old
+storehouse?<NOD It's another part of
+the reason we stopped using it.<NOD<END
+#0265
+<KEY<MSGI've been making a new map of
+Grasstown after every quake
+changes the terrain.<NOD
+It's hard to keep up, lately...<NOD<END
+#0266
+<FLJ0251:0267<FL+0251
+<KEY<MSGI'm not good at goodbyes.<NOD
+I'm just an old helper-robot
+doing what he likes to do...<NOD<END
+#0267
+<KEY<MSG
+Well, goodbye.<NOD<END
+#0268
+<FLJ0276:0269<FL+0276
+<KEY<MSGThere's nothing I can do in
+this situation...<NOD I'm just a
+hopeless helper-robot...<NOD<END
+#0269
+<KEY<MSG
+I feel helpless...<NOD<END
+#0310
+<FLJ1007:0015<FLJ0207:0015
+<FLJ2306:0001<FL+2306<SOU0022<CNP0310:0021:0000<FLJ0117:0009<FL+2316<EVE0009

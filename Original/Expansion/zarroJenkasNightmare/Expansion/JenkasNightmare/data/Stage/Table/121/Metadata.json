@@ -1,0 +1,12 @@
+{
+  "parts": "Fall",
+  "map": "JN121",
+  "bkType": 0,
+  "back": "bkArcadia",
+  "back_water": "bkArcadia",
+  "npc": "Guest",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "e_Sky"
+}

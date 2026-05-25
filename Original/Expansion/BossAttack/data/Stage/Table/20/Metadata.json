@@ -1,0 +1,12 @@
+{
+  "parts": "Almond",
+  "map": "MiBox",
+  "bkType": 7,
+  "back": "bkMoon",
+  "back_water": "bkMoon",
+  "npc": "Guest",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "outside",
+  "name": "***Non-Stop***"
+}

@@ -1,0 +1,12 @@
+{
+  "parts": "Destruction",
+  "map": "JN068",
+  "bkType": 5,
+  "back": "bkStars",
+  "back_water": "bkStars",
+  "npc": "Cemet",
+  "boss": "Oblivion",
+  "boss_no": 4,
+  "lighting": "disabled",
+  "name": "Oblivion"
+}

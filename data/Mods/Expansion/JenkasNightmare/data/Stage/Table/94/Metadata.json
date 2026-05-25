@@ -1,0 +1,12 @@
+{
+  "parts": "Jail",
+  "map": "JN094",
+  "bkType": 1,
+  "back": "bkMisery",
+  "back_water": "bkMisery",
+  "npc": "Miza",
+  "boss": "Draco",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "米莎莉的住所？"
+}

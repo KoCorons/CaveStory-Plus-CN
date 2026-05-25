@@ -1,0 +1,12 @@
+{
+  "parts": "Almond",
+  "map": "Almond",
+  "bkType": 3,
+  "back": "bkWater",
+  "back_water": "bkWater",
+  "npc": "Cemet",
+  "boss": "Almo1",
+  "boss_no": 4,
+  "lighting": "disabled",
+  "name": "Core"
+}

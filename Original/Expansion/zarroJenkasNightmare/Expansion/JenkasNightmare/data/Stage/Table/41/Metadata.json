@@ -1,0 +1,12 @@
+{
+  "parts": "Sand",
+  "map": "JN041",
+  "bkType": 1,
+  "back": "bkGardGG",
+  "back_water": "bkGardGG",
+  "npc": "Guest",
+  "boss": "Bllg",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Dusty Passage"
+}

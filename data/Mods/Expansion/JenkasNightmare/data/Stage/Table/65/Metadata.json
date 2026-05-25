@@ -1,0 +1,12 @@
+{
+  "parts": "Faci",
+  "map": "JN065",
+  "bkType": 1,
+  "back": "bkFaci",
+  "back_water": "bkFaci",
+  "npc": "Faci",
+  "boss": "Mk2",
+  "boss_no": 3,
+  "lighting": "disabled",
+  "name": "废弃工厂"
+}

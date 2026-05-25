@@ -1,0 +1,47 @@
+
+#0090
+<KEY<MNA<CMU0020<WAI0000
+<ANP0200:0020:0000
+<WAI0000
+<INP0200:0330:0000
+<CNP0000:0000:0000
+<FAI0000<END
+#0099
+#0100
+<KEY<FAO0002<TRA0014:0092:0005:0009
+#0101
+<KEY
+<MSGHey can I ask you for a favor?<NOD
+My family is kidnapped upstairs
+and I need help rescuing them.<NOD
+Your gun sucks massive ass so uh
+I guess you can be a distraction.<NOD<CLR
+<CMP0002:0001:0006
+Thanks.<NOD
+Let's ROLL!<WAI0100<NOD<CLO
+<CNP0101:0000:0000<SOU0011
+<WAI0020<HMC<FAO0001<TRA0044:0090:0003:0018
+#0200
+<PRI<MSGIt's me, Roland the Rolling!<NOD<END
+#0300
+<DNP0300
+<WAI0300<KEY<FON0200:0064<WAI0010
+<MS3Hey you Mister!<NOD
+Yeah it's me,
+Roland the Rolling!<NOD<CLR
+You're stuck here too huh?
+Damn, well guess this is
+the end for both of us.<NOD<CLO<FAO0004
+<MS2<TUR              THE END.<WAI0065<CLR<CLO
+<MS2Wait no hold on.<FAI0004<NOD
+<MS3You can SHOOT those things?!<NOD<CLO
+<WAI0030<SOU0027
+<CNP0000:0321:0000
+<WAI0040
+<FL+0330
+<FOM0016<MS3I have a gun too!
+Let's ROLL!<NOD
+Tell me when to shoot, but be
+warned I'm bad at aiming!<NOD
+Also I don't know my
+left from my right...<NOD<END

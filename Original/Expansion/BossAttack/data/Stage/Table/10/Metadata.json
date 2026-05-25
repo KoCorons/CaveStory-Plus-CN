@@ -1,0 +1,11 @@
+{
+  "parts": "Store",
+  "map": "Sand",
+  "bkType": 1,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Sand",
+  "boss": "Omg",
+  "boss_no": 1,
+  "lighting": "disabled"
+}

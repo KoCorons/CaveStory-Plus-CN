@@ -1,0 +1,12 @@
+{
+  "parts": "Jail",
+  "map": "JN090",
+  "bkType": 4,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Red2",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Last Cave (Hidden)"
+}

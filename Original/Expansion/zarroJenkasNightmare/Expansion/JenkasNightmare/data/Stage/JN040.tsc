@@ -1,0 +1,252 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<CMU0002<FLJ0169:0095<FAI0004<END
+#0095
+<DNP0220<FAI0004<END
+#0097
+<DNP0220<EVE0098
+#0098
+<FAI0004
+<CNP0301:0112:0002<WAI0100
+<ANP0500:0000:0000
+<MYD0002<SMC<DNP0301<END
+#0099
+<KEY<MNA<CMU0002
+<ANP0500:0001:0000<FLJ0169:0097<EVE0098
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0037:0094:0045:0018
+#0151
+<KEY<MSGThere is a document open.<NOD
+Read it?<YNJ0000<CLR<TUR
+Measurements confirmed.<NOD<CLRCavern volumes increasing.<NOD
+Island size increasing.<NOD
+Mass remaining constant.<NOD<CLRAnalysis: This would explain why many areas
+are physically connected now, and can
+be visited without needing a teleporter.<NOD<CLRHowever, this also means
+the walls are getting thinner.<NOD<CLRIf this trend continues, the island will
+no longer be able to support itself.<NOD
+It will crumble..._<NOD<END
+#0152
+<KEY<MSGThere's a sketchbook full of
+scribbles and conceptual notes.<NOD
+The centerpiece is a sketch of
+the island...<NOD<END
+#0153
+<KEY<MSGA dismantled robot.<NOD
+Some of its parts are missing.<NOD<END
+#0154
+<KEY<MSGAn old surface robot.<NOD
+It looks tinkered with.<NOD<END
+#0155
+<KEY<MSG<TUR"Matter and Space"<NOD
+"Correspondence Networking"<NOD
+"Botanical Biochemistry"<NOD<END
+#0156
+<KEY<MSG<TUR"A History of the Occult"<NOD
+"Mechanics of Propulsion"<NOD
+"Artificial Intelligence"<NOD<END
+#0157
+<KEY<MSGThere is a pot filled with
+marbled red seeds, submerged in
+murky red water.<NOD<END
+#0158
+<KEY<MSGA cage with a large plant
+inside.<NOD There are red petals
+scattered all around it...<NOD<END
+#0159
+<KEY<MSGA large chalkboard covered with
+teleporter diagrams in a triangle,
+with arrows pointing between.<NOD<CLR
+There's some written notes here...<NOD<CLR<TURIf teleporter A points to teleporter B,
+and teleporter B points to teleporter C,<NOD<CLRthen teleporter C would point to
+teleporter A.<NOD<CLRHowever, if teleporter A and teleporter B
+point to one another instead,<NOD<CLRTeleporter C will be forced to
+point to a different location.<NOD<FL+0364<END
+#0160
+<PRI<MSGYou find a diary hidden here.<NOD
+Read it?<YNJ0000<CLRDay 01/01.<NOD
+I have chosen not to use the
+conventional dating method for
+this journal.<NOD This document
+is for the island.<NOD
+And, if any day has marked a new
+era, it is today, the day The
+Doctor has been defeated.<NOD<CLRAnd if what I've learned is
+correct, the true power behind the
+crown has been defeated as well.<NOD<CLRDay 01/12.<NOD
+My my, things have been busy, I
+almost forgot about this journal.<NOD
+There has been a lot of work
+rebuilding and repairing the
+damage from when the island fell.<NOD
+Misery has been surprisingly
+helpful in this effort.<NOD<CLRDay 02/08.<NOD
+I've been seeing a lot more of
+Jenka lately.<NOD
+She can't do as much at her age,
+but she is a fountain of historic
+knowledge about this island.<NOD
+She also has very cute puppies.<NOD<CLRDay 03/02.<NOD
+Two months past The Doctor's
+defeat, and Kazuma flew back for
+a brief visit.<NOD
+The agency that sent us here was
+pleased with some parts of
+Momorin's report...<NOD But they're
+quite unhappy with the failure of
+our original mission.<NOD That's 
+bureaucracy for you.<NOD<CLRThe better news is that they're 
+making progress with returning
+Sue and Itoh to their humanity.<NOD
+We can hope that what magic can
+do, science can undo.<NOD<CLRDay 04/21.<NOD
+I broached the subject of Sue and
+Itoh with Jenka today.<NOD
+While I suspect she could help,
+she just got sour.<NOD She told me to
+talk to "the one who cast the
+silly curse in the first place."<NOD
+Alas, Misery is not the most
+cordial girl on this island.<NOD
+I do not think the topic would go
+over well with her.<NOD<CLRDay 10/13.<NOD
+Jenka seems to be under unusual
+stress lately.<NOD I wonder what is
+bothering her.<NOD<CLRDay 12/30.<NOD
+There was a significant earthquake
+today.<NOD Jenka's house has been cut
+off from the rest of Sand Zone.<NOD
+This is highly disturbing news.<NOD
+I am going to seek out Misery -
+she must know what's going on.<NOD<CLRThere are no more entries.<NOD<END
+#0200
+<FLJ0083:0202<EVE0201
+#0201
+<DNP0201<KEY<MSGThe table is covered with various
+mechanical scraps.<NOD Attached to
+one of them, is a note.<NOD<CLR<TUREnough power in old CORE robots to
+make more Booster model 0.8's.<NOD<CLR
+Not enough power to make 2.0.<NOD<MSG<SOU0022<GIT1013<IT+0013
+<CMU0010Got the =Booster v0.8=!<WAI0160<NOD<RMU<CLR
+Would you like to equip it?<YNJ0202<EQ+0001<FL+4013<EQ-0032<FL-4014<MSG
+Equipped the Booster v0.8.<NOD<CLO<EVE0202
+#0202
+<KEY<GIT0000<MSG
+The note continues...<NOD<CLR<TURTo self: Finish new power supply,
+or send Misery to get
+Energy Cell from Labyrinth.<NOD<CLROption 'B' not likely.<NOD
+Option 'A' will take time, but
+there's no motivation.<NOD<END
+#0220
+<FLJ0149:0222<ITJ0031:0221
+<KEY<MSG<FAC0024I've been studying these
+flowers and their basic
+effects for a while now.<NOD
+After you destroyed the
+core, they've become
+very difficult to grow.<NOD<CLRHowever, that's not to
+say they're impossible
+to cultivate.<NOD
+Still, the power in them
+is severely diminished.<NOD
+Whatever magic existed
+back then, they were
+fully dependent on them.<NOD<END
+#0221
+<KEY<MSG<FAC0024
+Aha!<NOD You got it!<NOD<CLR<FAC0000<GIT1031<IT-0031
+=Energy Cell= was taken.<NOD<CLR<GIT0000<FAC0024It will take me some time
+to complete the Booster.<NOD
+I intend to meet with you
+and Sue later today, so
+please be patient.<NOD<CLR
+...?<NOD<CLROh, no, I don't need your
+current Booster v0.8.<NOD I've
+made several in my spare
+time to amuse myself.<NOD<CLR
+Although...<NOD<CLO<FLJ2222:0223<MSG<FAC0024I had been working on an
+alternative power supply
+for creating v2.0's.<NOD
+Originally, I didn't want
+to bother Chaba or contend
+with Misery to get it.<NOD<CLRI had begun tinkering with
+it again after you left
+for the Labyrinth,<NOD
+and reconfigured it into
+something I'm sure will
+be a great deal of help.<NOD<CLR<FAC0000<GIT1011<IT+0011<EQ+2048
+<CMU0010Got the =Afterburner=!<WAI0160<NOD<RMU<CLO<GIT0000
+<FL+0149<FLJ0086:0000<EVE0223
+#0222
+<KEY<MSG<FAC0024I should have the Booster
+ready for you later today.<NOD
+In the meantime, seek out
+Genesis or Oblivion and
+do what you do best.<NOD<END
+#0223
+<FLJ0086:0224<MSG<FAC0024Misery may be willing to
+help you out as well, if
+you have a word with her.<NOD
+If I remember correctly,
+Jenka once showed her how
+to make her =Life Pot=...<NOD<END
+#0224
+<MSGAh, no, nevermind.<NOD
+It looks like you already
+have all the help you need.<NOD<END
+#0500
+<FLJ0144:0501<KEY<MSGA teleporter.<NOD
+It looks functional, but there
+is no power.<NOD<CLRUpon closer inspection, it looks
+like any keycard it might have
+housed has been carefully removed.<NOD<END
+#0501
+<KEY<MSGA teleporter.<NOD<SLP<NOD<END
+#6001
+<PRI<MSGDo you want to go to the
+Mimiga Village?<YNJ0000<CLO<FLJ0225:6011
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0014:0099:0004:0005
+#6002
+<PRI<MSGDo you want to go to
+Grasstown?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0025:0099:0013:0009
+#6003
+<END
+#6004
+<PRI<MSGDo you want to go to the
+Labyrinth?<YNJ0000<CLO<FLJ0145:6014<EVE6010
+#6005
+<PRI<MSGDo you want to go to the
+Aqueducts?<YNJ0000<CLO<FLJ0146:6015<EVE6010
+#6006
+<PRI<MSGDo you want to go to the
+Observatory?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0084:0099:0015:0005
+#6007
+<PRI<MSGDo you want to go to the
+Surface?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0092:0099:0013:0008
+#6010
+<PRI<MSG<TUR
+ERROR! PERMISSION NOT YET GRANTED!<NOD<END
+#6011
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0012:0099:0004:0005
+#6014
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0046:0099:0020:0005
+#6015
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0056:0099:0010:0010

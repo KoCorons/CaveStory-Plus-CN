@@ -1,0 +1,82 @@
+#0090
+<KEY<MNA
+<ANP0901:0005:0000
+<FAI0004<END
+#0100
+<FLJ1621:0105
+<KEY<FAO0004<TRA0010:0091:0225:0036
+#0105
+<PRI<MSGForgetting something?<NOD<END
+#0110
+<FLJ1621:0105
+<KEY<CNP0110:0000:0000<SOU0011
+<WAI0030<HMC<FAO0003<TRA0087:0090:0015:0042
+#0160
+<PRI<FLJ1621:0105
+<EVE0016
+#0500
+<KEY<DNP0902
+<DNP0901
+<CMU0000
+<CNP0501:0061:0000<CNP0503:0061:0000
+<ANP0501:0020:0000<ANP0503:0020:0000
+<WAI0000
+<CNP0000:0297:0130
+<CNP0501:0330:0000<CNP0502:0330:0000<CNP0503:0330:0000<CNP0504:0330:0000
+<CNP0505:0042:0002<CNP0506:0042:0000
+<FAI0002<WAI0100<MYD0002
+<KEY<MSGHey Mister?<NOD
+Our dad was kinda mean...<NOD<CLR
+and also dead now.<NOD<CLR...Would you uh...<NOD
+find somewhere for all of us?<NOD<FAO0004<WAI0100<CLO
+<CMU0033<WAI0050
+<SAT<MS2"King's Guide to Foster Parenting
+(Children Without Identification)"
+A CS mod by Enlight<WAI0600<CLR
+<MS2Special Thanks:
+Brayconn for theorizing about
+referencing NPC 0000 in TSC.<WAI0600<CLR
+<MS2Hina, DoubleThink, Txin, and
+TrashboxBobylev who were also in
+voicechat during the discovery.<WAI0600<CLR
+<MS2Pixel for making the INP command
+and making it so interactable NPCs
+override the shootable flag,<WAI0600<CLR
+<MS2and also for ANP only affecting
+the first entity it finds.<WAI0400<CLR
+<MS2Nicalis for not changing anything
+about how the game works under
+the hood.<WAI0600<CLR
+<MS2Mr. Marks for being the father
+that stepped up.<WAI0600<CLR
+<MS2 
+                 THE END<FMU<WAI9999<ESC
+#0501
+#0502
+#0503
+#0504
+#0900
+<DNP0900<FL+1620
+<FMU
+<FL+1621
+<KEY<MM0<WAS<MSG<FAC0007
+..I..I'm... Ss-sorr...<NOD<CLR
+..sorry....<NOD
+..we were desperate...<NOD<CLR
+Please don't hurt them,
+the foster children with
+no identification.<NOD
+He's become too powerful.<NOD
+He's trying to foster
+everyone and
+everything...<NOD<CLR
+...soon... he will....<NOD
+...foster the end...<NOD<CLO
+<ANP0901:0040:0000
+<WAI0100<CMU0039
+<CNP0902:0292:0000
+<END
+#0901
+<DNP0901
+<FL-1621
+<AM+0009:0001<END

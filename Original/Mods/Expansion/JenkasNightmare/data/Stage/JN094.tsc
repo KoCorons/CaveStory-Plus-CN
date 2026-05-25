@@ -1,0 +1,113 @@
+
+#0090
+<KEY<MNA<CMU0008<FAI0000<END
+#0091
+<KEY<MNA<CMU0008<FAI0001<END
+#0092
+<KEY<MNA<CMU0008<FAI0002<END
+#0093
+<KEY<MNA<CMU0008<FAI0003<END
+#0094
+<KEY<MNA<CMU0008<FAI0004<END
+#0100
+<PRI<FLJ0224:0101<SOU0011<DNP0100<FAO0004<TRA0093:0094:0176:0016
+#0101
+<MSG
+It won't open!<NOD<END
+#0102
+<PRI<FAO0004<TRA0093:0094:0170:0031
+#0150
+<FLJ0277:0154<FLJ0345:0151
+<KEY<MSG<FAC0028We were all played
+for fools.<NOD He attacked
+Jenka in her most
+vulnerable state...<NOD<FAC0026
+I would have never
+suspected...<NOD<CLR<FAC0028But to use my
+mother's magic to
+such an extent...!<NOD
+Just what kind of
+creature has that
+demon become!?<NOD<END
+#0151
+<KEY<MSG<FAC0026No sign of that boy
+or my mother...?<NOD<CLR<FAC0028Damn that Doctor!<NOD I want
+to make amends for the
+things I've done, but...!<NOD<CLO<FLJ0152:0152<FLJ0086:0153<EVE0152
+#0152
+<MSG<FAC0028
+......<NOD<CLR<FAC0026Here.<NOD I was saving this
+for her, but I fear I
+may not get the chance.<NOD<CLR<FAC0000<GIT1015<IT+0015<FL+2131
+<CMU0010Got a =Life Pot=!<WAI0160<NOD<GIT0000<CLO<RMU<EVE0153
+#0153
+<FL+0277<MSG<FAC0026There are things I've
+done that I wish I
+hadn't...<NOD And this
+helplessness I feel
+is a painful reminder.<NOD<CLRI do not know what
+became of those
+children of yours.<NOD
+They were delivered to
+The Doctor shortly
+after I found you...<NOD<CLRI know it's hardly
+an apology, but I, too,
+hope they're safe...<NOD<END
+#0154
+<KEY<MSG<FAC0026I'm...<NOD counting on
+you to see that my
+mother is safe.<NOD<END
+#0400
+<KEY<CMU0000<FON0400:0016<FL-0224<ANP0400:0500:0004
+<DNA0001<DNA0086<DNA0087<WAI0100<MS2<TUR
+Grraaar...!!<MYD0400<WAI0100<CLO<WAI0010<FAO0003<MSG
+Defeated Misery.<WAI0140<CLO<MYD0002<FOM0016<DNP0400
+<CMP0030:0011:0057<CMP0031:0011:0058<CMP0032:0011:0057
+<MOV0014:0011<MNP0150:0017:0011:0000<CNP0150:0082:0000<ANP0150:0050:0000
+<WAI0020<FAI0003<WAI0020<MSG<FAC0028<FL-0345
+Hahhh...<NOD<CLRTo be a slave to that
+demon again, even after
+Ballos is gone...<NOD
+I would have never
+expected him to have
+survived for this long.<NOD<CLO<FAC0000<WAI0020
+<ANP0150:0000:0000<WAI0020<MSG<FAC0026
+You...?<NOD<CLR<FAC0027I don't have time to
+argue with you about
+those children!<NOD<FAC0026
+I have to...!<NOD<FAC0028
+Urgh...!<NOD<CLO<FAC0000<WAI0010<ANP0150:0050:0000<WAI0040
+<MSG<FAC0004...I don't have time for
+that either, right now.<NOD<CLR
+What happened here?<NOD<CLO<FAC0000<WAI0010<ANP0150:0000:0000<WAI0040
+<MSG<FAC0026We were caught off guard.<NOD
+That's all I recall
+before he turned me
+into that...<NOD<FAC0028 thing.<NOD<CLR<FAC0026He might have tossed
+Quote off the island
+for all we know.<NOD
+And my mother...<NOD<FAC0028
+Wherever she is, I'm
+sure that demon is
+using her magic...<NOD<CLR<FAC0002
+......<NOD<CLO<FAC0000<WAI0064<MSG<FAC0026Hmph.<NOD You two sure
+are a peculiar pair.<NOD<CLRThere's a chance he
+and my mother are
+still at her house.<NOD
+There's a passage ahead
+that should lead you
+deeper into Sand Zone.<NOD<CLR<FAC0027Go on ahead, but don't
+expect any miracles!<NOD<CMU0008
+<CNP0016:0016:0002<CNP0017:0017:0002<END
+#0410
+<DNP0410<FL-0223<FLJ0223:0411<CNP0400:0263:0000<ANP0400:0500:0004
+<CMP0030:0011:0011<CMP0031:0011:0011<CMP0032:0011:0011<END
+#0411
+<CMP0030:0011:0057<CMP0031:0011:0058<CMP0032:0011:0057<END
+#0500
+<KEY<DNP0500<CNP0400:0267:0004<CMU0000<MYD0002<WAI0020<MS2<TUR
+Grrr...<WAI0100<CLO<ANP0400:0007:0004<WAI0040
+<ANP0401:0100:0400<FON0401:0016<WAI0049<FON0401:0016
+<FL+0224<WAI0050<BSL0400<CMU0007<END
+#1100
+<SNP0259:0001:0001:0000<EVE0041

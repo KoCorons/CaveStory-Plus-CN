@@ -1,0 +1,12 @@
+{
+  "parts": "Cave",
+  "map": "JN061",
+  "bkType": 4,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Cemet",
+  "boss": "Pignon",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Pignon Hideout"
+}

@@ -1,0 +1,886 @@
+#0000
+<FRE<WAI9999<END
+#1000
+<MSG<TURNo weapon.<WAI9999<END
+#1001
+<FLJ2222:1021
+<MSG<TUR- Snake -
+Passes through walls and enemies.
+It will recharge ammo while active.<WAI9999<END
+#1002
+<MSG<TUR- Polar Star -
+The most basic gun.
+It bears the mark of Polaris.<WAI9999<END
+#1003
+<MSG<TUR- Fireball -
+Bounces along the floor.
+Rather powerful on gentle slopes.<WAI9999<END
+#1004
+<MSG<TUR- Machine Gun -
+A powerful, rapid-fire gun.
+Automatically recharges over time.<WAI9999<END
+#1005
+<MSG<TUR- Missile Launcher -
+Wide range and powerful damage.
+However, its ammunition is limited.<WAI9999<END
+#1007
+<MSG<TUR- Bubbler -
+Creates a shield at full power.
+How you use it is up to you.<WAI9999<END
+#1009
+<MSG<TUR- Excalibur -
+A single-shot, high-damage weapon.
+Exalted blade of the Mimiga.<WAI9999<END
+#1010
+<MSG<TUR- Super Missile -
+An exhilarating sort of missile.
+Its acceleration is unmatched.<WAI9999<END
+#1012
+<MSG<TUR- Nemesis -
+Lightning of the Goddess.
+A gift for veteran players.<WAI9999<END
+#1013
+<ITJ0018:1022
+<MSG<TUR- Spur -
+Hold down the button to fire a laser.
+It takes a little while to charge.<WAI9999<END
+#1021
+<MSG<TUR- Hydra -
+Passes through walls and enemies.
+Its true power needs no ammunition.<WAI9999<END
+#1022
+<MSG<TUR- Spur -
+Hold down the button to fire a laser.
+It charges with incredible speed.<WAI9999<END
+#5000
+<MSG<TURNo item.<WAI9999<END
+#5001
+<MSG<TUR(Life Capsule)<WAI9999<END
+#5002
+<MSG<TURMap System<WAI9999<END
+#5003
+<MSG<TURLittle Man<WAI9999<END
+#5004
+<MSG<TURSnake Capsule<WAI9999<END
+#5005
+<MSG<TURPolar Star Capsule<WAI9999<END
+#5006
+<MSG<TURMachine Gun Capsule<WAI9999<END
+#5007
+<MSG<TURMissile Launcher Capsule<WAI9999<END
+#5008
+<MSG<TURBubbler Capsule<WAI9999<END
+#5009
+<MSG<TURTurbocharge<WAI9999<END
+#5010
+<MSG<TURSuper Missile Capsule<WAI9999<END
+#5011
+<MSG<TURAfterburner<WAI9999<END
+#5012
+<MSG<TURSpur Capsule<WAI9999<END
+#5013
+<MSG<TURBooster v0.8<WAI9999<END
+#5014
+<MSG<TURBooster v2.0<WAI9999<END
+#5015
+<MSG<TURLife Pot<WAI9999<END
+#5016
+<MSG<TURWhimsical Star<WAI9999<END
+#5017
+<MSG<TURArms Barrier<WAI9999<END
+#5018
+<MSG<TURUrsa Minor<WAI9999<END
+#5019
+<MSG<TURCurly's Air Tank<WAI9999<END
+#5020
+<MSG<TURPignon's Note<WAI9999<END
+#5021
+<MSG<TURGenerator Key<WAI9999<END
+#5022
+<MSG<TURGrasstown Data Card<WAI9999<END
+#5023
+<MSG<TURSilver Locket<WAI9999<END
+#5024
+<MSG<TURDog Whistle<WAI9999<END
+#5025
+<MSG<TURSand Zone Data Card<WAI9999<END
+#5026
+<MSG<TURRemote Control<WAI9999<END
+#5027
+<MSG<TURLabyrinth Data Card<WAI9999<END
+#5028
+<MSG<TURChaba's Key<WAI9999<END
+#5029
+<MSG<TURCritter Juice<WAI9999<END
+#5030
+<MSG<TURCatseye Medal<WAI9999<END
+#5031
+<MSG<TUREnergy Cell<WAI9999<END
+#5032
+<MSG<TURMunitions Clip<WAI9999<END
+#5033
+<MSG<TURRosehips<WAI9999<END
+#5034
+<MSG<TURChamomile<WAI9999<END
+#5035
+<MSG<TURPrickly Ash Bark<WAI9999<END
+#5036
+<MSG<TURAqueduct Data Card<WAI9999<END
+#5037
+<MSG<TURIgnition Key<WAI9999<END
+#5038
+<MSG<TURNikumaru Counter<WAI9999<END
+#5039
+<MSG<TURIron Bond<WAI9999<END
+#5040
+<MSG<TURMisery's Errand<WAI9999<END
+#5041
+<MSG<TURCrescent Medal<WAI9999<END
+#5042
+<MSG<TURKero Medal<WAI9999<END
+#5043
+<MSG<TURMagic Journal<WAI9999<END
+#5044
+<MSG<TURPointed Glasses<WAI9999<END
+#5045
+<IT-0045<IT+0041<EVE5000
+#5100
+<KEY<MSGI'm guessing getting back
+to my folks now is out of the
+question.<NOD Dang, so this is how
+it ends, huh?<NOD<FL+4500<FRE<EVE5998
+#5101
+<KEY<MSG
+Huh?<NOD What?<NOD<CLR
+You!?<NOD<CLRWhat the heck am I doing
+in YOUR pocket again!?<NOD Last
+time I traveled with YOU,
+I was abducted from my family!<NOD<CLR
+Jeez.<NOD I just can't catch a break.<NOD<FL+4501<FRE<EVE5998
+#5102
+<KEY<MSGUhh...<NOD You know, on second
+thought, I think I'm better off
+in your pocket than not.<NOD Ha-ha.<NOD<CLR
+Well, uhm!<NOD Lead the way!<NOD<FL+4502<FRE<EVE5998
+#5103
+<KEY<MSGJeez, what?<NOD You've resorted
+to stealing other people's
+things too now!?<NOD<CLRCome on buddy, put it
+back!<NOD Right where you found it!<NOD
+Over there, next to that...<NOD
+Giant...<NOD ...<NOD<CLR
+On second thought, you can keep it.<NOD<FL+4503<FRE<EVE5998
+#5104
+<KEY<MSGHuh.<NOD You're actually
+pretty good with that weapon.<NOD
+Have you used it before?<NOD<FL+4504<FRE<EVE5998
+#5105
+<KEY<MSGOkay, okay!<NOD Remain CALM!<NOD
+First rule of fighting giant evil
+killer mimigas...<NOD
+STOP LOOKING AT YOUR POCKETS!!<NOD<FL+4505<FRE<EVE5998
+#5106
+<KEY<MSGHuh.<NOD That girl's rather plucky.<NOD
+So, what, was that all her
+nightmare?<NOD
+Is she some sorta witch...?<NOD
+Kinda cute for a witch, though...<NOD
+In a killer-rabbit sorta way.<NOD<FL+4506<FRE<EVE5998
+#5107
+<KEY<MSGHey, hey, are YOU really gonna
+let that half-pint Mimiga scrub
+push you around?<NOD<CLRWhat!?<NOD I'm no half-pint!<NOD
+I'm a three-quarter pint!<NOD<FL+4507<FRE<EVE5998
+#5108
+<KEY<MSGJeez, THAT guy gives me the
+creeps.<NOD And he doesn't look
+anything LIKE Balrog.<NOD People
+should really get their facts
+straight before pointing fingers.<NOD<FL+4508<FRE<EVE5998
+#5109
+<KEY<MSGOkay, Okay!<NOD Stay CALM!<NOD
+Breathe in!<NOD Breathe out!<NOD<CLR
+Wait, what do you mean robots
+don't breathe!?<NOD OH JEEZ LOOK OUT,
+IT'S A GIANT SERPENT TOASTER!<NOD<FL+4509<FRE<EVE5998
+#5110
+<KEY<MSGMy life just flashed before
+my eyes...<NOD How the heck did we
+survive that fall, anyway?<NOD<CLRWhat!?<NOD You dropped your weapons!?<NOD
+Well that's just great.<NOD
+Now what do we do?<NOD<FL+4510<FRE<EVE5998
+#5111
+<KEY<MSGWho the heck left an old weapon
+in a shack under the island?<NOD
+And for that matter, who BUILT a
+shack under the island?<NOD<CLRI mean, MY house was on the SIDE
+of the island, sure...<NOD
+But UNDER it?<NOD That's just nuts!<NOD<FL+4511<FRE<EVE5998
+#5112
+<KEY<MSGHey this place brings back
+memories...<NOD Kinda big for my
+tastes, though.<NOD And there's a much
+more, uh, diverse selection of
+monsters than just Pignons.<NOD
+Hey, maybe I'll bring my son here
+sometime...<NOD<FL+4512<FRE<EVE5998
+#5113
+<KEY<MSGOh jeez, did it just get hotter?<NOD
+It's bad enough getting sand in
+your suit, but this is ridiculous!<NOD<FL+4513<FRE<EVE5998
+#5114
+<KEY<MSG......<NOD
+Oh, are they gone?<NOD<CLRBuncha noisy beasts!<NOD Gotta play
+dead or they'll play with YOU!<NOD
+Or just me, I guess.<NOD Hmm...<NOD<FL+4514<FRE<EVE5998
+#5115
+<KEY<MSGOh, hey, you can fly now?<NOD
+Boy, science is really somethin'.<NOD
+First you get to shoot fireballs,
+next you get to fly around...<NOD
+What's next, a lightning gun!?<NOD<CLR
+...What?<NOD<FL+4515<FRE<EVE5998
+#5116
+<KEY<MSGWhew, whatta woman!<NOD
+If I were a little younger...<NOD
+And taller...<NOD
+And good-looking...<NOD<CLR
+*Sigh*...<NOD<FL+4516<FRE<EVE5998
+#5117
+<KEY<MSGI really wish you'd stop asking
+me for advice when there's a giant
+robot trying to kill us!<NOD
+RUN!<NOD JUMP!<NOD SHOOT!<NOD
+That's all I got!!<NOD<FL+4517<FRE<EVE5998
+#5118
+<KEY<MSGYou friends with that guy?<NOD
+What's his name, "Box King" or
+somethin'?<NOD<CLRHuh?<NOD "Balrog"?<NOD
+Eh, I was close, right?<NOD<FL+4518<FRE<EVE5998
+#5119
+<KEY<MSGPhew...<NOD
+Okay, I'm good.<NOD Everything's
+accounted for.<NOD I just wish I
+were a little dryer than now.<NOD<FL+4519<FRE<EVE5998
+#5120
+<KEY<MSGSo Chaba's a giant cockroach,
+huh?<NOD Alright, I get it, this is
+a big 'ol prank you guys put
+together.<NOD Let's all get a chuckle
+at Mr. Little, right?<NOD Ha-ha.<NOD<CLR
+...<NOD<CLRWait, he really IS a giant
+cockroach!?<NOD That's just WEIRD!<NOD<FL+4520<FRE<EVE5998
+#5121
+<KEY<MSGMan, that creap Suto scares
+the bejesus outta me!<NOD What's
+his deal, anyway?<NOD Does he
+hate losing that much?<NOD<FL+4521<FRE<EVE5998
+#5122
+<KEY<MSGSo you gotta pretend to fight
+a cat on a giant multi-directional
+tank down a long corridor?<NOD
+...<NOD Am I the only one who thinks
+the Labyrinth is friggin' NUTS!?<NOD<FL+4522<FRE<EVE5998
+#5123
+<KEY<MSGOKAY!<NOD
+GIANT COCKROACHES WEARING BRIGHT
+RED ARMOUR, THROWING TALONS
+AT YOU LEFT AND RIGHT!<NOD<CLR
+Yeah this place is nuts.<NOD
+Wake me when it's over.<NOD<FL+4523<FRE<EVE5998
+#5124
+<KEY<MSGHey bud.<NOD I never did tell you that
+I own a cottage, did I?<NOD
+You can find it somewhere near
+the bottom of the conduit.<NOD
+My folks'll probably be there,
+so bring me down whenever you
+get a chance, alright?<NOD<FL+4524<FRE<EVE5998
+#5994
+<KEY<MSG
+Hey, hey, hold up.<NOD Did he
+just break the fourth wall!?<NOD
+...<NOD What do you mean 'I am too'??<NOD<FL+2264<FRE<EVE5998
+#5995
+<KEY<MSGI wonder if this kid starts to see
+things after having to work so
+much in this sweltering heat?<NOD<FL+2263<FRE<EVE5998
+#5996
+<KEY<MSGDo you think this kid stops
+long enough to take a breath?<NOD Or
+is this mod that important to him?<NOD<FL+2262<FRE<EVE5998
+#5997
+<KEY<MSGOh jeez, look at this nerd.<NOD
+Look at him!<NOD His eyes are glued
+to the screen!<NOD<CLRWhat is he even doing
+on there anyway?<NOD Is he...<NOD Watching
+a Cave Story Let's Play!?<NOD<FL+2261<FRE<EVE5998
+#5998
+<MSG<TURNo use standing around looking
+at your pockets! Come on, let's get
+this show on the road!<WAI9999<END
+#5999
+<FLJ4524:5998<FLJ0169:5124
+<FLJ0120:5998<FLJ4523:5998<FLJ0117:5123
+<FLJ4522:5998<FLJ0100:5122
+<FLJ4521:5998<FLJ0098:5121<FLJ0097:5121
+<FLJ4520:5998<FLJ0113:5120
+<FLJ4519:5998<FLJ0150:5119
+<FLJ4518:5998<FLJ0090:5118
+<FLJ4517:5998<FLJ0389:5117
+<FLJ4516:5998<FLJ0085:5116
+<FLJ4515:5998<FLJ0083:5115
+<FLJ4514:5998<FLJ0072:5114
+<FLJ4513:5998<FLJ0084:5113
+<FLJ4512:5998<FLJ0361:5112
+<FLJ4511:5998<FLJ0060:5111
+<FLJ4510:5998<FLJ0043:5110
+<FLJ4509:5998<FLJ0058:5109
+<FLJ4508:5998<FLJ0045:5108
+<FLJ4507:5998<FLJ0028:5107
+<FLJ4506:5998<FLJ0016:5106
+<FLJ4505:5998<FLJ0015:5105
+<FLJ4504:5998<FLJ0004:5104
+<FLJ4503:5998<FLJ0003:5103
+<FLJ4502:5998<FLJ0002:5102
+<FLJ4501:5998<FLJ0001:5101
+<EVE5998
+#6000
+<MSG<TURNo item.<WAI9999<END
+#6001
+<MSG<TURA life capsule.
+If you can read this, something
+went horribly wrong.<WAI9999<END
+#6002
+<FLJ0382:7002<FLJ0402:7002<PRI<MLP<END
+#6003
+<FLJ2264:5999<FLJ2257:5994
+<FLJ2263:5999<FLJ2255:5995
+<FLJ2262:5999<FLJ2253:5996
+<FLJ2261:5999<FLJ2251:5997
+<FLJ4500:5999<FLJ1192:5100
+<EVE5999
+#6004
+<MSG<TURA strange capsule with a floating
+8-bit silhouette of a whispy orange thing.
+You can't seem to open it yet.<WAI9999<END
+#6005
+<MSG<TURA strange capsule with a floating
+8-bit silhouette of a blue pistol. 
+You can't seem to open it yet.<WAI9999<END
+#6006
+<FLJ0343:6046
+<MSG<TURA strange capsule with a floating
+8-bit silhouette of a long firearm.
+You can't seem to open it yet.<WAI9999<END
+#6007
+<MSG<TURA strange capsule with a floating
+8-bit silhouette of a large blue missile.
+You can't seem to open it yet.<WAI9999<END
+#6008
+<MSG<TURA strange capsule with a floating
+8-bit silhouette of a pair of bubbles.
+You can't seem to open it yet.<WAI9999<END
+#6009
+<MSG<TURFound inside a strange capsule.
+It triples the rate at which the 
+Machine Gun recharges ammo.<WAI9999<END
+#6010
+<MSG<TURA strange capsule with a floating
+8-bit silhouette of a sleek orange missile.
+You can't seem to open it yet.<WAI9999<END
+#6011
+<AMJ0001:6050
+<MSG<TURGiven to you by Booster.
+It will increase the rate at which
+a certain weapon recharges...<WAI9999<END
+#6012
+<MSG<TURA strange capsule with a floating
+8-bit silhouette of a glowing rectangle.
+You can't seem to open it yet.<WAI9999<END
+#6013
+<FLJ4013:7013
+<KEY<MSGPush the jump button again in
+midair to fly even higher.<NOD<CLR
+Do you want to equip it?<YNJ0000<EQ+0001<FL+4013<EQ-0032<FL-4014<MSG
+Equipped the Booster v0.8.<NOD<WAI0003<FRE<EVE5013
+#6014
+<FLJ4014:7014
+<KEY<MSGPush the jump button in midair and
+you can move in any direction.<NOD<CLR
+Do you want to equip it?<YNJ0000<EQ+0032<FL+4014<EQ-0001<FL-4013<MSG
+Equipped the Booster v2.0.<NOD<WAI0003<FRE<EVE5014
+#6015
+<KEY<MSGThis will restore your life,
+but only once. Will you use it?<YNJ0000<LI+1000<SOU0020<IT-0015<MSG
+Life restored.<FRE<WAI9999<END
+#6016
+<KEY<MSGA little trinket found in the
+trash heap in the Revolutionarium.
+A whimsical star.<NOD<FLJ4016:7016<CLR
+Would you like to equip it?<YNJ0000<EQ+0128<FL+4016<MSG
+Equipped the Whimsical Star.<NOD<WAI0003<FRE<EVE5016
+#6017
+<MSG<TURWhen you take damage, the amount
+of weapon energy lost will be halved.<WAI9999<END
+#6018
+<MSG<TURDoubles the rate at which the Spur
+charges. It bears the mark of Polaris.<WAI9999<END
+#6019
+<FLJ0343:6048
+<MSG<TURYou can breathe underwater with this.
+Curly was scuba diving with it just
+before you were abducted.<WAI9999<END
+#6020
+<MSG<TURThe Gunsmith's masterwork is mine.
+If you want it back, I want a rematch.
+               - King Pignon<WAI9999<END
+#6021
+<MSG<TURA key to the generator room in Grasstown.
+Given to you by Jack, so you could make
+your way to the old storage facility.<WAI9999<END
+#6022
+<MSG<TURA small data card for use in storing
+backup teleporter data. Sue needs this.
+Small font on the rear-end says "GrassTown".<WAI9999<END
+#6023
+<MSG<TURA silver locket in the shape of a fish.
+From the condition it's in, it looks
+like it's been treasured for years...<WAI9999<END
+#6024
+<MPJ7024
+<MSG<TURA small dog whistle given
+to you by one of Jenka's puppies.
+It has no use outside of Sand Zone.<WAI9999<END
+#6025
+<MSG<TURA small data card for use in storing
+backup teleporter data. Sue needs this.
+Small font on the rear-end says "Sand Zone".<WAI9999<END
+#6026
+<MSG<TURA little remote control given to you
+by Malco. Has the power to send a short-
+range signal to open shutters.<WAI9999<END
+#6027
+<MSG<TURA small data card for use in storing
+backup teleporter data. Sue needs this.
+Small font on the rear-end says "Labyrinth".<WAI9999<END
+#6028
+<MSG<TURA small white key given to you
+by Chaba. It opens up the maze leading
+to a cold-storage warehouse of sorts.<WAI9999<END
+#6029
+<MSG<TURA viscous white fluid, said to be
+milked from the critters on the island.
+Exactly as disgusting as it sounds.<WAI9999<END
+#6030
+<MSG<TURA strange little medal with a
+paw print engraving. "Awarded" to you
+for defeating Monster X.<WAI9999<END
+#6031
+<MSG<TURAn advanced battery of sorts that
+professor Booster wants, to finish
+the Booster v2.0.<WAI9999<END
+#6032
+<KEY<MSGThis will restore your ammunition,
+but only once. Will you use it?<YNJ0000<AE+<SOU0042<IT-0032<MSG
+Ammunition restored.<FRE<WAI9999<END
+#6033
+<MSG<TURA plump rosehip that you found
+in the conduit near Mimiga Village.
+For use in various medical brews.<WAI9999<END
+#6034
+<MSG<TURA small white flower found
+in the Yamashita Farm.
+For use in various medical brews.<WAI9999<END
+#6035
+<MSG<TURA thistley tree bark found
+in the fireplace in the Town Hall.
+For use in various medical brews.<WAI9999<END
+#6036
+<MSG<TURA small data card for use in storing
+backup teleporter data. Sue needs this.
+Small font on the rear-end says "Aqueduct".<WAI9999<END
+#6037
+<FLJ0343:6047
+<MSG<TURA tiny key for use in starting the
+rockets Booster set up. You can't run
+them without it, so hold on tight!<WAI9999<END
+#6038
+<MSG<TURA fully automatic stopwatch.
+You can't see any buttons.<WAI9999<END
+#6039
+<FLJ0343:6049
+<MSG<TURYour tie to Curly Brace, the only
+warrior you would trust your back to.<WAI9999<END
+#6040
+<MSG<TURRosehips, Chamomile, and Prickly Ash Bark.
+Look for a book in Mimiga Village.
+Find them and I'll make you a Life Pot.<WAI9999<END
+#6041
+<MSG<TURA small medal with a crescent moon
+carved into it. Found in the hidden
+room on the Underside.<WAI9999<END
+#6042
+<MSG<TURA small medal with a silhouette of
+a frog carved into it. Awarded to you
+for doing a lot for so very little.<WAI9999<END
+#6043
+<FLJ0343:6170
+<FLJ0360:6180<FLJ0372:6188<FLJ0028:6100
+<FLJ0016:6103<FLJ0018:6102<FLJ0009:6101
+<MSG<TURNeed to look for Curly. No sign of
+her anywhere. Perhaps I should ask
+around for any sign of her?<WAI9999<END
+#6044
+<FLJ7969:7044
+<KEY<MSGA pair of orange glasses found in
+the Super Secret Room. You feel a
+strange energy coming from them.<NOD<CLR
+Do you want to wear them?<YNJ0000<FL-7968<FL+7969<EQ+0512<MSG
+Put on the Pointed Glasses.<NOD<WAI0003<FRE<EVE5044
+#6045
+<EVE6000
+#6046
+<KEY<MSG
+Do you want to open it?<YNJ0000<CLR
+.....<NOD<CLR
+..........<NOD<CLO<SOU0022<GIT0000<IT-0006<MSG<FLJ7969:6066<FAC0001
+Ahah!<NOD It opened!<NOD<FAC0000<GIT1009<IT+0009<EQ+0512
+<CMU0010Got the =Turbocharge=!<WAI0180<NOD<CLR<TUR<FRE<WAI9999<END
+#6047
+<MSG<TURA tiny key for use in starting the
+rockets you helped set up. Booster gave
+Quote his own key too, not long ago...<WAI9999<END
+#6048
+<MSG<TURYou can breathe underwater with this.
+You were scuba diving with it just
+before you were abducted.<WAI9999<END
+#6049
+<MSG<TURYour tie to Quote, the only warrior
+you would trust your back to.<WAI9999<END
+#6050
+<MSG<TURGiven to you by Booster.
+It triples the rate at which the
+Snake recharges ammo.<WAI9999<END
+#6066
+<MSG<FAC0040
+Ahah!<NOD It opened!<NOD<FAC0000<GIT1009<IT+0009<EQ+0512
+<CMU0010Got the =Turbocharge=!<WAI0180<NOD<CLR<TUR<FRE<WAI9999<END
+#6100
+<FLJ0117:6138<FLJ0028:6110<EVE6110
+#6101
+<MSG<TURRan into Mahin. He suggested asking
+Kanpachi, at the Town Hall, about
+Curly.<WAI9999<END
+#6102
+<MSG<TURKanpachi suggested heading to
+Grasstown. To do that, I need to go
+to the Pipeworks and fix something.<WAI9999<END
+#6103
+<FLJ0021:6104
+<MSG<TURSue's on the island too, now.
+I wonder where she ran off to?
+I should look around.<WAI9999<END
+#6104
+<MSG<TURSue wants me to help fix the
+teleporter system around the island.
+I guess I may as well help her out...<WAI9999<END
+#6110
+<FLJ0043:6120<ITJ0021:6116<FLJ0045:6111
+<MSG<TURJack relayed some information
+from Sue. I need to check out the
+teleporter room above the tower.<WAI9999<END
+#6111
+<FLJ0047:6112
+<MSG<TURSomething that called itself
+"Suto" did something to the
+teleporter. I should let Jack know.<WAI9999<END
+#6112
+<MSG<TURSomething that called itself
+"Suto" took the data card from the
+teleporter. I should let Jack know.<WAI9999<END
+#6113
+<FLJ0047:6114
+<MSG<TURJack gave me the key to the
+Generator Room. It's time to track
+down "Suto" and preserve the peace.<WAI9999<END
+#6114
+<MSG<TURJack gave me the key to the
+Generator Room. It's time to find
+"Suto" and get the data card back.<WAI9999<END
+#6115
+<MSG<TURIt looks like the generator isn't
+putting out enough power. There's an
+auxiliary terminal above it, somewhere...<WAI9999<END
+#6116
+<FLJ0059:6117<FLJ0042:6113<FLJ0034:6115<MSG<TURWith the auxiliary power activated,
+there's nothing stopping me from
+defeating Suto, now.<WAI9999<END
+#6117
+<MSG<TURNow I just need to bring the data card
+back to Sue. When the teleporters are
+back, finding Curly should be simple.<WAI9999<END
+#6119
+<MSG<TURI've found a cave under the island.
+The walls seem unstable, and there's
+sand everywhere...<WAI9999<END
+#6120
+<FLJ0359:6121<FLJ0358:6119
+<MSG<TURI've fallen somewhere, and dropped my
+weapons in surprise...
+I'll have to find a way back up.<WAI9999<END
+#6121
+<FLJ0072:6122
+<MSG<TURIt looks like that sandy area led up
+into the Sand Zone. I should have a
+look around.<WAI9999<END
+#6122
+<FLJ0085:6127<ITJ0013:6125<FLJ0363:6124<FLJ0073:6123
+<MSG<TURI need to find Booster and Misery to
+help Jenka. I'm not entirely sure how
+the teleporters work, though...<WAI9999<END
+#6123
+<MSG<TURI need to find Booster and Misery
+to help Jenka... Red flowers mean
+Gaudi and Mimiga eat each other?<WAI9999<END
+#6124
+<MSG<TURI need to find Booster and Misery
+to help Jenka... Good puppies don't
+bark? Red Flowers = Gaudi & Mimiga?<WAI9999<END
+#6125
+<FLJ0364:6126
+<MSG<TURFound Booster's lab, but he doesn't
+seem to be here. Maybe there's a
+different teleporter pattern?<WAI9999<END
+#6126
+<MSG<TURFound Booster's workshop, but he
+doesn't seem to be here... Two
+teleporters will change the third?<WAI9999<END
+#6127
+<FLJ0365:6130<FLJ0090:6129
+<MSG<TURI need an energy cell for Booster,
+found somewhere in the Labyrinth...
+Set Gaudi to Flower, and take Mimiga.<WAI9999<END
+#6129
+<MSG<TURIt looks like Balrog got himself
+buried in a pool of sand. I should
+keep an eye on him, for now.<WAI9999<END
+#6130
+<FLJ0117:6140<FLJ0100:6138<FLJ0101:6139<FLJ0093:6131<FLJ0113:6132
+<MSG<TURI found, and was separated from
+Balrog again. It looks like I'm in
+the Labyrinth, now...<WAI9999<END
+#6131
+<FLJ0113:6133
+<MSG<TURMonster X is back.
+He wants a rematch, but needs me
+to find some Critter Juice, first...<WAI9999<END
+#6132
+<FLJ0095:6135<FLJ0112:6134
+<MSG<TURChaba doesn't have the energy cell
+I'm looking for. And he says that
+something broke into his storage...<WAI9999<END
+#6133
+<FLJ0098:6137<FLJ0097:6136<FLJ0095:6135<FLJ0112:6134
+<MSG<TURChaba doesn't have the energy cell
+I'm looking for. If I could get the
+Critter Juice from his storage...<WAI9999<END
+#6134
+<MSG<TURCurly made it back to the village
+in one piece. For now, though, I need
+to find Chaba's storage...<WAI9999<END
+#6135
+<MSG<TURRound and round the clockhand spins,
+new exits shown where time begins.
+But in the end, the clockhand stops...<WAI9999<END
+#6136
+<MSG<TURIt looks like Suto was the one
+who broke into Chaba's storage...<WAI9999<END
+#6137
+<MSG<TURIt looks like Suto was the one
+who broke into Chaba's storage...
+I have some Critter Juice, now.<WAI9999<END
+#6138
+<FLJ0117:6140
+<MSG<TURMonster X is ready for his rematch,
+now... Should I fight him head-on?
+Or just ride his machine to the end?<WAI9999<END
+#6139
+<FLJ0117:6140
+<MSG<TURI found the Revolutionarium after
+a bumpy welcome. Is the energy cell
+in here somewhere...?<WAI9999<END
+#6140
+<FLJ0203:6150<FLJ0371:6149<FLJ0370:6148<FLJ0369:6147
+<FLJ0368:6145<FLJ0367:6144<FLJ0169:6146
+<FLJ0149:6143<FLJ0141:6142<FLJ0127:6141<FLJ0130:6141
+<MSG<TURI've found the energy cell. Should I
+take it to Booster immediately? Or are
+Genesis and Oblivion more important?<WAI9999<END
+#6141
+<MSG<TURCurly's made herself at home in
+the Mimiga village, it seems. I'll
+have to check up on her, sometime...<WAI9999<END
+#6142
+<MSG<TURCurly's made herself at home in
+the village. Now, should I see Booster?
+Or find Genesis and Oblivion first?<WAI9999<END
+#6143
+<MSG<TURBooster gave me a powerful item,
+the "Afterburner". It might help
+out in the fight ahead...<WAI9999<END
+#6144
+<MSG<TURSo, this is the Aqueduct...
+Is this Genesis's domain...?<WAI9999<END
+#6145
+<MSG<TURSpeleothem (noun):
+A cave formation formed by the
+deposition of minerals from water.<WAI9999<END
+#6146
+<MSG<TURI've defeated one of the two beasts
+formed from Jenka's nightmares...
+Booster gave me the Booster v2.0 as well.<WAI9999<END
+#6147
+<MSG<TURSo, this is the Abandoned Facility...
+Is this Oblivion's domain...?<WAI9999<END
+#6148
+<MSG<TURIt's hard to move around in here...
+What is this place?<WAI9999<END
+#6149
+<MSG<TUR
+......<WAI9999<END
+#6150
+<FLJ0219:6160
+<FLJ0377:6157<FLJ0376:6156<FLJ0375:6155<FLJ0374:6154<FLJ0373:6153
+<FLJ0212:6152<FLJ0204:6151
+<MSG<TURI've defeated both Genesis and
+Oblivion, now...<WAI9999<END
+#6151
+<MSG<TURI've defeated both Genesis and
+Oblivion now, and found Balrog again.
+Looks like he needs to dry off, first.<WAI9999<END
+#6152
+<MSG<TURI've defeated both Genesis and
+Oblivion, and I need to make my way
+to the observatory.<WAI9999<END
+#6153
+<MSG<TURThis looks like a new area...<WAI9999<END
+#6154
+<MSG<TURThis looks like a new area...
+Some strange magic is at work here,
+as if it's... 'playing' with me.<WAI9999<END
+#6155
+<MSG<TURIt seems like I made it to the
+exit... What lies between here and
+the observatory, I wonder?<WAI9999<END
+#6156
+<MSG<TUREven with Ballos gone, these
+angels seem to make a home in this
+sacred area...<WAI9999<END
+#6157
+<MSG<TURI've made it to the end.
+The observatory should be nearby...<WAI9999<END
+#6160
+<FLJ0226:6162<FLJ0221:6161<FLJ0378:6149
+<MSG<TURCurly and Balrog made it here.
+But our mission isn't over yet.
+I need to reach the balcony...<WAI9999<END
+#6161
+<MSG<TURIt looks like Genesis and
+Oblivion were still clinging to life.
+Is the nightmare finally over, now?<WAI9999<END
+#6162
+<MSG<TURSue is safe with her mother, and
+the island is no longer in any danger.
+Is it time to leave? ...Is Jenka okay?<WAI9999<END
+#6170
+<FLJ0288:6174<SKJ0028:6173
+<FLJ0287:6172<FLJ0386:6171
+<MSG<TURQuote has gone missing...
+It's up to me to find him now, and
+confront this new threat...<WAI9999<END
+#6171
+<MSG<TURBooster and Itoh prepared an old
+rocket for me to reach the surface.
+This is it... The last cave...<WAI9999<END
+#6172
+<MSG<TURI've done something unspeakable...
+The Doctor will pay for his misdeeds.<WAI9999<END
+#6173
+<MSG<TUR
+The Doctor will pay for his misdeeds!<WAI9999<END
+#6174
+<FLJ1200:6176<FLJ0310:6175<SKJ0030:6149
+<MSG<TURFirst the Colons, and now Quote...
+You won't escape, Date!
+I'm coming for you!<WAI9999<END
+#6175
+<MSG<TURThe Colons, Quote, our father's son...!
+What you've done is unforgivable!<WAI9999<END
+#6176
+<MSG<TUR
+I won't let you hurt anyone else!<WAI9999<END
+#6180
+<FLJ0366:6187<FLJ0362:6185<FLJ0069:6182
+<FLJ0065:6184<FLJ0361:6182<EVE6181
+#6181
+<MSG<TURThere's another cavern hidden away
+here... Should I go deeper into it?
+Or should I find another way up?<WAI9999<END
+#6182
+<FLJ0117:6183<MSG<TURThere's some sort of graveyard
+hidden away here... I don't seem to
+have a choice but to proceed.<WAI9999<END
+#6183
+<MSG<TURThere's some sort of graveyard
+hidden away here...<WAI9999<END
+#6184
+<MSG<TURThere's some sort of graveyard
+hidden away here... If I pray to the
+mimiga from left to right...<WAI9999<END
+#6185
+<FLJ0385:6186
+<MSG<TURSome sort of maze...?<WAI9999<END
+#6186
+<MSG<TURSome sort of maze...? Every two
+rooms I move, it chases me by one...
+And the chains turn into walls...<WAI9999<END
+#6187
+<MSG<TURThis is...?
+No, it couldn't be...!<WAI9999<END
+#6188
+<MSG<TURWas that King I just saw...?
+Whatever it was, it seemed to want
+me to follow it back down here...<WAI9999<END
+#7002
+<MSG<TURNo data.<WAI9999<END
+#7013
+<KEY<MSG
+Do you want to remove it?<YNJ0000<EQ-0001<FL-4013<MSG
+Deequipped the Booster.<NOD<WAI0003<FRE<EVE5013
+#7014
+<KEY<MSG
+Do you want to remove it?<YNJ0000<EQ-0032<FL-4014<MSG
+Deequipped the Booster v2.0.<NOD<WAI0003<FRE<EVE5014
+#7016
+<KEY<MSG
+Do you want to remove it?<YNJ0000<EQ-0128<FL-4016<MSG
+Deequipped the Whimsical Star.<NOD<WAI0003<FRE<EVE5016
+#7024
+<KEY<MSG
+Do you want to blow the whistle?<YNJ0000<SOU0007<MSGThe whistle emits a high-pitched
+sound you can hardly hear.<NOD<NCJ0150:7025
+<FL-0077<FL-0078<FL-0079<FL-0080<FL-0081<FL-0082
+<MNP0502:0153:0078:0000<MNP0512:0070:0088:0000<MNP0522:0104:0033:0000
+<MNP0552:0000:0000:0000<FLJ0083:7026<MNP0532:0000:0000:0000<EVE7026
+#7025
+<MSG<SOU0105<TUR
+Arf!<NOD<MSGPlease don't blow the whistle
+in here, Mister!<NOD That sound hurts
+my ears!<NOD<WAI0003<FRE<EVE5024
+#7026
+<WAI0001<SOU0042<WAI0002<SOU0103<FRE<EVE5024
+#7044
+<KEY<MSG
+Do you want to remove them?<YNJ0000<FL+7968<FL-7969<EQ-0512<MSG
+Took off the Pointed Glasses.<NOD<WAI0003<FRE<EVE5014

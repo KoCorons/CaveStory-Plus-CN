@@ -1,0 +1,161 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<CMU0002<FAI0004<END
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0049:0094:0086:0048
+#0150
+<KEY<MSGThere's a book here about
+Missile Launchers.<NOD
+Read it?<YNJ0000<CLR<TURThe standard missile launcher is
+capable of holding a large amount
+of ammunition.<NOD<CLRThe standard missile launcher is
+also capable of holding its full
+power under a lot of stress.<NOD<CLRAs such, the standard launcher is
+best used in situations involving
+several smaller enemies.<NOD<CLRIf, however, one were to
+sacrifice both these features,<NOD<CLRA "Super Missile" would be
+capable of taking out much larger
+foes in a shorter period of time.<NOD<END
+#0300
+<KEY<MSGI'm Dr. Gero.<NOD
+Here, let me refill your health.<NOD<LI+1000<SOU0020<FLJ0344:0330
+<AMJ0010:0316<FLJ0104:0317<FL+0104<FLJ0253:0331<EVE0301
+#0301
+<MSGBeen stuck in this maze a while
+now.<NOD Was wondering when someone newwould show up.<NOD Kinda funny seeing
+you here again.<NOD<CLRLast person to show up here was...<NOD
+Oh shoot, what was his name?<NOD
+Some gunsmith or something.<NOD<CLR
+But I'll cut to the chase.<NOD<CLRIf you have a =Missile Launcher=,
+I can make it a bit more
+powerful for you...<NOD<AMJ0005:0302<END
+#0302
+<GIT0005<MSG
+Oh?<NOD You have a =Missile Launcher=?<NOD<CLRWell, how about it?<NOD
+At the cost of some ammunition,
+would you like me to make your
+missiles more powerful?<YNJ0315<CLR
+Oh, one more thing.<NOD<CLRThe manual also says that
+standard ammunition upgrades
+will no longer be available.<NOD
+Is that okay as well?<YNJ0315<CLR<AM-0005<GIT0000
+Wonderful.<NOD<CMU0000<FAO0001 Give me a moment...<NOD<CLO
+<WAI0150<FAI0001<FLA<WAI0050<AM+0010:0003<FLJ2100:0325
+<FLJ2101:0303<FLJ2102:0304<FLJ2103:0305<FLJ2104:0306
+<FLJ2105:0307<FLJ2106:0308<FLJ2107:0309<FLJ2108:0310<EVE0311
+#0303
+<AM+0010:0003<FLJ2102:0304<FLJ2103:0305<FLJ2104:0306
+<FLJ2105:0307<FLJ2106:0308<FLJ2107:0309<FLJ2108:0310<EVE0311
+#0304
+<AM+0010:0003<FLJ2103:0305<FLJ2104:0306
+<FLJ2105:0307<FLJ2106:0308<FLJ2107:0309<FLJ2108:0310<EVE0311
+#0305
+<AM+0010:0003<FLJ2104:0306
+<FLJ2105:0307<FLJ2106:0308<FLJ2107:0309<FLJ2108:0310<EVE0311
+#0306
+<AM+0010:0003
+<FLJ2105:0307<FLJ2106:0308<FLJ2107:0309<FLJ2108:0310<EVE0311
+#0307
+<AM+0010:0003<FLJ2106:0308<FLJ2107:0309<FLJ2108:0310<EVE0311
+#0308
+<AM+0010:0003<FLJ2107:0309<FLJ2108:0310<EVE0311
+#0309
+<AM+0010:0003<FLJ2108:0310<EVE0311
+#0310
+<AM+0010:0003<EVE0311
+#0311
+<FLJ1011:0312<FLJ1012:0313<EVE0314
+#0312
+<AM+0010:0010<EVE0314
+#0313
+<AM+0010:0003<EVE0314
+#0314
+<FL+2110<CMU0010<GIT0010<MSG
+Your Missiles have been powered up!<WAI0180<CMU0002<END
+#0315
+<GIT0000<MSG
+Oh.<NOD Okay, I understand.<NOD<END
+#0316
+<MSGOh, I should have mentioned that
+making your missiles more powerful
+is irreversable.<NOD
+I hope that isn't a problem...<NOD<END
+#0317
+<AMJ0005:0302<MSGIf you happen to come across a 
+=Missile Launcher=, bring it here.<NOD
+I was given a way to make it
+a lot stronger...<NOD<END
+#0318
+<FLJ0253:0332<FLJ0105:0319<FL+0105
+<KEY<MSGA wise man once said...<NOD
+"If you're going straight, and keepgoing in circles, try going in
+circles and you'll go straight!"<NOD<CLROh, but I think I might be going
+in the wrong direction...<NOD<END
+#0319
+<KEY<MSGThe last person who came here was
+just passing through.<NOD He was
+looking for some machine parts,
+and left behind a thick book.<NOD<CLRDr. Gero over there took a liking
+to it, and now he won't stop going
+on about =Missile Launchers=...<NOD<END
+#0320
+<ITJ0026:0324<FLJ0106:0321<FL+0106
+<KEY<MSGWHY IT'S THAT NICE FELLOW FROM
+BEFORE!<NOD YOU MISSED ALL THE PARTIES
+I HELD!<NOD<CLRBUT THEN I WONDERED WHAT KINDS
+OF EXPLOSIVES THERE WERE IN OTHER
+PARTS OF THE ISLAND.<NOD AND SO I SET
+OFF ON A GRAND JOURNEY!<NOD<CLRUNFORTUNATELY, I GOT VERY LOST...<NOD
+I CAN'T FIND MY WAY OUT OF HERE!<NOD<CLR<EVE0321
+#0321
+<ITJ0002:0322<KEY<MSGOH, WHAT I WOULD GIVE FOR A MAP
+TO HELP ME OUT OF THIS PLACE...<NOD<END
+#0322
+<GIT1002<KEY<MSG
+OOOH IS THAT A MAP SYSTEM?<NOD<CLR
+IS IT FOR ME?<YNJ0323<GIT0000<CLRTHANK YOU VERY MUCH!<NOD AGAIN,
+YOU ARE A VERY KIND PERSON!<NOD
+I DO NOT HAVE ANYTHING ON ME OF
+VALUE TO GIVE YOU...<NOD BUT HERE!<NOD
+TAKE THIS, AND USE IT INSIDE THE
+GENERATOR ROOM IN GRASSTOWN!<NOD<CLR<IT-0002<EQ-0002<GIT1026<IT+0026
+<CMU0010Got the =Remote Control=!<WAI0160<NOD<RMU<GIT0000<CLR
+TAKE WHATEVER YOU FIND!<NOD<END
+#0323
+<GIT0000<MSGI UNDERSTAND.<NOD I WOULD BE IN TEARS,
+BUT I HAVE NO TEAR DUCTS...<NOD<END
+#0324
+<KEY<MSGTHANK YOU AGAIN!<NOD I WILL BE
+LEAVING SHORTLY TO CONTINUE MY
+GRAND JOURNEY AROUND THE ISLAND!<NOD<END
+#0325
+<AM+0010:0003<FLJ2101:0303<FLJ2102:0304<FLJ2103:0305<FLJ2104:0306
+<FLJ2105:0307<FLJ2106:0308<FLJ2107:0309<FLJ2108:0310<EVE0311
+#0330
+<MSGBeen stuck in this maze a while
+now.<NOD Was wondering when someone newwould show up.<NOD Kinda funny seeing
+you here again.<NOD<END
+#0331
+<MSGWas wondering when someone new
+would show up.<NOD Kinda funny seeing
+you here again.<NOD<CLRYou wouldn't happen to have a
+=Missile Launcher=, would you?<NOD
+I can make it a bit more powerful
+for you, if you do...<NOD<AMJ0005:0302<END
+#0332
+<FLJ0105:0333<FL+0105
+<KEY<MSGThere was another robot here.<NOD
+I think his name was Malco...?<NOD
+Have you seen him around?<NOD<END
+#0333
+<KEY<MSGHe seemed like a nice guy,
+that Malco.<NOD A little naive, but
+he was always so happy...<NOD<END

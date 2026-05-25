@@ -1,0 +1,432 @@
++0192
+!0033
+[  = CAST =           ]0000
+-0320
+[- Surface Dwellers - ]0000-0064
+[Plucky, takes after  ]0000-0016
+[ her relatives       ]0000-0020
+[  Sue Sakamoto       ]0001-0064
+[Worries about her    ]0000-0016
+[ daughter            ]0000-0020
+[  Momorin Sakamoto   ]0003-0064
+[Looks out for        ]0000-0016
+[ Momorin             ]0000-0020
+[  Itoh               ]0004-0064
+[Appears at the most  ]0000-0016
+[ convenient moment   ]0000-0020
+[  Kazuma Sakamoto    ]0005-0064
+-0063
+[- Mimiga Village -   ]0000-0064
+[Takes care in keeping]0000-0016
+[ track of the village]0000-0020
+[  Megane             ]0006-0064
+[Curly's number one   ]0000-0016
+[ fan                 ]0000-0020
+[  Chie               ]0007-0064
+[Still hasn't stopped ]0000-0016
+[ eating              ]0000-0020
+[  Mahin              ]0008-0064
+[Loves fishing and    ]0000-0016
+[ aromatherapy        ]0000-0020
+[  Kanpachi           ]0009-0064
+[Mans the farm and    ]0000-0016
+[ loves chamomile tea ]0000-0020
+[  Sandaime           ]0010-0064
+[Believe in building  ]0000-0016
+[ a better village    ]0000-0020
+[  The Shovel Brigade ]0011-0064
+-0063
+[- Grasstown -        ]0000-0064
+f0135:0001
+[Does what he feels is]0000-0016
+[ best for the village]0000-0020
+[  Jack               ]0012-0064
+j0002
+l0001
+[The proud and honest ]0000-0016
+[ number one mimiga   ]0000-0020
+[  Jack               ]0012-0064
+l0002
+[Still looking for the]0000-0016
+[ lipstick she lost...]0000-0020
+[  Chaco              ]0013-0064
+[Lives surrounded by  ]0000-0016
+[ his closest friends ]0000-0020
+[  Santa              ]0014-0064
+[I'm still a Nurse!   ]0000-0036
+[  Nurse Hasumi       ]0015-0064
+-0063
+[- Sand Zone -        ]0000-0064
+[Loves to research the]0000-0016
+[ floating island     ]0000-0020
+[  Professor Booster  ]0002-0064
+[Regrets her past, and]0000-0016
+[ respects her mother ]0000-0020
+[  Misery             ]0016-0064
+[Keeper of the island ]0000-0036
+[  Jenka              ]0017-0064
+-0031
+[Jenka's puppies      ]0000-0036
+[  Hajime             ]0018-0032
+[  Shinobu            ]0018-0032
+[  Kakeru             ]0018-0032
+[  Mick               ]0018-0032
+[  Nene               ]0018-0064
+-0063
+[- Labyrinth -        ]0000-0064
+[Booster's number one ]0000-0016
+[ trade partner       ]0000-0020
+[  Chaba              ]0019-0064
+[On a quest for island]0000-0016
+[ explosives...?      ]0000-0020
+[  Malco              ]0020-0064
+[Loves reading other  ]0000-0016
+[ people's junk       ]0000-0020
+[  Dr. Gero           ]0021-0064
+f0103:0003
+[GET BACK HERE AND    ]0000-0016
+[ GIVE ME MY REMATCH! ]0000-0020
+[  Monster X          ]0022-0064
+j0004
+l0003
+[An old "enemy" of    ]0000-0016
+[ yours               ]0000-0020
+[  Monster X          ]0022-0064
+l0004
+-0063
+f0710:0008
+f2252:0006
+f2254:0006
+f2256:0006
+f2258:0006
+j0010
+l0006
+[- Secret Areas -     ]0000-0064
+[Yes, I am shameless  ]0000-0036
+[  Zarro Tsukei       ]0128-0064
+j0009
+l0008
+[- Secret Areas -     ]0000-0064
+[Regretless dreamer   ]0000-0036
+[  ZarroTsu           ]0128-0064
+[Waker from the       ]0000-0016
+[ dreaming world      ]0000-0020
+[  White              ]0129-0064
+l0009
+-0063
+l0010
+f1200:0019
+[- Villains -         ]0000-0064
+[Soap-box shaped      ]0000-0016
+[ nervous breakdown   ]0000-0020
+[  Suto               ]0023-0064
+[Creates from what    ]0000-0016
+[ Oblivion destroys   ]0000-0020
+[  Genesis            ]0024-0064
+[Destroys what        ]0000-0016
+[ Genesis creates     ]0000-0020
+[  Oblivion           ]0025-0064
+-0063
+[- Others -           ]0000-0064
+[Observing the island ]0000-0016
+[ longer than Jenka   ]0000-0020
+[  Cthulhu            ]0026-0064
+[Travels the island on]0000-0016
+[ a whim              ]0000-0020
+[  Tetsuzou Kamadani  ]0027-0064
+[Love hiding out in   ]0000-0016
+[ dangerous places    ]0000-0020
+[  The Littles        ]0028-0064
+[The statue carver    ]0000-0036
+[  Numahachi          ]0029-0064
+[The lonely old hermit]0000-0016
+[ in Plantation       ]0000-0020
+[  Zett               ]0030-0064
+[The lovably clueless ]0000-0036
+[  Balrog             ]0031-0064
+[Worrisome companion  ]0000-0036
+[  Curly Brace        ]0032-0064
+[Savior of the island ]0000-0036
+[  Quote              ]0033-0064
+-0063
+[- In Loving Memory - ]0000-0064
+[Sue's best friend    ]0000-0036
+[  Toroko             ]0034-0064
+[Brother-figure to    ]0000-0016
+[ Toroko              ]0000-0020
+[  King               ]0035-0064
+[Hero of the Mimiga   ]0000-0036
+[  Arthur             ]0036-0064
+[Slave to the crown's ]0000-0016
+[ dark desires        ]0000-0020
+[  Fuyuhiko Date      ]0037-0064
+[Sue's loving father  ]0000-0036
+[  Daisuke Sakamoto   ]0038-0064
+j0020
+l0019
+[- Villains -         ]0000-0064
+[Soap-box shaped      ]0000-0016
+[ nervous breakdown   ]0000-0020
+[  Suto               ]0023-0064
+[Creates from what    ]0000-0016
+[ Oblivion destroys   ]0000-0020
+[  Genesis            ]0024-0064
+[Destroys what        ]0000-0016
+[ Genesis creates     ]0000-0020
+[  Oblivion           ]0025-0064
+[Once-crowned, power- ]0000-0016
+[ hungry demon king   ]0000-0020
+[  Fuyuhiko Date      ]0090-0064
+-0063
+[- Others -           ]0000-0064
+[Observing the island ]0000-0016
+[ longer than Jenka   ]0000-0020
+[  Cthulhu            ]0026-0064
+[Travels the island on]0000-0016
+[ a whim              ]0000-0020
+[  Tetsuzou Kamadani  ]0027-0064
+[Love hiding out in   ]0000-0016
+[ dangerous places    ]0000-0020
+[  The Littles        ]0028-0064
+[The statue carver    ]0000-0036
+[  Numahachi          ]0029-0064
+[The lonely old hermit]0000-0016
+[ in Plantation       ]0000-0020
+[  Zett               ]0030-0064
+[The lovably clueless ]0000-0036
+[  Balrog             ]0031-0064
+[Savior of the island ]0000-0036
+[  Quote              ]0033-0064
+[Savior of her family ]0000-0036
+[  Curly Brace        ]0032-0064
+-0063
+[- In Loving Memory - ]0000-0064
+[Sue's best friend    ]0000-0036
+[  Toroko             ]0034-0064
+[Brother-figure to    ]0000-0016
+[ Toroko              ]0000-0020
+[  King               ]0035-0064
+[Hero of the Mimiga   ]0000-0036
+[  Arthur             ]0036-0064
+[Our father's son     ]0000-0036
+[  Daisuke Sakamoto   ]0038-0064
+l0020
+-0100
+~
+-0250
+!0041
++0063
+[ = Monsters = ]0000-0032
+-0063
+[ Leaps and hops around: Critter      ]0039-0048
+[ Every cave needs a:    Bat          ]0040-0048
+[ Hyperactive seedling:  Midorin      ]0041-0048
+[ Homing dragonfly:      Stumpy       ]0042-0048
+[ The crusher:           Power Critter]0044-0048
+[ White mold ghost:      Mannan       ]0045-0048
+[ Tiny frog:             Puchi        ]0046-0048
+[ Giga toad:             Frog         ]0047-0048
+[ Floats about:          Jelly        ]0048-0048
+[ White mushroom:        Pignon       ]0049-0048
+[ Worth eating:          Giant Pignon ]0050-0048
+[ Slices you up:         Gravekeeper  ]0051-0048
+[ The mysterious:        Flowercub    ]0052-0048
+[ Rolls along walls:     Rolling      ]0053-0048
+[ Not that great a pet:  Crow         ]0054-0048
+[ Tough Missile:         Armadillo    ]0055-0048
+[ Sudden chomper:        Sandcroc     ]0056-0048
+[ Wandering Skull:       Skullhead    ]0057-0048
+[ Sand runner:           Skullstep    ]0058-0048
+[ Black and white foes:  Skeleton     ]0059-0048
+[ Labyrinth dweller:     Gaudi        ]0060-0048
+[ Labyrinth warrior:     Armor        ]0061-0048
+[ Labyrinth baby:        Gaudi Egg    ]0062-0048
+[ Liquid sniper:         Gunfish      ]0063-0048
+[ Unknown organism:      Buyobuyo Base]0064-0048
+[              and:      Buyobuyo     ]0065-0048
+[ Crusher of spirits:    Press        ]0066-0048
+[ Ancient scrap:         Killer Robot ]0067-0048
+[ Fiery fan:             Fire Whirrr  ]0068-0048
+[ From one, many:        Polish       ]0069-0048
+[ Scattered everywhere:  Baby         ]0070-0048
+[ A swarm of killer:     Beetles      ]0071-0048
+[ Flying assasin:        Basu         ]0072-0048
+[ Wandering spirit:      Fuzz         ]0073-0048
+[ Spirit clump:          Fuzz Core    ]0074-0048
+[ Charges when angered:  Behemoth     ]0075-0048
+[ Edge-hugging flash:    Basil        ]0076-0048
+[ Hatching failure:      Dragon Zombie]0077-0048
+[ Timed explosive:       Counter Bomb ]0078-0048
+[ Jumps:                 Hoppy        ]0079-0048
+[ Outer wall flutterer:  Night Spirit ]0080-0048
+[ Heartless abomination: Dragon Wraith]0081-0048
+[ Always watching:       Door         ]0043-0048
+[ Silent messengers:     Bute         ]0082-0048
+[               and:     Mesa         ]0083-0048
+[ Blocks passages:       Deleet       ]0084-0048
+f2292:0021
+j0022
+l0021
+[ Illusionary demon:     Green Devil  ]0085-0048
+l0022
+[ Born of the earth:     Droll        ]0086-0048
+[ Mother bat:            Orangebell   ]0087-0048
+-0100
++0064
+[ = Bosses =           ]0000-0032
+-0063
+[A painful memory from ]0000-0016
+[ the past             ]0000-0020
+[  Sue's Nightmare     ]0091-0064
+[Crazed, snake-like    ]0000-0016
+[ sociopath            ]0000-0020
+[  Suto                ]0092-0064
+f0069:0021
+j0022
+l0021
+[Restless spirit       ]0000-0036
+[  Toroko -            ]0093-0064
+l0022
+[Ancient burrowing     ]0000-0016
+[ machine              ]0000-0020
+[  Deconstructor       ]0094-0064
+[The one and only      ]0000-0036
+[  Great White Critter ]0095-0064
+[The Gaudi's famed     ]0000-0016
+[ warriors             ]0000-0020
+[  The Gaudskateers    ]0096-0064
+[Omega's younger       ]0000-0016
+[ brother              ]0000-0020
+[  Alpha               ]0097-0064
+[Malfunctioning island ]0000-0016
+[ destroyer            ]0000-0020
+[  Deconstructor Mk.2  ]0098-0064
+f0179:0023
+j0024
+l0023
+[Twin dragon suprise   ]0000-0016
+[ attackers return     ]0000-0020
+[  Dragon Sisters      ]0099-0064
+l0024
+f0180:0025
+j0026
+l0025
+[The swollen mech      ]0000-0016
+[ strikes again        ]0000-0020
+[  Heavy Press         ]0100-0064
+l0026
+f2292:0027
+j0028
+l0027
+[All an illusion??     ]0000-0036
+[  Ballos' Memory      ]0101-0064
+l0028
+[Bleached white devil  ]0000-0036
+[  White Demon         ]0102-0064
+[Jenka's regret for her]0000-0016
+[ brother, given form  ]0000-0020
+[  Jenka's Nightmare   ]0103-0064
+f1200:0029
+j0030
+l0029
+[The Doctor's vile     ]0000-0016
+[ magic at work        ]0000-0020
+[  Draco Misery        ]0104-0064
+[Madman's cruel gambit ]0000-0036
+[  The Colons          ]0105-0064
+[The posessed loved one]0000-0036
+[  Red Quote           ]0106-0064
+[Guardians of the      ]0000-0016
+[ tallest tower        ]0000-0020
+[  Twin Ogres          ]0107-0064
+[The crowned devil     ]0000-0016
+[ himself              ]0000-0020
+[  The Doctor          ]0108-0064
+[Wrath of a madman's   ]0000-0016
+[ stolen magic         ]0000-0020
+[  Tristitia           ]0109-0064
+l0030
+-0080
++0040
+[ = BGM =         ]0000-0032
+-0031
+[Balcony          ]0110-0032
+[Seal Chamber     ]0110-0032
+[Gestation        ]0110-0032
+[Gravity          ]0110-0032
+[Mimiga Village   ]0110-0032
+-0031
+[Plant            ]0110-0032
+[Cemetery         ]0110-0032
+[Safety           ]0110-0032
+[Meltdown 2       ]0110-0032
+[On to Grasstown  ]0110-0032
+-0031
+[Balrog's Theme   ]0110-0032
+[Eyes of Flame    ]0110-0032
+[Pulse            ]0110-0032
+[Mischievous Robot]0110-0032
+[Jenka 1          ]0110-0032
+-0031
+[Jenka 2          ]0110-0032
+[Labyrinth Fight  ]0110-0032
+[Geothermal       ]0110-0032
+[Living Waterway  ]0110-0032
+[Oppression       ]0110-0032
+-0031
+[Quiet            ]0110-0032
+[Moonsong         ]0110-0032
+[Halloween 2      ]0110-0032
+[Desperation      ]0110-0032
+[Pier Walk        ]0110-0032
+-0031
+[Last Cave        ]0110-0032
+[Zombie           ]0110-0032
+[Last Battle      ]0110-0032
+[Tyrant           ]0110-0032
+[Scorching Back   ]0110-0032
+-0031
+[Running Hell     ]0110-0032
+[Break Down       ]0110-0032
+[The Way Back Home]0110-0032
+[White            ]0110-0032
+[Toroko's Theme   ]0110-0032
+-0100
++0040
+[= Special Thanks =               ]0000-0032
++0048
+-0031
+[The love of my life:             ]0000-0020
+[                          Daniruu]0111-0050
+[A graphical prodigy:             ]0000-0020
+[           Alex "Alexmdle" Lorenz]0112-0050
+[Purveyor of sky blue days:       ]0000-0020
+[                             Garo]0113-0050
+[Creator of Sue's Workshop:       ]0000-0020
+[                       Prof. Eich]0114-0050
+[Creator of Cave Editor:          ]0000-0020
+[                           Wistil]0115-0050
+[Creator of Booster's Lab:        ]0000-0020
+[             Taeler "Noxid" Dixon]0116-0050
+[Helped out with some ASM:        ]0000-0020
+[                          Randolf]0117-0050
+[Bug-tested the heck out of it:   ]0000-0020
+[            X-Calibar & Fluff8836]0118-0050
+[Gave fuel to a dwindling fire:   ]0000-0020
+[        Dunc2403 & HyMyNameIsMatt]0119-0050
+[Maker of the original:           ]0000-0020
+[              Mark "shmitz" Major]0120-0050
+[Inspired the complete reboot:    ]0000-0020
+[                       MagicDoors]0121-0050
+[The man who started it all:      ]0000-0020
+[            Daisuke "Pixel" Amaya]0122-0050
+[And many others!                 ]0000-0040
+-0063
+[Thank you very, very much!       ]0127-0032
+-0240
++0120
+[Jenka's Nightmare ~ The End]0000
+-0280
+/
+<<<
+2000カ?[リ?[エンディング

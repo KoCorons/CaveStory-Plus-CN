@@ -1,0 +1,12 @@
+{
+  "parts": "Oside",
+  "map": "Oside",
+  "bkType": 6,
+  "back": "BkMoon",
+  "back_water": "BkMoon",
+  "npc": "Moon",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Outer Wall"
+}

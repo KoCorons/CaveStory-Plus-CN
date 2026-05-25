@@ -1,0 +1,12 @@
+{
+  "parts": "Almond",
+  "map": "JN069",
+  "bkType": 3,
+  "back": "bkWater",
+  "back_water": "bkWater",
+  "npc": "Bllg",
+  "boss": "Bllg",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Core"
+}

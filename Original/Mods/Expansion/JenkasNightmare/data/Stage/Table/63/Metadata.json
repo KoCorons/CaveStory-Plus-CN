@@ -1,0 +1,12 @@
+{
+  "parts": "Cave",
+  "map": "JN063",
+  "bkType": 7,
+  "back": "bkStorm",
+  "back_water": "bkStorm",
+  "npc": "Chimney",
+  "boss": "Plant",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Conduit"
+}

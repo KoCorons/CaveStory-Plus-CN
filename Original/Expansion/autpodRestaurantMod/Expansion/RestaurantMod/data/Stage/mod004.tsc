@@ -1,0 +1,69 @@
+#0094
+<KEY<FAI0004<CMU0003<MNA<END
+#0100
+<KEY<FAO0004<TRA0003:0094:0022:0022
+#0201
+<FLJ0105:0210
+<FLJ0104:0202
+<KEY<MS3<FAC0006
+Hey!<NOD
+I own this parlor,
+but the people who were
+working for me left...<NOD<CLR
+I just...don't know
+what to do...<NOD<GIT1002
+How am I gonna get
+this pizza to the
+customers now...<NOD<GIT0000<CLR<GIT0000<2PJ0302<EVE0301
+#0202
+<ITJ0002:0203
+<ITJ0003:0203
+<EVE0204
+#0203
+<KEY<MS3<FAC0006
+Come back when you're out
+of pizza!<NOD<CLO<END
+#0204
+<FLJ0801:0205
+<EVE0209
+#0205
+<FLJ0802:0206
+<EVE0209
+#0206
+<FLJ0803:0207
+<EVE0209
+#0207
+<FLJ0804:0208
+<EVE0209
+#0208
+<KEY<MS3<FAC0006
+Wow, you did it!<NOD<CLR
+I suppose I owe you
+something, so...<NOD<CLO<WAI0075<MS3<FAC0006
+How's this?<NOD<CLR<FAC0000<MSG<IT+0001<GIT1001<CMU0010
+Got the key to the =Rooftops=!<WAI0175<NOD<RMU<CLR<GIT0000<MS3<FAC0006
+I hope this is helpful!<NOD<CLO<FL+0105<END
+#0209
+<KEY<MS3<FAC0006
+I think there are still
+some customers!<NOD<CLR<FAC0030
+ok<NOD<CLR<FAC0000<MSG<IT+0002<GIT1002
+Got more =Pizza=!<NOD<CLO<END
+#0210
+<KEY<MS3<FAC0006
+Good luck!<NOD<CLO<END
+#0301
+<FAC0030
+quote will do it<NOD<CLR<EVE0303
+#0302
+<FAC0030
+quote(s) will do it<NOD<CLR<EVE0303
+#0303
+<FAC0006
+Really?!<NOD
+That'd be great!<NOD
+Thank you so much!<NOD<CLR<FAC0000<MSG<IT+0002<GIT1002<CMU0010
+Got the =Pizza=!<WAI0175<NOD<RMU<CLR<GIT0000<MS3
+<MS3<FAC0006
+Make sure you come back
+here for more pizza!<NOD<CLO<FL+0104<END

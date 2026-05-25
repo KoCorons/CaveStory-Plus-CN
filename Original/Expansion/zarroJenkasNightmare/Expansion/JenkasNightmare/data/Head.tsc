@@ -1,0 +1,192 @@
+#0000
+<END
+#0001
+<PRI<MSG
+Empty.<NOD<END
+#0002
+<PRI<SOU0022<CMU0016<MSG
+<GIT1001Got a =Life Capsule=!<WAI0180<NOD<RMU<ML+0002<CLR
+Max health increased by 2!<NOD<END
+#0003
+<PRI<SOU0022<CMU0016<MSG
+<GIT1001Got a =Life Capsule=!<WAI0180<NOD<RMU<ML+0003<CLR
+Max health increased by 3!<NOD<END
+#0004
+<PRI<SOU0022<CMU0016<MSG
+<GIT1001Got a =Life Capsule=!<WAI0180<NOD<RMU<ML+0004<CLR
+Max health increased by 4!<NOD<END
+#0005
+<PRI<SOU0022<CMU0016<MSG
+<GIT1001Got a =Life Capsule=!<WAI0180<NOD<RMU<ML+0005<CLR
+Max health increased by 5!<NOD<END
+#0006
+<PRI<MSG
+Opened the chest.<NOD<AMJ0001:0008<GIT0001<AM+0001:0020<FLJ1901:0007<CLR
+<CMU0010Got the =Snake=!<WAI0180<NOD<RMU<CLRThe Snake is a slow, zig-zagging
+weapon that pierces walls and
+enemies, but has limited ammo.<NOD
+Its stockpile will slowly refill
+over time while it's active.<NOD<END
+#0007
+<CLR
+<CMU0010Got a new =Snake=!<WAI0180<NOD<RMU<END
+#0008
+<AM+0001:0010<CLR
+<GIT0008=Snake= ammo increased by 10!<NOD<END
+#0009
+<PRI<MSG
+Opened the chest.<NOD<AMJ0007:0011<GIT0007<AM+0007:0030<FLJ1902:0010<CLR
+<CMU0010Got the =Bubbler=!<WAI0180<NOD<RMU<CLRThe Bubbler is a weapon much more
+dedicated towards defense than
+offense.<NOD It levels up the fastest,
+but levels DOWN the fastest, too.<NOD
+How you use it is up to you.<NOD<END
+#0010
+<CLR
+<CMU0010Got a new =Bubbler=!<WAI0180<NOD<RMU<END
+#0011
+<AM+0007:0015<CLR
+<GIT0014=Bubbler= ammo increased by 15!<NOD<END
+#0012
+<PRI<AMJ0005:0013<MSG
+Opened the chest.<NOD<GIT0005<AM+0005:0018<FL+1000<FLJ0225:0027<CLR
+<CMU0010Got the =Missile Launcher=!<WAI0180<NOD<RMU<CLRThe Missile Launcher is a powerful
+weapon, but its ammo is limited.<NOD
+You can replenish your stockpile
+with items dropped by enemies.<NOD<END
+#0013
+<PRI<MSG<FL+1000
+Opened the chest.<NOD<AM+0005:0009<CLR
+<GIT0006Max missiles increased by 9!<NOD<END
+#0014
+<PRI<MSG
+The chest refuses to open.<NOD<CLR
+<GIT0001There's an engraving on the lid.<NOD<END
+#0015
+<PRI<MSG
+The chest refuses to open.<NOD<CLR
+<GIT0007There's an engraving on the lid.<NOD<END
+#0016
+<PRI<MSG
+Do you want to save?<YNJ0000<FL+4015<SVP<CLR
+Game saved.<NOD<END
+#0017
+<PRI<LI+1000<SOU0020<AE+
+<AMJ0001:0018<AMJ0004:0018<AMJ0005:0018
+<AMJ0007:0018<AMJ0010:0018<AMJ0012:0018
+<MSG
+Health refilled.<NOD<END
+#0018
+<MSG
+Health and ammo refilled.<NOD<END
+#0019
+<KEY<MSG
+Do you want to rest?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR
+.....<NOD<CLO
+<WAI0050
+<LI+1000<SOU0020<MYD0002<MSG
+Health restored.<NOD<CLO<RMU<FAI0004<END
+#0020
+<PRI<MSG
+The chest refuses to open.<NOD<CLR
+<GIT0004There's an engraving on the lid.<NOD<END
+#0021
+<PRI<MSGOpened the chest.<NOD<AM+0004:0020<CLR
+<GIT0015=MachineGun= ammo increased by 20!<NOD<END
+#0022
+<KEY<MSG<GIT1006<FAC0003That capsule...<NOD
+<FAC0001Could I have a look at it
+for a sec?<YNJ0023<CLR<FAC0000
+.....<NOD<CLR
+..........<NOD<CLR<SOU0022<GIT0000<IT-0006<FAC0001
+Ahah!<NOD It opened!<NOD<CLR<FAC0001You got my =Machine Gun=
+from Balrog, right?<NOD
+It looks like this'll
+help you out a lot!<NOD<CLR<FAC0000<GIT1009<IT+0009<EQ+1024
+<CMU0010Got the =Turbocharge=!<WAI0180<NOD<RMU<END
+#0023
+<MSG
+<FAC0004Well alright then.<NOD<END
+#0024
+<FLJ0343:0026<ITJ0037:0025
+<PRI<MSGA rocket of some sort?<NOD
+Engraved on the dashboard is
+the name "Booster".<NOD<END
+#0025
+<PRI<MSG<GIT1037
+Do you want to use the key?<YNJ0000<CLO<ANP0024:0010:0000<END
+#0026
+<PRI<MSGThe rocket you helped Booster
+move here.<NOD<ITJ0037:0025<END
+#0027
+<MSG
+<CMU0010Got a new =Missile Launcher=!<WAI0180<NOD<RMU<END
+#0028
+<PRI<MSG
+The chest refuses to open.<NOD<CLR
+<GIT0010The ammo isn't compatible...<NOD<END
+#0029
+<PRI<MSG
+The chest refuses to open.<NOD<CLR
+<GIT0001The ammo isn't compatible...<NOD<END
+#0030
+<MSGThere is a large shutter here.<NOD
+It won't budge.<NOD<ITJ0026:0031<END
+#0031
+<MSG
+Use the =Remote=?<YNJ0000<CLO<EVE0250
+#0032
+<MSGThere is a large shutter here.<NOD
+There's nothing behind it.<NOD<END
+#0033
+<KEY<MSG<GIT1007<FAC0006Say Quote...<NOD<FAC0007<ANP0220:0030:0004 Do you mind
+if I have a look at that
+capsule you've got there?<YNJ0035<EVE0039
+#0034
+<KEY<MSG<GIT1010<FAC0006Say Quote...<NOD<FAC0007<ANP0220:0030:0004 Do you mind
+if I have a look at that
+capsule you've got there?<YNJ0037<EVE0039
+#0035
+<MSG<FAC0006
+.....<NOD<CLR
+..........<NOD<CLO<SOU0022<GIT0000<IT-0007<WAI0050<MSG<FAC0008<ANP0220:0080:0004
+Yikes!<NOD I think I broke it!<NOD<CLO<WAI0040<ANP0220:0000:0004<WAI0010<MSG<FAC0006
+Wait, no.<NOD It opened?<NOD Huh.<NOD<CLO<FAC0000<FL+1011<AMJ0010:0036
+<MSG<AM+0005:0030
+<GIT0006Max missiles increased by 30!<NOD<END
+#0036
+<AM+0010:0010<MSG
+<GIT0011Max missiles increased by 10!<NOD<END
+#0037
+<MSG<FAC0006
+.....<NOD<CLR
+..........<NOD<SOU0022<GIT0000<IT-0010<WAI0050<MSG<FAC0008<ANP0220:0080:0004
+Yikes!<NOD I think I broke it!<NOD<CLO<WAI0040<ANP0220:0000:0004<WAI0010<MSG<FAC0006
+Wait, no.<NOD It opened?<NOD Huh.<NOD<CLO<FAC0000<FL+1012<AMJ0010:0038
+<MSG<AM+0005:0009
+<GIT0006Max missiles increased by 9!<NOD<END
+#0038
+<AM+0010:0003<MSG
+<GIT0011Max missiles increased by 3!<NOD<END
+#0039
+<MSG<FAC0006
+Oh.<NOD Okay.<NOD<END
+#0040
+<KEY<CMU0000<WAI0040<PRI<WAI0040<CMU0003<MSG
+You have died.<NOD<EVE0043
+#0041
+<KEY<CMU0000<HMC<WAI0040<PRI<WAI0040<CMU0003<MSG
+You have drowned.<NOD<EVE0043
+#0042
+<KEY<CMU0000<WAI0040<PRI<WAI0040<CMU0003<MSG<HMC
+You were never seen again...<NOD<EVE0043
+#0043
+<CLR
+Want to retry?<YNJ0049<CLO
+<FAO0001<WAI0050<FLJ4015:0048<INI
+#0044
+<FON4120:0016<DNP0044<END
+#0048
+<SMC<LDP
+#0049
+<CLO<FAO0004<ESC

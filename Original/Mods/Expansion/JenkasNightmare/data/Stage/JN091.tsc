@@ -1,0 +1,217 @@
+
+#0090
+<MNA<CMU0030<FAI0000<END
+#0091
+<MNA<CMU0030<FAI0001<END
+#0092
+<MNA<CMU0030<FAI0002<FL+0231<FL-0232<END
+#0093
+<MNA<CMU0030<FAI0003<FL-0231<FL-0232<END
+#0094
+<MNA<CMU0030<FAI0004<FL+0232<FL-0231<END
+#0095
+<FAI0004<END
+#0100
+<PRI<SOU0011<DNP0100<FAO0001<TRA0088:0091:0009:0004
+#0101
+<TRA0090:0091:0009:0004
+#0102
+<PRI<SOU0011<DNP0102<FAO0004<TRA0092:0094:0010:0008
+#0110
+<FLJ0231:0111<FLJ0232:0112
+<PRI<FAO0004<MYD0002<WAI0050<TRA0091:0095:0007:0074
+#0111
+<PRI<FAO0004<MYD0002<WAI0050<TRA0091:0095:0117:0062
+#0112
+<PRI<FAO0004<MYD0002<WAI0050<TRA0091:0095:0079:0073
+#0152
+<FLJ0227:0153<FL+0227
+<KEY<MSG<FAC0037
+Quote, was it?<NOD<CLRIf what Booster's told
+me is true, you've
+been a tremendous help.<NOD
+And Misery's on our side
+too, now?<NOD All of this
+is just too good to be
+true!<NOD<END
+#0153
+<KEY<MSG<FAC0037I'm glad to see Sue's
+alright after all this.<NOD
+One day she just up
+and vanished.<NOD
+We thought she was just
+sick of all the
+experiments and ran...<NOD
+But Momorin became more
+and more desperate the
+more time passed.<NOD<CLRI'm happy to see the
+two of them so cheery
+after all this nonsense.<NOD<END
+#0154
+<FLJ0228:0155<FL+0228
+<KEY<MSG<FAC0036I was certain that Sue
+had run away when she
+went missing.<NOD
+With all the research
+and experiments we've
+done...<NOD We always came
+close, but could never
+quite lift the curse.<NOD<CLRI'm just relieved that
+she's alright...<NOD<END
+#0155
+<KEY<MSG<FAC0036I remember the name Jenka
+from back when The Doctor
+was planning aloud.<NOD
+When I relayed that
+information to Booster
+and Kazuma,<NOD that's when
+he had me thrown off
+the island...<NOD<CLRHeaven only knows why she
+abducted Sue.<NOD Maybe she
+felt responsible for her
+current state...?<NOD
+I suppose if that's the
+case, then this has been
+a blessing in disguise...<NOD<END
+#0156
+<FLJ0229:0157<FL+0229
+<KEY<MSG<FAC0024Misery should be
+more than capable of
+tending to Jenka.<NOD
+There's no reason to
+worry about that at all.<NOD<CLR
+Still...<NOD<CLRAll of these perils
+are very confusing...<NOD
+And it could very well
+happen all over again
+in the future...<NOD<CLRI must discuss this with
+Jenka herself when she's
+well.<NOD If holding onto
+one's grief can cause such
+destructive events...<NOD<CLRI hope between Misery and
+I, we can better put
+Jenka's mind at ease.<NOD<END
+#0157
+<KEY<MSG<FAC0024Do you, Curly and Balrog
+need a lift off the
+island?<NOD<CLRFly off...?<NOD
+That Balrog is a strange
+one.<NOD It boggles the
+mind that that's even
+possible!<NOD<END
+#0158
+<FLJ0230:0159<FL+0230
+<KEY<MSG<FAC0012So I guess this is
+goodbye, huh?<NOD
+Well, crud...<NOD<CLR<FAC0013Say goodbye to Curly
+for me, okay?<NOD<FAC0012
+And Balrog...<NOD
+......<NOD<CLR<FAC0017I was told that some of
+the stuff he did was
+really terrible...<NOD
+And I've been told that
+he's a nice guy when
+you get to know him...<NOD<CLR<FAC0016It sounds like no
+matter whose side he's
+on,<NOD he does everything
+he can to help out.<NOD<FAC0011
+I guess I'll have to
+try to forgive and
+forget, huh?<NOD<END
+#0159
+<KEY<MSG<FAC0012I'm gonna miss you
+guys...<NOD<FAC0011 But as long as
+I know you'll be alive
+when we leave,<NOD
+it really won't be that
+sad a goodbye.<NOD<END
+#0200
+<KEY<MYD0000<DNP0200<WAS<MSGAny further and you're
+going to fall!<NOD<END
+#0201
+<PRI<MSG<TUR
+            THAT'S ALL, FOLKS!<NOD<END
+#0300
+<MNA<FAI0004<WAI0050<SOU0011<MNP0100:0000:0000:0000<WAI0025<SMC
+<WAI0025<SOU0011<MNP0100:0007:0074:0000<WAI0050<CMU0030<END
+#0400
+<PRI<DNP0400<FL-4011<EVE0004
+#0500
+<KEY<CMU0000<MYD0000<WAI0080<SPS<WAI0160<SOU0070<CPS<WAI0120<FL+0232<FL-0231
+<MNP0156:0076:0073:0000<FON0156:0001<MSG<FAC0036
+I see...<NOD<CLO<CMU0030<FAI0004<WAI0010<MSG<FAC0036And you're sure of
+this, Booster?<NOD
+We could still try
+pulling some strings...<NOD<CLR<FAC0024Ah, no, that won't be
+necessary, 'Rin.<NOD
+I'd honestly rather not
+get any more people
+involved here.<NOD
+If they caught wind of
+an out-of-control
+witch...<NOD
+I hesitate to think
+Jenka'd be the first
+to destroy the island.<NOD<CLR<FAC0036
+Hmm...<NOD<CLO<FAC0000<WAI0020<SOU0011<MNP0102:0079:0000:0000<WAI0020
+<CNP0158:0042:0000<WAI0020<MSG<FAC0017
+...!<NOD Mom!!<NOD<CLO<FAC0000
+<WAI0020<SOU0011<MNP0102:0079:0073:0000<ANP0158:0030:0000<WAI0036
+<ANP0158:0005:0000<ANP0154:0003:0005<WAI0040
+<ANP0154:0000:0005<WAI0020<MSG<FAC0036
+Sue...<NOD<CLO<FAC0000<WAI0020<MSG<FAC0017Mom, I...<NOD I missed you
+so much!<NOD I thought I'd
+never see you again...<NOD<CLO<FAC0000<WAI0020<MSG<FAC0036Sue...<NOD
+I was worried
+sick...!<NOD
+Everything's alright
+now...<NOD We can finally
+go home...<NOD<CLO<FAC0000<WAI0060
+<ANP0158:0030:0002<WAI0004<ANP0158:0011:0002
+<MSG<FAC0013And what are YOU guys
+staring at!?<NOD<CLR<MSG<FAC0024
+Urm...<NOD Haha...<NOD<CLO<FAC0000<ANP0156:0000:0002<WAI0010<MYD0002
+<WAI0020<ANP0158:0000:0000<MSG<FAC0016Oh, right!<NOD<FAC0011
+Mom, Misery said she
+might lift the curse
+on me and Itoh!<NOD<CLR<FAC0012...Well, she said
+'maybe', anyway...<NOD<CLR<FAC0011
+But still...!<NOD<CLR<FAC0036
+Oh, my...<NOD<CLRI think I might need
+a minute to take all
+of this in.<NOD
+I- I promised myself
+I wouldn't cry, but...<NOD<CLO<FAC0000<WAI0020<FAO0003<FL+0226
+<WAI0100<TRA0091:0501:0059:0071
+#0501
+<KEY<MSG<FAC0037
+So, now what?<NOD<CLO<FAC0000<FAI0003<WAI0020
+<MSG<FAC0024I suppose we'll wait
+for Misery to make
+sure Jenka's okay.<NOD
+I hate being one to
+leave her be in her
+time of need, but...<NOD
+Well, I think she'll
+understand, considering
+the island's condition.<NOD<CLO<WAI0020<ANP0156:0000:0002<WAI0020<MSG
+Quote.<MYD0000<NOD<CLRYou've been more than
+excellent in your aid
+here on the island.<NOD
+I know it will never
+be enough, but on
+behalf of all of us...<NOD<CLRThank you, for all your
+hard work.<NOD<CLRSue and her family
+will head off soon
+enough.<NOD I'll be continuing
+my research on the island
+alongside Jenka...<NOD
+If you like, you could ask
+her yourself for the reason
+she brought you here.<NOD
+You're welcome to leave
+the island with Curly and
+Balrog at your leisure.<NOD<CLRI won't keep you
+any longer.<NOD
+You've done more than
+enough.<NOD<CLO<FOM0016<END

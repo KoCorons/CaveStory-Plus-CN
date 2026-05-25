@@ -1,0 +1,338 @@
+
+#0090
+<MNA<FON0400:0001<CMU0019<FAI0004<FL+2251<FL+2252<END
+#0091
+<MNA<FON0400:0001<CMU0019<FAI0004<FL+2253<FL+2254<END
+#0092
+<MNA<FON0400:0001<CMU0019<FAI0004<FL+2255<FL+2256<END
+#0093
+<KEY<MNA<CMU0019<FON0401:0001
+<ANP0500:0001:0000<FAI0004
+<CNP0301:0112:0002<WAI0100
+<ANP0500:0000:0000
+<MYD0002<SMC<DNP0301<FL+2257<FL+2258<END
+#0094
+<MNA<FON0400:0001<CMU0000<DNP0200<MNP0240:0009:0009:0000<FAI0004<FL+2259<FL+2260<END
+#0100
+<FLJ2259:0105<FLJ2257:0104<FLJ2255:0103<FLJ2253:0102<FLJ2251:0101<END
+#0101
+<PRI<FL-2251<FAO0004<FOM0016<TRA0007:0094:0007:0005
+#0102
+<PRI<FL-2253<FAO0004<FOM0016<TRA0015:0094:0004:0006
+#0103
+<PRI<FL-2255<FAO0004<FOM0016<TRA0037:0094:0176:0016
+#0104
+<KEY<WAI0016<HMC<MOV0014:0025<FON0401:0024<WAI0040<MYD0000<SMC<WAI0016<END
+#0105
+<PRI<FL-2259<FAO0004<FOM0016<TRA0085:0094:0103:0117
+#0110
+<KEY<WAI0016<HMC<MOV0014:0009<FON0400:0024<WAI0040<MYD0000<SMC<WAI0016<END
+#0200
+<KEY<FLJ2259:0240<FLJ2257:0231<FLJ2255:0221<FLJ2253:0211<FLJ2251:0201<END
+#0201
+<FLJ2355:0206<FLJ2354:0205<FLJ2353:0204<FLJ2352:0203<FLJ2351:0202
+<MSGOh.<NOD Hey.<NOD You found me.<NOD<CLRYeah, it's me.<NOD ZarroTsu.<NOD
+"Zarro Tsukei", as the alias goes.<NOD<CLRI suppose you want a reward for
+finding this place?<NOD<CLRAlready taken care of.<NOD
+Trust me on this one.<NOD<FL+2351<END
+#0202
+<MSGThere are a total of five of these
+rooms in the game.<NOD
+Maybe if you find all five of
+them, something good will happen.<NOD
+I dunno yet.<NOD It's just a hunch.<NOD<FL+2352<END
+#0203
+<MSGI wonder how the mod will be
+received?<NOD I'll admit, I wasn't
+terribly kind when I returned to
+the community.<NOD Could have gone
+a bit better.<NOD<CLRI was hoping to keep myself
+hidden from the rest of the
+community longer than I did.<NOD
+Guess I'm not one for the
+stealthy approach, huh?<NOD<FL+2353<END
+#0204
+<MSGJeez, are you done yet?<NOD The
+more you talk to me, the less time
+I have to work on the game.<NOD<CLRYes, I know that sounds
+confusing as heck!<NOD Maybe you
+should go off and save Curly
+instead of messing around here!<NOD<FL+2354<END
+#0205
+<MSGCave Story's a pretty great game.<NOD
+You should try copying your save-
+data over sometime.<NOD<CLRAlthough, TRY to only load
+save files from the Prefab House,
+before the Sacred Ground.<NOD
+You can still load the game from
+elsewhere if you WANT...<NOD but don't
+come crying to me if you get stuck
+in a wall or the game crashes.<NOD<FL+2355<END
+#0206
+<MSG....................<NOD
+(He'll leave any second now...)<NOD<END
+#0211
+<FLJ2360:0216<FLJ2359:0215<FLJ2358:0214<FLJ2357:0213<FLJ2356:0212
+<MSGUsed the momentum of your jump to
+get through the tunnel, did you?<NOD
+Well, aren't you clever?<NOD<CLRAnyway, this is the second secret
+room in the game.<NOD If you haven't
+found the first, I'm really quite
+surprised.<NOD The first one is a
+little bit easier to get to than
+this one is!<NOD<FL+2356<FLJ2252:0000<CLRIf you really did miss it,
+you can still go back and find
+it if you want.<NOD I won't
+tell you where it is, though.<NOD<END
+#0212
+<MSGDepending on your save file when
+you copy a profile over, you can
+get all sorts of cool goodies.<NOD
+I won't go into detail of what
+these goodies are, but that's
+the fun of it!<NOD Gotta play the
+original game differently, and
+reap the rewards!<NOD<FL+2357<END
+#0213
+<MSGSomething other than weapons
+that is affected by an old profile
+copy is life capsules.<NOD
+If, for example, you didn't
+collect any life capsules in your
+original run of the game,<NOD
+you'll be able to recollect them
+all while playing this one.<NOD<FL+2358<END
+#0214
+<MSGThat said, if you did collect
+them in the original game, you'll
+immediately be able to tell.<NOD
+You'll start out with twice as
+much health, making the beginning
+of the game much easier.<NOD<CLROf course, in order to get the
+highest possible health count,
+you'll have to miss them all!<NOD<FL+2359<END
+#0215
+<MSGWhile writing the past two
+messages, I was debating on saying
+missiles act the same way.<NOD
+However, if that were true, the
+difference in numbers would be far
+less effective between the two.<NOD<CLRBesides, who ever heard of
+a player refusing to collect all
+the missiles in the original game?<NOD
+That's highly unlikely!<NOD<FL+2360<END
+#0216
+<MSGThere.<NOD I'm all out of
+things to exposit.<NOD<CLR
+Are you happy now?<NOD<END
+#0221
+<FLJ2365:0226<FLJ2364:0225<FLJ2363:0224<FLJ2362:0223<FLJ2361:0222
+<MSGOh, hello (again?).<NOD
+I was worried nobody would
+think to look here for this
+secret room, ha-ha.<NOD<CLROr, wait, are you really,
+REALLY lost in the teleporter
+puzzle?<NOD That would make this
+kind of awkward.<NOD<FL+2361<END
+#0222
+<MSGMissiles took an interesting
+turn in this mod, as the Super
+Missiles are even more optional.<NOD
+If you're lucky, you should run
+into someone who will upgrade
+them for you in the Labyrinth.<NOD<FL+2362<END
+#0223
+<MSGIf you've been playing from an
+original game file, keep an eye
+out for capsule-openers, shortly.<NOD
+There will be a few instances 
+where you'll have to speak with
+them more than once at a time.<NOD<FL+2363<END
+#0224
+<MSGLater on you're gonna fight an
+interesting boss combination, on
+an interesting map.<NOD
+I had to actually teleport the
+player to a seperate map for it
+to work properly!<NOD<CLRI mean, I suppose I could have
+done it normally, but who am I to
+give up a fadeless teleport?<NOD<FL+2364<END
+#0225
+<MSGIn the original mod of the game,
+riding Monster X was supposed to
+be mandatory.<NOD I've since changed
+this to be way, way more
+optional than before.<NOD I imagine
+when people find that out,
+they'll hate me for it.<NOD<CLRThat said, if you were trying to
+speed-run the game, you'd really
+have no choice but to ride him!<NOD<FL+2365<END
+#0226
+<MSGGack, my throat is sore now.<NOD
+Do you think you can get me a
+glass of water while you're out?<NOD<END
+#0231
+<FLJ2370:0236<FLJ2369:0235<FLJ2368:0234<FLJ2367:0233<FLJ2366:0232
+<MSGOh!<NOD Oh, shoot, you trapped
+yourself in the corner of Sand
+Zone, didn't you?<NOD<CLR
+Hold on a sec!<NOD<CLR
+..........<NOD<CLROkay, there!<NOD That teleporter goes
+to the Labyrinth now!<NOD<CLR
+...What?<NOD<FL+2366<END
+#0232
+<MSGDevoting your free time to a
+single project is rather emotion-
+consuming.<NOD I don't regret it,
+and I certainly won't abandon it,
+but it leaves me feeling empty.<NOD
+Like there are other things I
+could do instead, but then...<NOD
+Those things would be distracting
+from time that could be spent on
+the mod, instead.<NOD<CLR
+Does that make me sound fickle?<NOD<FL+2367<END
+#0233
+<MSGDid you know there's an exp-
+capsule hidden in this room?<NOD
+The ceiling over to the left is
+fake.<NOD<CLRI would've mentioned it earlier,
+but...<NOD Well, that would make
+things a little unfair.<NOD<FL+2368<END
+#0234
+<MSGAlright, lemme think.<NOD
+What haven't I indulged you in?<NOD
+Well, there are two additional
+items from the original game that
+will 'transfer over' in a way.<NOD<CLRThe first is the Little Man.<NOD
+You might even have him in your
+pocket right now for all I know.<NOD
+Give him a chat every once in a
+while if you like.<NOD<CLRThe other is the Ikachan medal.<NOD
+There's no such medal in this
+mod, but it WILL let you start
+the game with the =Map System=.<NOD<FL+2369<END
+#0235
+<MSGI've also been messing around
+with the weapons a lot lately,
+trying to balance them.<NOD
+The =Snake= had a major revamp
+in how it deals damage so that
+it isn't too overpowered.<NOD
+Since it pierces through enemies
+en masse, it makes the first boss
+a lot easier to deal with.<NOD<FL+2370<END
+#0236
+<MSGAnd that's...<NOD
+All I really have to talk about.<NOD<END
+#0240
+<KEY<MSGIt's a computer.<NOD
+The keyboard is completely worn
+out, and almost illegible.<NOD<CLO
+<FLJ2252:0241<END
+#0241
+<FLJ2254:0242<END
+#0242
+<FLJ2256:0243<END
+#0243
+<FLJ2258:0244<END
+#0244
+<MSG
+There's a note...<NOD<CLR<TURTo those who found all five:
+Seek the door that isn't a door
+in the source of all magic.<NOD<END
+#0300
+<KEY<FLJ2259:0305<FLJ2257:0304<FLJ2255:0303<FLJ2253:0302<FLJ2251:0301<END
+#0301
+<MSG
+February 2nd, 2013; 12:53 AM.<NOD<CLRSlowly but surely I work on the
+first caves.<NOD I think I've taken
+on an obsession in doing so.<NOD
+I can't seem to quite pull myself
+from polishing this stuff before
+I move on.<NOD<CLR
+A friend of mine has agreed to do
+new graphics for some of the
+largest bosses in the game-to-be.<NOD<CLRHis life has been kind of hectic
+lately, though.<NOD I'm not sure
+if he'll really have the time
+to do it...<NOD<END
+#0302
+<MSG
+February 17th, 2013; 3:02 PM.<NOD<CLRIt's time to put out the first
+demo of this mod remake.<NOD
+A "re-mod", if you will.<NOD<CLRI've put a lot of work
+into it, and hopefully people
+appreciate that.<NOD I dare
+say I put more work into it
+than Shmitz originally intended!<NOD<CLROf course, it was never my
+intent to upstage him.<NOD
+I always loved the original game,
+in concept...<NOD But its incompletion
+leaves a bit of a hole in my
+heart.<NOD Especially after a good
+five years since its conception...<NOD<CLRI hope wherever he ran off
+to, he'll one day look back at
+what I have done in his stead.<NOD
+That way, he can feel great
+pride in knowing how much of
+an impact his mod really holds.<NOD<END
+#0303
+<MSG
+May 8th, 2013; 7:36 PM.<NOD<CLRThe Labyrinth is done.<NOD
+Took a few weeks, in fact, and
+entirely due to my schedule.<NOD
+It can't be helped.<NOD<CLRI'd like to say there's only a
+"few" more things to do before
+the second demo, but...<NOD
+Well, I'm still debating on
+having both Genesis AND
+Oblivion available.<NOD<CLRUltimately, though, there's a lot
+of other minor bases I need to
+cover first.<NOD The =Nemesis= is
+almost immediately available
+after the Labyrinth, and there's
+loads of other little things
+that I need to write out, too.<NOD<CLRI wonder if the second demo
+will contain a second secret
+room as well.<NOD<END
+#0304
+<MSG
+June 29th, 2013; 2:32 PM.<NOD<CLRIt has been over four months
+since I released the first demo.<NOD
+I am nearing the completion of
+the second demo too, now, and am
+looking to release it very soon.<NOD<CLRThe portions of the game that are
+in this demo were very mechanic-
+intensive, and took a long time.<NOD
+I intended to add even more to
+this demo, but...<NOD Well, I feel
+that everyone's been waiting more
+than long enough.<NOD<CLRI just hope I'm doing things
+right, and not just stumbling
+through the dark like a moron.<NOD
+This stuff is time-consuming,
+and I'd hate for it to all have
+been a massive waste of time.<NOD<END
+#0305
+<MSG
+April 19th, 2014; 10:35 PM.<NOD<CLRI haven't written a diary for
+a secret room in a long time.<NOD
+Has it really been 10 months...?<NOD<CLRThe game is almost complete, and
+I hope I can get it out by the
+end of the month.<NOD It's cutting
+it close, but...<NOD<CLRAt the time of writing, I've only
+a few pieces of dialog left to
+write near the end of the game.<NOD
+That and some ASM for the final
+boss, which might take the
+longest...<NOD<CLROn the other hand, a lot of
+the time spent on this mod has
+been procrastinating the dialog,<NOD
+so for all I know that might
+take equally as long...<NOD<END
+#0500
+<PRI<MSG
+Do you want to use the teleporter?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FL-2257<FAO0004<FOM0016<TRA0044:0099:0005:0008

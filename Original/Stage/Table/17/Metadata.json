@@ -1,0 +1,12 @@
+{
+  "parts": "Mimi",
+  "map": "Plant",
+  "bkType": 1,
+  "back": "bkGreen",
+  "back_water": "bkGreen",
+  "npc": "Plant",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "normal",
+  "name": "Yamashita Farm"
+}

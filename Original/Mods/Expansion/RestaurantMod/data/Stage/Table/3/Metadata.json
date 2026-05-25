@@ -1,0 +1,12 @@
+{
+  "parts": "Pens",
+  "map": "mod003",
+  "bkType": 4,
+  "back": "bkBlack",
+  "back_water": "bkBlack",
+  "npc": "Guest",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Main Area"
+}

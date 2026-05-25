@@ -1,0 +1,360 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<CMU0002<FAI0004<END
+#0099
+<KEY<MNA<CMU0002
+<ANP0500:0001:0000<FAI0004
+<CNP0301:0112:0002<WAI0100
+<ANP0500:0000:0000
+<MYD0002<SMC<DNP0301<END
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0045:0094:0033:0009
+#0150
+<FLJ0107:0151<FL+0107
+<PRI<MSGSome Gaudi believe we were put
+in this labyrinth for a purpose.<NOD
+Others believe we were unfairly
+imprisoned here.<NOD<CLROf course, now that the Core is
+gone, even the first group is
+starting to wonder why we stay.<NOD<END
+#0151
+<FLJ0203:0153<PRI<MSGKinda makes you wonder...<NOD
+What WAS The Core anyway?<NOD
+Why did we need to guard it?<NOD
+Hmmmm...<NOD<END
+#0153
+<FLJ0342:0154<FL+0342
+<PRI<MSGThey say many years ago, when
+human researchers first came to
+the island,<NOD they built the room
+around the core while it slept.<NOD
+They did this in case the core's
+power went wild in anger, and
+ripped the island apart...<NOD<END
+#0154
+<PRI<MSGEeeehh, I'm just yanking your
+chain.<NOD I really don't know anythingabout the humans who came here.<NOD
+I promise.<NOD<END
+#0160
+<FLJ0108:0161<FL+0108
+<PRI<MSGA traveller once came through
+here gloating about how he never
+once got lost.<NOD Sometime recently,
+he returned, complaining that he
+couldn't find some thingamajig.<NOD<EVE0161
+#0161
+<FLJ0117:0162<PRI<MSGThe traveller said he left his
+manuawhatzit hidden inside some
+sort of "clock" thing.<NOD<CLR
+...What's a "clock"?<NOD<END
+#0162
+<ITJ0026:0163<PRI<MSGI heard there was another robot
+traveling around the labyrinth...<NOD
+His head looked kinda funny.<NOD<END
+#0163
+<PRI<MSGI heard there was another robot
+who managed to make his way out of
+the labyrinth...<NOD
+Where he is now, I've no idea.<NOD<END
+#0170
+<FLJ0117:0172<FLJ0109:0171<FL+0109
+<PRI<MSGAah...<NOD I'm SO hungry for Mimiga
+flesh...<NOD I should go join the
+Revolutionarium.<NOD But every time
+I mention it, Chaba glares at
+me angrily...<NOD<CLR
+Ah!<NOD He's glaring right now!<NOD<END
+#0171
+<PRI<MSGEvery time I mention the
+Revolutionarium, Chaba glares at
+me angrily...<NOD<CLR
+Ah!<NOD He's glaring right now!<NOD<END
+#0172
+<PRI<MSGSome jerk managed to fight and
+BEAT the legendary Gaudska-teers.<NOD
+I finally got my poster of them
+in, and now it's worthless...<NOD<END
+#0180
+<FLJ0343:0184<FLJ0203:0183<FLJ0145:0182<FLJ0110:0181<FL+0110
+<PRI<MSGLooking for a way out of the
+Labyrinth?<NOD Fat chance!<NOD The only
+way out is through the
+Revolutionarium!<NOD<CLROh, where's that?<NOD
+It's waaay down the corridor past
+Monster X's place.<NOD But good luck!<NOD
+That corridor's filled to the
+brim with lethal spike traps!<NOD<END
+#0181
+<PRI<MSGCome to think of it, if you
+could get X's vehicle working
+again, you could ride it there.<NOD
+It might be a bit of a bumpy
+ride though; there's tons of
+angry Gaudi guarding the pass.<NOD<END
+#0182
+<PRI<MSGAhah!<NOD I heard you managed to
+escape the labyrinth, but I knew
+they were lying!<NOD<CLROh, you teleported back here?<NOD
+...You're weird.<NOD<END
+#0183
+<FLJ0145:0182<PRI<MSGAhah!<NOD I heard you managed to
+escape the labyrinth, but I knew
+they were lying!<NOD<CLROh, you were teleported back here?<NOD
+Sucks to be you, bro.<NOD<END
+#0184
+<PRI<MSGAh!<NOD Another silly robot got
+lost in the labyrinth.<NOD Sorry
+missy, but there's no way out.<NOD
+None that I know of, anyway...<NOD<END
+#0190
+<FLJ0343:0193<FLJ0145:0192<FLJ0111:0191<FL+0111
+<PRI<MSGWe had a bit of a building
+expansion since you were here,
+last time.<NOD
+We devoted the entire upper floor
+to the teleporter, but then we
+found out it wasn't working.<NOD
+Now Chaba thinks we broke it.<NOD<END
+#0191
+<PRI<MSGIf you can figure out how to
+get the teleporter working again,
+we'd really appreciate it.<NOD
+Chaba still gets huffy whenever
+we mention the thing.<NOD<END
+#0192
+<PRI<MSGHey, I noticed you managed to
+get the teleporter working again!<NOD
+I kinda told Chaba that I was
+the one who fixed it.<NOD
+I hope you don't mind...<NOD<END
+#0193
+<PRI<MSGOy, is this place becoming a
+tourist attraction now that the
+teleporter's working?<NOD
+I'd have left it broken if I
+knew this would happen...<NOD<END
+#0200
+<KEY<SOU0043<ANP0200:0000:0002<WAI0001<FLJ0117:0202<FLJ0112:0201<FL+0112
+<PRI<MSG
+. . . . . SEARCHING . . . . .<NOD<CLR<SOU0043
+CONNECTION FOUND<NOD<CLR
+OPENING CLIENT . . .<NOD<CLR...Hey, someone's sending us
+a transmission!<NOD Location...<NOD
+Labyrinth!?<NOD<CLR
+Huh?<NOD Let me see that...<NOD<CLR<FAC0016
+Quote, is that you?<NOD<CLO<FAC0000<MSG
+...Hey, let me on this thing!<NOD<CLO<FAC0001<MSG
+Quote!<NOD You're okay!<NOD<CLRBoy, this is some mess
+we're in this time, huh?<NOD<FAC0003
+I managed to find my way
+to this little town.<NOD<FAC0001
+But enough about me...<NOD
+How in the heck did you
+wind up back in the
+Labyrinth again!?<NOD<FAC0002
+Yeesh, well, you're on
+your own for now.<NOD<CLR<FAC0001Oh?<NOD You found Balrog?<NOD
+And...<FAC0002
+got seperated again?<NOD<CLO<FAC0000<MSG
+...Excuse me!...<NOD<CLO<FAC0012<MSGI hate to interrupt, but
+Booster contacted us
+recently.<NOD<FAC0013 Quote, I
+need you to bring the
+Sand Zone card ASAP.<NOD<FAC0011
+Booster wants to sit down
+with us and discuss
+things.<NOD It'd help a
+lot if he could sit in
+the same room as us.<NOD<CLO<FAC0000<MSG
+...Hey, hey, don't hang up!<NOD<CLO<FAC0005<MSGAlright Quote, try to get
+back here in one piece.<NOD<FAC0001
+I'm going to stick around
+this village and keep it
+safe while you're gone.<NOD<CLR
+See you soon!<NOD<CLO<FAC0000<MSG<SOU0043
+CONNECTION LOST<NOD<END
+#0201
+<PRI<MSG
+. . . . . SEARCHING . . . . .<NOD<CLR<SOU0043
+CONNECTION FOUND<NOD<CLR
+OPENING CLIENT . . .<NOD<CLR<FAC0017Hey Quote, still kind
+of busy on this end.<NOD<FAC0011
+Oh, don't forget the data
+card to the Labyrinth
+while you're there!<NOD<CLO<FAC0000<MSG<SOU0043
+CONNECTION LOST<NOD<END
+#0202
+<PRI<MSG
+. . . . . SEARCHING . . . . .<NOD<CLR<SOU0043
+CONNECTION BUSY<NOD<END
+#0250
+<FLJ0101:0255<ITJ0029:0254<FLJ0114:0253<FLJ0113:0251<FL+0113
+<PRI<MSGHey there.<NOD<CLRThis is the Labyrinth Shop!<NOD
+Professor Booster sent you?<NOD
+Yeah, I know him.<NOD
+I've been working with him a bit
+the last few weeks.<NOD
+He ordered an =Energy Cell= a
+week ago, but hasn't really
+followed up since.<NOD I started to
+think he lost interest!<NOD<CLRSad to say, the Gaudis in
+charge of shipping the thing here
+got themselves in some trouble.<NOD
+Long story short, the =Energy Cell=is being held off in the
+Revolutionarium.<NOD It's a long
+ways off down the corridor...<NOD<FLJ0093:0252<CLRSay, while you're here...<NOD
+I've been having some other
+trouble with my inventory, as
+of late.<NOD Someone or something
+has been messing around in
+my cold-storage.<NOD<CLRWould you mind checking it out
+for me?<NOD You can have anything you
+think might help you out.<NOD<EVE0258
+#0251
+<PRI<MSGYeah, the corridor's kind of a
+death trap, as of late.<NOD If you
+wanna get to the Revolutionarium,
+you're going to need some help.<NOD<FLJ0093:0252<END
+#0252
+<PRI<MSGHm?<NOD =Critter Juice= for
+Monster X?<NOD Well, I suppose you
+could try riding his treads down
+to the Revolutionarium...<NOD<CLRWait, wait, I thought X
+already stole a good crate full
+of the stuff just recently!<NOD
+If it wasn't him, who was it?<NOD<CLR
+.....<NOD<CLRWell, if you need it immediately,
+you can head straight to my
+cold-storage warehouse yourself.<NOD
+It's kind of a doozy to get to
+it though...<NOD<CLO<EVE0258
+#0253
+<PRI<MSGThe clock hand spins round and
+round...?<NOD Shoot, how did that song
+I used to remember it go...?<NOD<END
+#0254
+<ITJ0004:0256
+<PRI<MSGOh, I see you got the
+=Critter Juice=!<NOD ...<NOD
+Well what are you giving it to
+me for?<NOD Go give it to
+Monster X, so you can get
+that =Energy Cell= back!<NOD<END
+#0255
+<ITJ0004:0256
+<PRI<MSGI'm not taking sides in any
+Gaudi politics.<NOD I'm doing what I
+like to do, and it doesn't matter
+to me what anyone else does.<NOD<CLRI can't help but think about
+Booster, Jenka, and Misery,
+though.<NOD They've been trying to
+help out everyone on the island,
+Gaudi and Mimiga alike.<NOD<CLRWe're not acting very united,
+are we?<NOD<END
+#0256
+<PRI<MSG<GIT1004
+Hmm?<NOD<CLRHey, could I take a quick
+look at that little capsule
+you have there?<YNJ0257<CLR
+.....<NOD<CLR
+..........<NOD<CLR<SOU0022<GIT0000<IT-0004
+Oh?<NOD It opened?<NOD<CLR
+Well I guess this is yours.<NOD<GIT0001<AM-0001<AM+0001:0000<CLR
+<CMU0010Got the =Hydra=!<WAI0180<NOD<RMU<CLO
+<FL+2222<ITJ0011:0259<END
+#0257
+<MSG
+Alright, suit yourself.<NOD<END
+#0258
+<MSG<GIT1028<IT+0028<FL+0114
+First, you'll need this key.<NOD<CLRThe door should be down at the
+bottom of the area with the twin
+clinics.<NOD It's a bit of a maze
+in there, though.<NOD To get through
+the maze...<NOD Hmm...!<NOD<GIT0000<CLR
+I'm really not sure!<NOD<CLR
+..........<NOD<CLROh, don't look at me like that.<NOD
+I'm sure someone in the
+Labyrinth knows the trick to
+getting through the maze.<NOD<END
+#0259
+<IT-0011<MSG<GIT1011The =Afterburner= wasn't useful
+anymore, so you discarded it.<NOD<END
+#0400
+<PRI<DNP0400<FL-4009<EVE0004
+#0500
+<FLJ0145:0503<ITJ0027:0502<FLJ0125:0501<FL+0125
+<PRI<MSGIt's a teleporter.<NOD
+It appears to still be in working
+condition.<NOD Upon closer inspection,
+it looks like a panel was removed.<NOD<EVE0501
+#0501
+<PRI<MSGA small screen inside says,
+"CANNOT CONNECT TO ROUTER,
+USE KEYCARD FOR MANUAL ENTRY"<NOD
+The keycard is still inside.<NOD<CLR
+Take the keycard?<YNJ0000<GIT1027<IT+0027<CLR
+<CMU0010Got the =Labyrinth Data Card=!<WAI0180<NOD<RMU<END
+#0502
+<PRI<MSGA small screen inside says,
+"CANNOT CONNECT TO ROUTER,
+USE KEYCARD FOR MANUAL ENTRY"<NOD
+The keycard was already taken.<NOD<END
+#0503
+<KEY<MSGA teleporter.<NOD<SLP<NOD<END
+#6001
+<PRI<MSGDo you want to go to the
+Mimiga Village?<YNJ0000<CLO<FLJ0225:6011
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<FL-0100<TRA0014:0099:0004:0005
+#6002
+<PRI<MSGDo you want to go to
+Grasstown?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<FL-0100<TRA0025:0099:0013:0009
+#6003
+<PRI<MSGDo you want to go to the
+Sand Zone?<YNJ0000<CLO<FLJ0343:6013
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<FL-0100<TRA0040:0099:0016:0007
+#6004
+<END
+#6005
+<PRI<MSGDo you want to go to the
+Aqueducts?<YNJ0000<CLO<FLJ0146:6015<FL-0100<EVE6010
+#6006
+<PRI<MSGDo you want to go to the
+Observatory?<YNJ0000<CLO<FLJ0343:6016
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<FL-0100<TRA0084:0099:0015:0005
+#6007
+<PRI<MSGDo you want to go to the
+Surface?<YNJ0000<CLO<FLJ0343:6017
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<FL-0100<TRA0092:0099:0013:0008
+#6010
+<PRI<MSG<TUR
+ERROR! PERMISSION NOT YET GRANTED!<NOD<END
+#6011
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<FL-0100<TRA0012:0099:0004:0005
+#6013
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<FL-0100<TRA0093:0099:0013:0016
+#6015
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<FL-0100<TRA0056:0099:0010:0010
+#6016
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<FL-0100<TRA0101:0099:0015:0005
+#6017
+<PRI<MSG<TUR
+ERROR! TELEPORTER OFFLINE!<NOD<END

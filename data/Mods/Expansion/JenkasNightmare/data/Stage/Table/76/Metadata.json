@@ -1,0 +1,12 @@
+{
+  "parts": "Hallow",
+  "map": "JN076",
+  "bkType": 1,
+  "back": "bkPurple",
+  "back_water": "bkPurple",
+  "npc": "Hallow",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "恶魔的花园"
+}

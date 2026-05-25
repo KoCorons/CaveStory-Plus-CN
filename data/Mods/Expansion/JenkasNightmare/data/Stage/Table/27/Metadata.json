@@ -1,0 +1,12 @@
+{
+  "parts": "Barr",
+  "map": "JN027",
+  "bkType": 1,
+  "back": "bkBlue",
+  "back_water": "bkBlue",
+  "npc": "0",
+  "boss": "Weed",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "发电机房"
+}

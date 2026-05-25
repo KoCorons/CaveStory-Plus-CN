@@ -1,0 +1,12 @@
+{
+  "parts" : "SandX",
+  "map" : "SandX",
+  "bkType" : 1,
+  "back" : "bkGreen",
+  "back_water": "bkGreen",
+  "npc" : "Minilog",
+  "boss" : "Bllg",
+  "boss_no" : 0,
+  "lighting": "disabled",
+  "name" : "砂区仓库前"
+}

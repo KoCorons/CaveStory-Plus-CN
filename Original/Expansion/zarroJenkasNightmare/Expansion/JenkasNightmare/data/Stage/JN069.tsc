@@ -1,0 +1,93 @@
+
+#0090
+<MNA<CMU0019<FAI0000<END
+#0091
+<MNA<CMU0019<FAI0001<END
+#0092
+<MNA<CMU0019<FAI0002<END
+#0093
+<MNA<CMU0019<FAI0003<END
+#0094
+<MNA<CMU0019<FAI0004<END
+#0095
+<FAI0004<WAI0040<FLA<SOU0029<WAI0001<SMC<WAS<WAI0020<FL+0444
+<MS3
+......<NOD<CLO<MNA<CMU0019<END
+#0100
+<PRI<FAO0004<TRA0054:0095:0032:0010
+#0200
+<KEY<MYB0200<WAI0010<ANP0200:0000:0004<WAS<FLJ0204:0208<FL+0204<MSG
+<FAC0007<ANP0200:0030:0004Aha!<NOD<CLRHey Quote!<NOD
+<FAC0006Where'd you run off to?<NOD
+We got seperated back in
+that small room with the
+boulder, remember?<NOD Haha...<NOD<CLRWell, uhm.<NOD All that sand
+in my thrusters turned
+into a thick mud.<NOD<CLO<AMJ0003:0201<AMJ0001:0202<AMJ0007:0204<EVE0206
+#0201
+<MSG<FAC0006Could I borrow your
+=Fireball= for a while,
+to try drying off?<NOD
+Curly gave me her
+=Machine Gun= when she
+went scuba diving, so...<NOD
+<FAC0007<ANP0200:0030:0004How about we trade?<YNJ0205<CLO<FAC0000<MSG<AM-0003
+<GIT0003Gave Balrog the =Fireball=.<NOD<CLO<FL+0205<EVE0207
+#0202
+<FLJ2222:0203
+<MSG<FAC0006Could I borrow your
+=Snake= for a while,
+to try drying off?<NOD
+Curly gave me her
+=Machine Gun= when she
+went scuba diving, so...<NOD
+<FAC0007<ANP0200:0030:0004How about we trade?<YNJ0205<CLO<FAC0000<MSG<AM-0001
+<GIT0001Gave Balrog the =Snake=.<NOD<CLO<FL+0206<EVE0207
+#0203
+<MSG<FAC0006Could I borrow your
+=Hydra= for a while,
+to try drying off?<NOD
+Curly gave me her
+=Machine Gun= when she
+went scuba diving, so...<NOD
+<FAC0007<ANP0200:0030:0004How about we trade?<YNJ0205<CLO<FAC0000<MSG<AM-0001
+<GIT0001Gave Balrog the =Hydra=.<NOD<CLO<FL+0206<EVE0207
+#0204
+<MSG<FAC0006Could I borrow your
+=Bubbler= for a while, to
+try cleaning out the mud?<NOD
+Curly gave me her
+=Machine Gun= when she
+went scuba diving, so...<NOD
+<FAC0007<ANP0200:0030:0004How about we trade?<YNJ0205<CLO<FAC0000<MSG<AM-0007
+<GIT0007Gave Balrog the =Bubbler=.<NOD<CLO<FL+0207<EVE0207
+#0205
+<MSG<FAC0006Oh.<NOD Okay...<NOD<CLO<EVE0206
+#0206
+<MSG<FAC0006I guess I'll stick around
+here until the mud comes
+out on its own...<NOD
+I'll meet up with you and
+Curly once I get out of
+here, alright?<NOD<END
+#0207
+<AM+0004:0040<MSG
+<CMU0010<GIT0004Got Curly's =Machine Gun=!<WAI0160<NOD<RMU
+<GIT0000<MSG<FAC0007<ANP0200:0030:0004Thanks, Quote!<NOD
+As soon as I get myself
+cleaned up, I'll try to
+meet with you and Curly.<NOD<CLR
+See you later!<NOD<FL+2120<END
+#0208
+<MSG<FAC0007<ANP0200:0030:0004Hey, Quote.<NOD<CLO<FLJ0205:0209<FLJ0206:0209<FLJ0207:0209
+<AMJ0003:0201<AMJ0001:0202<AMJ0007:0204<EVE0209
+#0209
+<AMJ0005:0210<AMJ0010:0210<EVE0211
+#0210
+<ITJ0007:0033<ITJ0010:0034<EVE0211
+#0211
+<MSG<FAC0006So this is where you guys
+fought the island's core,
+huh?<NOD<CLRI wonder who built this
+place to begin with?<NOD Was
+it Jenka, or someone else?<NOD<END

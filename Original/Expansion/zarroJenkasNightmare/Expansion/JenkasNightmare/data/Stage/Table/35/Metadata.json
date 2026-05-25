@@ -1,0 +1,12 @@
+{
+  "parts": "Sand",
+  "map": "JN035",
+  "bkType": 1,
+  "back": "bkGardGG",
+  "back_water": "bkGardGG",
+  "npc": "Sand2",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Eroding Valve"
+}

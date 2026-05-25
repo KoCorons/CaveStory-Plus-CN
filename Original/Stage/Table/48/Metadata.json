@@ -1,0 +1,12 @@
+{
+  "parts": "River",
+  "map": "River",
+  "bkType": 2,
+  "back": "bkGreen",
+  "back_water": "bkCircle2",
+  "npc": "Weed",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "normal",
+  "name": "Waterway"
+}

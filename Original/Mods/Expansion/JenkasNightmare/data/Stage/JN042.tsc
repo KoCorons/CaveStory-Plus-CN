@@ -1,0 +1,482 @@
+
+#0090
+<MNA<FLJ0225:0195<FLJ0203:0190<FLJ0085:0095<CMU0008<FAI0000<END
+#0091
+<MNA<FLJ0225:0196<FLJ0203:0191<FLJ0085:0096<CMU0008<FAI0001<END
+#0092
+<MNA<FLJ0225:0197<FLJ0203:0192<FLJ0085:0097<CMU0008<FAI0002<END
+#0093
+<MNA<FLJ0225:0198<FLJ0203:0193<FLJ0085:0098<CMU0008<FAI0003<END
+#0094
+<MNA<FLJ0225:0199<FLJ0203:0194<FLJ0085:0099<CMU0008<FAI0004<END
+#0095
+<FLJ0089:0190<CNP0302:0113:0002<MNP0302:0012:0010:0002<CMU0019<FAI0000<END
+#0096
+<FLJ0089:0191<CNP0302:0113:0002<MNP0302:0012:0010:0002<CMU0019<FAI0001<END
+#0097
+<FLJ0089:0192<CNP0302:0113:0002<MNP0302:0012:0010:0002<CMU0019<FAI0002<END
+#0098
+<FLJ0089:0193<CNP0302:0113:0002<MNP0302:0012:0010:0002<CMU0019<FAI0003<END
+#0099
+<FLJ0089:0194<CNP0302:0113:0002<MNP0302:0012:0010:0002<CMU0019<FAI0004<END
+#0100
+<PRI<SOU0011<DNP0100<FAO0002<TRA0037:0092:0176:0016
+#0150
+<KEY<MSG
+The puppy sleeps peacefully.<NOD<END
+#0190
+<CMU0019<FAI0000<END
+#0191
+<CMU0019<FAI0001<END
+#0192
+<CMU0019<FAI0002<END
+#0193
+<CMU0019<FAI0003<END
+#0194
+<CMU0019<FAI0004<END
+#0195
+<DNP0200<CMU0008<FAI0000<END
+#0196
+<DNP0200<CMU0008<FAI0001<END
+#0197
+<DNP0200<CMU0008<FAI0002<END
+#0198
+<DNP0200<CMU0008<FAI0003<END
+#0199
+<DNP0200<CMU0008<FAI0004<END
+#0200
+<FLJ0219:0209<FLJ0203:0217<FLJ0152:0207<FLJ0086:0201<FL+0086
+<KEY<MSG<FAC0026Even after you defeated
+Ballos and freed me from
+the crown,<NOD Jenka would
+not see me.<NOD I hoped
+that in time...<NOD But now,
+things have changed.<NOD<CLRI shouldn't have
+attacked you.<NOD<CLRMy mother taught me
+once how to make her
+=Life Pot=,<NOD but I don't
+have all of the
+ingredients I need.<NOD<CLRIf you happen to come
+across any of them...<NOD
+...Just a moment.<NOD<CLO<FAC0000<WAI0050<MSG
+............<NOD<CLR<IT+0040<GIT1040<FAC0026Here.<NOD I've written
+down what I need.<NOD<GIT0000<FL+0420<FL+0421<END
+#0201
+<ITJ0033:0203<EVE0202
+#0202
+<KEY<MSG<FAC0026Come back here once you
+find all the ingredients.<NOD
+I need some =Rosehips=,
+some =Chamomile=, and
+some =Prickly Ash Bark=.<NOD<END
+#0203
+<ITJ0034:0204<EVE0202
+#0204
+<ITJ0035:0205<EVE0202
+#0205
+<ITJ0015:0206<FL+0152<IT-0033<IT-0034<IT-0035<IT-0040
+<KEY<MSG<GIT1034<FAC0026Oh?<NOD Well, what do you know,
+you found them all.<NOD<GIT0000
+Give me just a few
+minutes and I'll have it
+done for you.<NOD<CLO<FMU<FAO0001<FON0200:0016
+<FAC0000<WAI0100<FAI0001<MSG<GIT1015<IT+0015<FL+2131
+<CMU0010Got a =Life Pot=!<WAI0160<NOD<GIT0000<CLO<RMU<FOM0016<END
+#0206
+<KEY<MSG<GIT1034<FAC0026Oh?<NOD Well, what do you know,
+you found them all...<NOD
+But...<NOD<GIT1015<FAC0028 Hey, how do you
+already have one?<NOD
+<FAC0026You held onto the one my
+mother gave you after all
+this time...?<NOD<CLR<GIT0000<FAC0028Bah!<NOD<FAC0027 I need the ingredients
+for myself, anyway.<NOD<CLR<FAC0000<FL+0152<IT-0033<IT-0034<IT-0035<IT-0040
+=Ingredients= have been taken.<NOD<END
+#0207
+<FLJ0348:0208
+<KEY<MSG<FAC0026Sorry, but there's really
+only enough here for two
+=Life Pots=.<NOD<FAC0027 And I'd like
+to save one for my mother,
+thank you very much.<NOD<END
+#0208
+<KEY<MSG<FAC0026Sorry, but there's really
+only enough here for one
+=Life Pot=.<NOD<FAC0027 And I'd like
+to save it for my mother,
+thank you very much.<NOD<END
+#0209
+<FLJ0349:0210<KEY<MSG<FAC0026You again?<NOD<FAC0028 Surely you've
+heard the news by now.<NOD
+There's nothing we can do.<NOD<CLO<EVE0211
+#0210
+<KEY<MSG<FAC0026I don't know what it is
+you're fighting for, but
+be prepared.<NOD<FAC0028 In the end,
+the worst might hit you
+before you can react...<NOD<END
+#0211
+<ITJ0033:0213<EVE0212
+#0212
+<KEY<MSG<FAC0026I was just about to head
+out for a while...<NOD But...<NOD
+I don't know what there is
+to do anymore.<NOD<END
+#0213
+<ITJ0034:0214<EVE0212
+#0214
+<FL+0349<ITJ0035:0215<FL-0349<EVE0212
+#0215
+<ITJ0015:0216<FL+0152<IT-0033<IT-0034<IT-0035<IT-0040
+<KEY<MSG<GIT1034<FAC0026Oh?<NOD You found them all.<NOD
+I wish it were a little
+sooner, but...<NOD<CLR<GIT0000...Give me a few moments,
+and I'll have it made
+for you.<NOD<CLO
+<FMU<FAO0001<FON0200:0016<FAC0000<WAI0100<FAI0001<MSG<GIT1015<IT+0015
+<CMU0010Got a =Life Pot=!<WAI0160<NOD<GIT0000<CLO<RMU<FOM0016<END
+#0216
+<KEY<MSG<GIT1034<FAC0026Oh?<NOD You found them all...<NOD
+But...<NOD<GIT1015<FAC0028 Hey, how do you
+already have one?<NOD
+<FAC0026You held onto the one my
+mother gave you after all
+this time...?<NOD<CLR<GIT0000<FAC0028Bah!<NOD It doesn't really matter
+one way or the other
+anymore, does it?<NOD
+<FAC0026I'll take them off your
+hands for now.<NOD<CLR<FAC0000<FL+0152<IT-0033<IT-0034<IT-0035<IT-0040
+=Ingredients= have been taken.<NOD<END
+#0217
+<FLJ0391:0218<FL+0391
+<KEY<MSG<FAC0026You...?<NOD<FAC0028 You're the very
+last person I wish to
+see, right now.<NOD I need
+some time to think...<NOD<CLO<ITJ0033:0213<END
+#0218
+<KEY<MSG<FAC0028I fear the worst for my
+mother, right now.<NOD I'm...<NOD
+Really at a loss of what
+to say or do...<NOD<END
+#0300
+<KEY<DNP0300<MM0<MYD0002<SKJ0019:0400<SK+0019<MSG
+Stop right there!<NOD<CLO<CNP0301:0067:0000<WAI0050
+<MSG<FAC0028How dare you barge
+into my home--<NOD<CLR<ANP0301:0013:0000
+<FAC0026Oh, it's you?<NOD<CLRWait, what do you want?<NOD
+Why did you return to this
+island with that stupid
+bloodhound, anyway?<NOD<CLR
+<FAC0026Jenka...?<NOD<CLR<FAC0028Oh, so THAT'S how it is.<NOD
+Sure, she asks for YOU, but
+if I so much as step one
+foot inside her barrier...<NOD
+I get turned into that...<NOD
+that...<NOD THING.<NOD<CLR<CMU0000No, of COURSE she would
+ask you, HERO, and not her
+own DAUGHTER.<NOD That's all
+she thinks of me!<NOD<CLR<FAC0027Maybe if I leave her with
+no other choice!?<NOD<CLO<CNP0301:0247:0000<FAC0000
+<ANP0301:0100:0000<CMU0004<BSL0301<FRE<KEY
+<WAI0050<MNP0100:0000:0000:0000<SOU0011<FON0302:0016<MNP0302:0004:0008:0000
+<ANP0301:0020:0000<CMU0000
+<KEY<MSGDid your time served
+under the crown teach you
+nothing, girl!?<NOD<CMU0000<CLR<CLO
+<CNP0302:0113:0002<WAI0020<MNP0100:0004:0008:0000<SOU0011<WAI0010
+<CNP0302:0113:0002<ANP0302:0003:0002<WAI0175<ANP0302:0000:0002<MYD0000
+<CNP0301:0082:0000<FON0301:0032<MSG
+<FAC0028What do you want!?<NOD<CLR<FON0302:0032
+<MSG<FAC0024Taking your anger out on
+him isn't going to do
+anything to help Jenka.<NOD<CLR<FON0303:0032
+<FAC0028You...!<NOD<CLR
+<FAC0024I know it's frustrating...<NOD<CLR
+<FAC0028But...!<NOD<CLR<FON0302:0032
+<FAC0024Oh, hush!<NOD<CLRI know you're older than
+me, but honestly?<NOD You're
+acting like a child!<NOD<CLO
+<MSG<FAC0026
+...<NOD<CLR<FAC0024If Jenka asked him for
+help, she thinks he can.<NOD
+And if she thinks he can,
+in her current state, it
+will become reality.<NOD<CLR<FON0303:0016<FAC0026I know...<NOD It's just,
+she's my mother.<NOD<FAC0028 And I
+can't do anything!<NOD<CLR<FAC0026
+*Sigh*<NOD ...I'm sorry.<NOD<CLO<FON0303:0016<FAC0000
+<ANP0302:0003:0002<WAI0048<ANP0302:0000:0002<CMU0019
+<MSG<FAC0024Ultimately no harm done,
+although I'm glad I came
+in when I did.<NOD<CLRAs for you, your presence
+here gives me some idea
+of what Jenka's thinking.<NOD<CLRWe should fill you in on
+what we've discovered so
+far, first.<NOD Misery,
+you're probably a better
+source than myself...<NOD<CLR<FON0301:0032<FAC0026Yes, of course.<NOD<MYD0002
+I couldn't tell you all
+the details, but there are
+two forces at work, here.<NOD
+Both of them created by
+my mother, recently...<NOD<CLROne of them, who we've
+called 'Oblivion',
+destroys matter.<NOD
+The other, 'Genesis',
+seems to create from what
+is destroyed by Oblivion.<NOD<CLRTogether, they have been
+destabilizing the island.<NOD<CLRIf we could in some way
+extinguish them both, it
+might break the barrier.<NOD
+But if she's actively
+directing them, she might
+simply recreate them...<NOD<CLR<FON0302:0032<FAC0024Didn't you once say you
+could sense she was
+unconscious, Misery?<NOD<CLR<FON0301:0032<FAC0027Don't underestimate what
+a witch can control,
+even unconsciously!<NOD<CLR
+<FAC0026Still...<NOD<CLR
+<FON0302:0032<FAC0024Hmm...<NOD<CLR<MYD0000The more I think about
+the situation, the more
+I feel like there's...<NOD
+A third party at play.<NOD<CLR
+<FAC0027Hah!<NOD Like anyone could--<WAI0005<CLR
+<FAC0024Now, hear me out.<NOD<CLRWhy would Jenka of all
+people ever actively
+tear the island apart?<NOD
+Furthermore, do we
+destroy Genesis and
+Oblivion to wake her?<NOD
+Or do we wake her to
+destroy Genesis and
+Oblivion?<NOD<CLR<FON0301:0032<FAC0026Hmm...<NOD It's hard
+to say...<NOD<CLR<FAC0028<MYD0002Still, not even her
+brother could do
+something like this.<NOD
+Or, at least, not...<NOD
+<FAC0026Hmm...<NOD<CLR
+<FAC0024Misery?<NOD<CLR<FON0302:0032<MYD0000Do you think it's
+possible she's mourning
+Ballos's death?<NOD 
+That, perhaps, that's
+what has driven her to
+create these nightmares?<NOD<CLR
+<FAC0026It's...<NOD possible.<NOD<CLR<FON0301:0032<FAC0026<MYD0002If her nightmares are
+driving her to eliminate
+his memory so thoroughly...<NOD<CLR<FAC0024Well, I suppose we've no
+other choice than to do
+what we can.<NOD<CLR<MYD0000
+Uhm...<NOD Hum...<NOD<CLR<FON0303:0016We never did ask his name
+last time, did we?<NOD<CLR
+<FAC0027Hahahah...<NOD<CLR<MYD0002I suppose not.<NOD
+Care to enlighten us,
+surface robot?<NOD<CLR
+<FAC0026Quote, is it?<NOD<CLR<FON0302:0016<FAC0024Anyway, Quote.<NOD<MYD0000
+I know we've probably done
+nothing but confuse you
+further in this matter...<NOD
+But we don't have much
+of a choice, once again.<NOD<CLRWe need you to seek out
+both Genesis and Oblivion,
+and do what you do best.<NOD
+If my analyses are correct,
+both entities have built
+a lair for themselves.<NOD
+Evidently, they seem to
+connect directly to...<NOD
+a chimney and conduit
+on either side of the
+Mimiga Village.<NOD<CLRI do wish the teleport
+network hadn't taken so
+much damage...<NOD It would
+make this task much
+easier.<NOD But I'm sure
+you can handle it.<NOD<CLR<FON0303:0016<FAC0027He seems weaker than the
+last time I fought him...<NOD<CLR<MYD0002
+<FAC0026Hmm...!<NOD<CLROh, I know...<NOD
+<FAC0027I could turn him into...!<NOD<CLR<FAC0024No, ah, no, that won't
+be necessary, Misery.<NOD<CLR<FAC0028Hmph.<NOD<FAC0026 Oh well, it's
+hard transmogrifying
+machines, anyway.<NOD
+It never lasts long...<NOD<CLR<FAC0024Well, I do suppose he is
+a bit under-geared.<NOD<CLR<FON0302:0016I see you already have
+one of my Boosters.<NOD<CLR<MYD0000I happen to need an
+=Energy Cell= from the
+labyrinth to finish it.<NOD
+And, evidently, the
+labyrinth is probably
+your only way back.<NOD<CLR
+Misery?<NOD<CLR<FON0301:0032<MYD0002<FAC0026Yes, yes, you'll need to
+set the Gaudi and Flower
+teleporters to each other.<NOD
+Then take Mimiga.<NOD<CLRI will clear the Sun
+Stones from your path...<NOD<CLO
+<WAI0050<ANP0301:0025:0000<WAI0070<MNP0303:0018:0004:0002
+<MSG
+There, it is done.<NOD<FOM0016<END
+#0301
+<EVE0200
+#0302
+<KEY<MSG<FAC0024I'll be back at my lab
+if you need me.<NOD The sooner
+you get the =Energy Cell=,
+the better.<NOD<CLRTry to find Chaba.<NOD
+He should have one in
+storage for me.<NOD<END
+#0303
+<KEY<DNP0303<MM0<WAS<MSG
+<FAC0024Oh, one more thing.<NOD<CLO<MYB0000<WAS
+<MSGI received contact from
+Sue before I came over.<NOD<CLR
+<FAC0026That girl...?<NOD<CLR<FAC0024Seems she woke up on the
+island from a nightmare,
+herself.<NOD No trace of
+Sakamoto or Itoh...<NOD<CLR
+<FAC0026Why would my mother...?<NOD<CLR<FAC0024Anyway, she's been
+working on getting the
+teleporters running.<NOD
+Such a clever girl;
+it must run in her
+family...<NOD<CLR<GIT1025<IT+0025She'll need this.<NOD
+Get it to her safely,
+alright?<NOD<END
+#0400
+<SAT<MSG
+Stop right there!<NOD<CLO<CNP0301:0067:0000<WAI0050
+<MSG<FAC0028How dare you barge
+into my home--<NOD<CLR<ANP0301:0013:0000
+<FAC0026Oh, it's you?<NOD<CLR
+Wait, what do you want?<NOD<CLRWhy did you return to this
+island with that stupid
+bloodhound, anyway?<NOD<CLR
+<FAC0026Jenka...?<NOD<CLR<FAC0028
+Oh, so THAT'S how it is.<NOD<CLRSure, she asks for YOU, but
+if I so much as step one
+foot inside her barrier...<NOD<CLRI get turned into that...
+that... THING.<NOD<CLR<CMU0000No, of COURSE she would
+ask you, HERO, and not her
+own DAUGHTER.<NOD<CLR
+That's all she thinks of me!<NOD<CLR<FAC0027Maybe if I leave her with
+no other choice!?<NOD<CLO<CNP0301:0247:0000<FAC0000
+<ANP0301:0100:0000<CMU0004<BSL0301<FRE<KEY
+<WAI0050<MNP0100:0000:0000:0000<SOU0011<FON0302:0016<MNP0302:0004:0008:0000
+<ANP0301:0020:0000<CMU0000
+<KEY<MSGDid your time served
+under the crown teach you
+nothing, girl!?<NOD<CMU0000<CLR<CLO
+<CNP0302:0113:0002<WAI0020<MNP0100:0004:0008:0000<SOU0011<WAI0010
+<CNP0302:0113:0002<ANP0302:0003:0002<WAI0175<ANP0302:0000:0002<MYD0000
+<CNP0301:0082:0000<FON0301:0032<MSG
+<FAC0028What do you want!?<NOD<CLR<FON0302:0032
+<MSG<FAC0024Taking your anger out on
+him isn't going to do
+anything to help Jenka.<NOD<CLR<FON0303:0032
+<FAC0028You...!<NOD<CLR
+<FAC0024I know it's frustrating...<NOD<CLR
+<FAC0028But...!<NOD<CLR<FON0302:0032
+<FAC0024Oh, hush!<NOD<CLRI know you're older than
+me, but honestly? You're
+acting like a child!<NOD<CLO
+<MSG<FAC0026
+...<NOD<CLR<FAC0024If Jenka asked him for
+help, she thinks he can.<NOD<CLRAnd if she thinks he can,
+in her current state, it
+will become reality.<NOD<CLR<FON0303:0016<FAC0028I know... It's just,
+she's my mother. And I
+can't do anything!<NOD<CLR<FAC0026
+*Sigh* ...I'm sorry.<NOD<CLO<FON0303:0016<FAC0000
+<ANP0302:0003:0002<WAI0048<ANP0302:0000:0002<CMU0019
+<MSG<FAC0024Ultimately no harm done,
+although I'm glad I came
+in when I did.<NOD<CLRAs for you, your presence
+here gives me some idea
+of what Jenka's thinking.<NOD<CLRWe should fill you in on
+what we've discovered so
+far, first.<NOD<CLRMisery, you're probably a
+better source than myself...<NOD<CLR<FON0301:0032<FAC0026
+Yes, of course.<NOD<CLR<MYD0002I couldn't tell you all
+the details, but there are
+two forces at work, here.<NOD<CLRBoth of them created by
+my mother, recently...<NOD<CLROne of them, who we've
+called 'Oblivion',
+destroys matter.<NOD<CLRThe other, 'Genesis',
+seems to create from what
+is destroyed by Oblivion.<NOD<CLRTogether, they have been
+destabilizing the island.<NOD<CLRIf we could in some way
+extinguish them both, it
+might break the barrier.<NOD<CLRBut if she's actively
+directing them, she might
+simply recreate them...<NOD<CLR<FON0302:0032<FAC0024Didn't you once say you
+could sense she was
+unconscious, Misery?<NOD<CLR<FON0301:0032<FAC0027Don't underestimate what
+a witch can control,
+even unconsciously!<NOD<CLR
+<FAC0026Still...<NOD<CLR
+<FON0302:0032<FAC0024Hmm...<NOD<CLR<MYD0000The more I think about
+the situation, the more
+I feel like there's...<NOD<CLR
+A third party at play.<NOD<CLR
+<FAC0027Hah! Like anyone could--<NOD<CLR
+<FAC0024Now, hear me out.<NOD<CLRWhy would Jenka of all
+people ever actively
+tear the island apart?<NOD<CLRFurthermore, do we
+destroy Genesis and
+Oblivion to wake her?<NOD<CLROr do we wake her to
+destroy Genesis and
+Oblivion?<NOD<CLR<FON0301:0032<FAC0026Hmm... It's hard
+to say...<NOD<CLR<FAC0028<MYD0002Still, not even her
+brother could do
+something like this.<NOD<CLR<FAC0026
+Or, at least, not... Hmm...<NOD<CLR
+<FAC0024Misery?<NOD<CLR<FON0302:0032<MYD0000Do you think it's
+possible she's mourning
+Ballos's death?<NOD<CLRThat, perhaps, that's
+what has driven her to
+create these nightmares?<NOD<CLR
+<FAC0026It's... possible.<NOD<CLR<FON0301:0032<FAC0026<MYD0002If her nightmares are
+driving her to eliminate
+his memory so thoroughly...<NOD<CLR<FAC0024Well, I suppose we've no
+other choice than to do
+what we can.<NOD<CLR<MYD0000
+Uhm... Hum...<NOD<CLR<FON0303:0016We never did ask his name
+last time, did we?<NOD<CLR
+<FAC0027Hahahah...<NOD<CLR<MYD0002I suppose not.<NOD
+Care to enlighten us,
+surface robot?<NOD<CLR
+<FAC0026Quote, is it?<NOD<CLR<FON0302:0016<FAC0024<MYD0000
+Anyway, Quote.<NOD<CLRI know we've probably done
+nothing but confuse you
+further in this matter...<NOD<CLRBut we don't have much
+of a choice, once again.<NOD<CLRWe need you to seek out
+both Genesis and Oblivion,
+and do what you do best.<NOD<CLRIf my analyses are correct,
+both entities have built
+a lair for themselves.<NOD<CLREvidently, they seem to
+connect directly to...<NOD<CLRa chimney and conduit
+on either side of the
+Mimiga Village.<NOD<CLRI do wish the teleport
+network hadn't taken so
+much damage...<NOD<CLRIt would make this task
+much easier.<NOD<CLRBut I'm sure you can
+handle it.<NOD<CLR<FON0303:0016<FAC0027He seems weaker than the
+last time I fought him...<NOD<CLR<MYD0002
+<FAC0026Hmm...!<NOD<CLR<FAC0027Oh, I know...
+I could turn him into...!<NOD<CLR<FAC0024No, ah, no, that won't
+be necessary, Misery.<NOD<CLR<FAC0026Hmph. Oh well, it's
+hard transmogrifying
+machines, anyway.<NOD<CLR
+It never lasts long...<NOD<CLR<FAC0024Well, I do suppose he is
+a bit under-geared.<NOD<CLR<FON0302:0016I see you already have
+one of my Boosters.<NOD<CLR<MYD0000I happen to need an
+=Energy Cell= from the
+labyrinth to finish it.<NOD<CLRAnd, evidently, the
+labyrinth is probably
+your only way back.<NOD<CLR
+Misery?<NOD<CLR<FON0301:0032<MYD0002<FAC0026Yes, yes, you'll need to
+set the Gaudi and Flower
+teleporters to each other.<NOD<CLR
+Then take Mimiga.<NOD<CLRI will clear the Sun
+Stones from your path...<NOD<CLO
+<WAI0050<ANP0301:0025:0000<WAI0070<MNP0303:0018:0004:0002
+<MSG
+There, it is done.<NOD<FOM0016<END

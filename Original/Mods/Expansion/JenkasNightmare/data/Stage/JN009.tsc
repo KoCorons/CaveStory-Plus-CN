@@ -1,0 +1,505 @@
+
+#0085
+<DNP0602<CMU0028<FAI0000<END
+#0086
+<DNP0602<CMU0028<FAI0001<END
+#0087
+<DNP0602<CMU0028<FAI0002<END
+#0088
+<DNP0602<CMU0028<FAI0003<END
+#0089
+<DNP0602<CMU0028<FAI0004<END
+#0090
+<MNA<FLJ0343:0085<CMU0009<FAI0000<END
+#0091
+<MNA<FLJ0343:0086<CMU0009<FAI0001<END
+#0092
+<MNA<FLJ0343:0087<CMU0009<FAI0002<END
+#0093
+<MNA<FLJ0343:0088<CMU0009<FAI0003<END
+#0094
+<MNA<FLJ0343:0089<CMU0009<FAI0004<END
+#0100
+<PRI<FAO0002<TRA0007:0092:0055:0009
+#0101
+<PRI<FAO0000<TRA0010:0090:0002:0011
+#0102
+<PRI<FAO0002<TRA0015:0092:0076:0014
+#0103
+<PRI<FAO0004<TRA0016:0094:0011:0005
+#0104
+<PRI<FAO0004<TRA0016:0094:0010:0012
+#0105
+<PRI<SOU0011<DNP0105<FAO0004<FLJ0225:0115<TRA0014:0094:0006:0010
+#0106
+<PRI<FAO0000<TRA0013:0090:0002:0012
+#0107
+<PRI<FAO0001<TRA0017:0091:0005:0008
+#0108
+<PRI<SOU0011<DNP0108<FAO0000<TRA0063:0090:0005:0052
+#0115
+<TRA0012:0094:0006:0010
+#0200
+<FLJ2222:0029<FLJ1001:0014<FLJ0206:0014
+<FLJ2202:0001<FL+2202<SOU0022<CNP0200:0021:0000<FLJ0117:0006<FL+2212<EVE0006
+#0203
+<FLJ2110:0028<FLJ2102:0001<FL+2102<SOU0022<CNP0203:0021:0000<EVE0012
+#0204
+<PRI<FLJ0094:0205<FL+0094<SOU0022<CNP0204:0021:0000
+<MSG
+Opened the chest.<NOD<GIT1002<IT+0002<EQ+0002<CLR
+<CMU0010Got the =Map System=!<WAI0160<NOD<RMU<EVE0205
+#0205
+<PRI<MSG
+Something's written here...<NOD<CLR<TURSo long as you retain your spirit of
+exploration, surely you shall find
+your way forward. This I believe.<NOD<END
+#0300
+<KEY<MSG<TUR
+              Yamashita Farm<NOD<END
+#0301
+<KEY<MSG<TUR
+                 Reservoir<NOD<END
+#0302
+<KEY<MSG<TUR
+             Mimiga Cemetary
+            WARNING:  Cave-In<NOD<END
+#0303
+<KEY<MSG<TUR
+            Village Pipeworks<NOD<END
+#0304
+<KEY<MSG<TUR
+                Town Hall<NOD<END
+#0305
+<KEY<MSG<TUR
+          WARNING: Flooded Area<NOD<END
+#0400
+<PRI<DNP0400<EVE0003
+#0500
+<FLJ0225:0508<FLJ0169:0506<FLJ0117:0504<FLJ0016:0502
+<FLJ0005:0501<FL+0005<KEY<MSGWoah, hey, did you come from the
+gap near the Labyrinth?<NOD Strange,
+you don't look like a Gaudi.<NOD
+Hrrmmm...<NOD<END
+#0501
+<KEY<MSGMaybe I need new glasses
+or somethin'.<NOD What?<NOD Whatya
+mean you're NOT a Gaudi?<NOD<END
+#0502
+<FLJ0022:0503<FL+0022<KEY<MSGI hear some mimiga girl came
+out of the pipeworks.<NOD
+Was she stuck in the pipes
+or something?<NOD<END
+#0503
+<KEY<MSGNo, I suppose that IS rather
+ridiculous.<NOD But where did she
+come from?<NOD What, she just
+spontaneously appeared out of
+nowhere?<NOD<END
+#0504
+<FLJ0126:0505<FL+0126<KEY<MSG...Woah.<NOD
+I had the strangest sense of
+deja vu, just now.<NOD Weird.<NOD<END
+#0505
+<KEY<MSGYou smell kinda like garbage.<NOD
+Are you positive you didn't come
+from the labyrinth?<NOD<CLRWhat?<NOD You DID come from the
+labyrinth this time!?<NOD ...Yep, I
+definitely need new glasses...<NOD<END
+#0506
+<FLJ0235:0507<FL+0235
+<KEY<MSGHmm?<NOD Well, now you smell swampy.<NOD
+What ARE you doing, anyway?<NOD<CLRSaving the island?<NOD
+I know how it feels.<NOD I've been
+here all day keeping the village
+safe, too.<NOD It's tough work,
+but somebody has to do it!<NOD<END
+#0507
+<KEY<MSGIf you're curious, the reason
+I'm so persistant about the Gaudi
+is because of a letter I received.<NOD<CLRIt was signed by someone named
+"Chaba"...<NOD You wouldn't happen to
+know them, would you?<NOD<END
+#0508
+<FLJ0240:0509<FL+0240
+<KEY<MSGStill no sign of any Gaudi...<NOD
+Ah, well.<NOD Maybe there was another
+cave-in, or maybe they gave up and
+went home.<NOD As long as the village
+is safe, it doesn't really matter.<NOD<END
+#0509
+<KEY<MSGI should send Chaba a letter back
+to see what's up, or if we could
+have a drink together.<NOD
+He seems like a pretty nice guy.<NOD<END
+#0520
+<FLJ0225:0528<FLJ0169:0526<FLJ0117:0524<FLJ0016:0522
+<FLJ0006:0521<FL+0006<PRI<MSGYou seem...<NOD
+kinda familiar...<NOD<END
+#0521
+<PRI<MSGYou kinda remind me of
+some big-headed mimiga that
+was walking around plantation.<NOD
+But you don't look ANYTHING
+like a mimiga...<NOD<END
+#0522
+<FLJ0023:0523<FL+0023<PRI<MSGSome crazy mimiga girl showed
+up in town.<NOD Didn't The Doctor take
+her away back at the plantation?<NOD<END
+#0523
+<PRI<MSGI guess she got away somehow.<NOD
+Everything was shaking really bad
+back then...<NOD Did The Doctor do
+something bad?<NOD<END
+#0524
+<FLJ0127:0525<FL+0127<PRI<MSGMan, now that strange amnesiac
+girl that hung out with old
+Cthulhu is here too.<NOD<CLR
+Where?<NOD Town hall.<NOD<END
+#0525
+<PRI<MSGI'm gonna have to pick up
+the pace getting this house going.<NOD
+We're really running out of room
+for all these people coming to
+the village...<NOD<END
+#0526
+<FLJ0236:0527<FL+0236
+<PRI<MSGHey, have the quakes been dying
+down, or is it just me?<NOD<END
+#0527
+<PRI<MSGWhat a relief.<NOD I'll be able to
+get plenty of work done without
+worrying about falling off, now!<NOD<END
+#0528
+<FLJ0241:0529<FL+0241
+<PRI<MSGAh, you're leaving?<NOD
+Probably for the best, anyway.<NOD
+I've spent so much time worrying
+about how well a house would do
+up here,<NOD that I haven't gotten
+anything done on the matter.<NOD<CLR
+Procrastination sucks...<NOD<END
+#0529
+<PRI<MSG
+*Sigh*...<NOD<CLRWell, I guess I should
+get back to work, now...<NOD<END
+#0540
+<FLJ0225:0548<FLJ0169:0546<FLJ0117:0544<FLJ0016:0542
+<FLJ0007:0541<FL+0007<KEY<MSG
+Huh?<NOD Curly?<NOD<CLR
+Yeah!<NOD She's so cool!!<NOD<CLRHuh?<NOD Have I seen her?<NOD
+No, I don't think so...<NOD
+I'll keep my eyes peeled!<NOD<END
+#0541
+<KEY<MSG
+Balrog?<NOD Eeep!<NOD<END
+#0542
+<FLJ0024:0543<FL+0024<KEY<MSGMs. Sue came back.<NOD
+She kinda scares me...<NOD<END
+#0543
+<KEY<MSGIs Sue really a mimiga?<NOD
+She acts like she's a dragon!<NOD<END
+#0544
+<FLJ0128:0545<FL+0128<KEY<MSGRA-AH-AH-AH-AH!<NOD
+PSHEW!<NOD BLAM!!<NOD<CLRHuh?<NOD Oh, I'm pretending I'm
+Curly fighting The Doctor!<NOD<END
+#0545
+<KEY<MSGI wonder if Curly has a fan club
+yet?<NOD If she doesn't, do you think
+I could be club president?<NOD<END
+#0546
+<FLJ0237:0547<FL+0237
+<KEY<MSGHey, mister...<NOD
+Are you gonna beat up the bad
+guys and save the world?<YNJ0550<CLR
+Really?<NOD Cool!<NOD<END
+#0547
+<KEY<MSGMaybe you and Curly can team up
+and beat up the bad guy together?<NOD<CLROh!<NOD I know!<NOD
+You could do a super-move!<NOD
+You could go in and punch the bad
+guys, all BAM, POW!!<NOD
+And then you could throw them
+up in the air and Curly would
+kick them down to the ground!<NOD<CLR
+That would be soooo cooool!<NOD<END
+#0548
+<FLJ0242:0549<FL+0242
+<KEY<MSG
+Are you leaving, mister robot...?<NOD<CLRAre you and Curly gonna maybe
+come back and visit, sometime?<YNJ0551<CLR
+Really!?<NOD<CLRYeah!<NOD
+I'll think of lots of stuff
+for us to do when you guys
+come back!<NOD<END
+#0549
+<KEY<MSGI'm gonna miss you and Curly.<NOD
+I never really got a chance to
+play with her...<NOD
+I was so excited, and now she's
+leaving...<NOD<CLRBut it's okay!<NOD
+I'll always remember you guys,
+no matter what!<NOD<END
+#0550
+<MSG
+Really...?<NOD<CLROh, but that's okay!<NOD
+If you can't do it, I know
+that Curly can!<NOD<END
+#0551
+<MSG
+Oh...<NOD<CLRBut what am I gonna do
+without you guys...?<NOD<END
+#0560
+<FLJ0225:0568<FLJ0169:0566<FLJ0117:0564<FLJ0016:0562
+<FLJ0008:0561<FL+0008<KEY<MYB0002<QUA0120<WAI0040<MSG
+Woah!!<WAI0080<NOD<CLRThat's another one.<NOD Third
+time this morning...<NOD<CLREver since these quakes
+started up, a couple of people
+took shelter in Grasstown.<NOD
+Jack thinks the grass'll net
+any falling rocks and keep
+everyone from getting hurt.<NOD<CLROf course, Jack was the
+first one to run off over there.<NOD
+Ever since King died, he's been
+a little on edge about everything.<NOD<END
+#0561
+<KEY<MSGNo, no, I don't blame Jack
+for feeling the way he does.<NOD
+He doesn't want to lose anyone
+else, and puts on a tough-guy
+act to try mimicing King.<NOD<CLREverything was running smoothly
+until the quakes started,
+though.<NOD Kind of ominous...<NOD<END
+#0562
+<FLJ0025:0563<FL+0025<KEY<MSGMan that girl's noisy.<NOD
+She acts like it's the end of the
+world or something!<NOD<END
+#0563
+<KEY<MSGNo, no, I remember who she is.<NOD
+Sue, right?<NOD Some sorta human-
+turned-mimiga?<NOD<CLRI don't see what the problem is,
+it's not like being a Mimiga is
+hard or anything.<NOD Ya just eat
+flowers and keep safe.<NOD
+Nothin' to it.<NOD<END
+#0564
+<FLJ0129:0565<FL+0129<KEY<MSGSigh...<NOD Now Sue and this new
+girl are making a ton of noise
+all over town.<NOD I think it's
+a girl thing.<NOD<END
+#0565
+<KEY<MSGOh, I miss when the village was
+a quiet, peaceful place...<NOD
+...Whenever that was...<NOD<END
+#0566
+<FLJ0238:0567<FL+0238
+<KEY<MSGBetween you and me, things have
+gotten kind of...<NOD
+..."Stale" around here.<NOD<CLRDon't get me wrong, I'd rather
+stick around here than run off
+and get crushed or impaled,<NOD
+But for an island going under
+a geological crisis, things sure
+are boring around here.<NOD<END
+#0567
+<KEY<MSGMaybe I should go visit Zett in
+the Plantation sometime?<NOD He stayed
+behind when we all went our
+seperate ways.<NOD<CLRIf you see him in your travels,
+be sure to say hello!<NOD<END
+#0568
+<FLJ0243:0569<FL+0243
+<KEY<MSGI hear you guys are on your way
+off the island.<NOD I wanted to thank
+you personally for solving the
+whole 'earthquake' thing.<NOD
+So, thanks for that.<NOD<CLRMaybe Jack'll consider coming
+back to visit, sometime?<NOD<END
+#0569
+<KEY<MSGI'm gonna head over later and
+meet up with Jack, when I get a
+minute.<NOD I wonder how much he's
+changed since the last time I
+saw him...?<NOD<END
+#0580
+<FLJ0225:0588<FLJ0169:0586<FLJ0117:0584<FLJ0016:0582
+<FLJ0009:0581<FL+0009<KEY<MSG
+*chomp chomp*<NOD<CLR
+!<NOD<CLO
+<MYB0000<ANP0580:0002:0004<WAI0030<MYD0000
+<MSG
+Hey, when'd you get back?<NOD<CLR
+Curly?<NOD Who's that?<NOD<CLRNope, I haven't seen anyone who
+looks like that.<NOD Try asking
+Kanpachi.<NOD He's taking a break
+above here, in the town hall.<NOD<CLO
+<ANP0580:0000:0000<END
+#0581
+<KEY<MSG
+*chomp chomp chomp*<NOD<CLREver since the quakes started,
+our food supply's been a little
+low.<NOD I hope we find some more
+soon, or I'm gonna have to go
+on a diet!<NOD<END
+#0582
+<FLJ0026:0583<FL+0026<KEY<MSG
+*chomp chomp*<NOD<CLR
+!<NOD<CLO
+<MYB0000<ANP0580:0002:0004<WAI0030<MYD0000
+<MSG
+Oh, hey.<NOD<CLRSo Sue just got back.<NOD
+Did the humans send another
+expedition or something?<NOD<CLRNo?<NOD Then how are you
+guys getting back here?<NOD<CLO
+<ANP0580:0000:0000<END
+#0583
+<KEY<MSG
+*chomp chomp chomp*<NOD<CLRThe quakes have been
+rather brutal this morning.<NOD
+Did you do something reckless
+when you got here or something?<NOD<END
+#0584
+<FLJ0130:0585<FL+0130<KEY<MSG
+*chomp chomp*<NOD<CLR
+!<NOD<CLO
+<MYB0000<ANP0580:0002:0004<WAI0030<MYD0000
+<MSGFirst you, then Sue, and now this
+blonde girl comes out of the
+flooded area, too.<NOD<CLRBoy, this village is getting
+really crowded...<NOD<CLO
+<ANP0580:0000:0000<END
+#0585
+<KEY<MSG
+*chomp chomp chomp*<NOD<CLRI wonder what kinds of food Jack
+has stashed over in Grasstown?<NOD
+We've been running low lately
+for some reason...<NOD<END
+#0586
+<FLJ0239:0587<FL+0239
+<KEY<MSG
+*chomp chomp*<NOD<CLR
+!<NOD<CLO
+<MYB0000<ANP0580:0002:0004<WAI0030<MYD0000<FLJ0203:0590
+<MSGSo I hear you beat one of
+those monsters, eh?<NOD
+Keep it up, and the village
+will be as peaceful as ever!<NOD<CLO
+<ANP0580:0000:0000<END
+#0587
+<KEY<MSG
+*chomp chomp chomp*<NOD<CLRIf you ever get a minute of
+free time, be sure to explore
+the island a bit.<NOD
+It's common sense to look
+where you couldn't before
+for hidden goodies.<NOD<CLRThat's what I tell myself,
+anyway!<NOD Ha-ha.<NOD<END
+#0588
+<FLJ0244:0589<FL+0244
+<KEY<MSG
+*chomp chomp*<NOD<CLR
+!<NOD<CLO
+<MYB0000<ANP0580:0002:0004<WAI0030<MYD0000
+<MSGI hear you guys are going
+to be leaving the island soon?<NOD<CLRWell, take care out there.<NOD
+And if you wanna send us any
+gifts, maybe some souvenirs
+from other parts of the world?<NOD<CLRI wouldn't mind one of those
+little bobble-head things...<NOD<CLO
+<ANP0580:0000:0000<END
+#0589
+<KEY<MSG
+*burp*<NOD<CLROh, excuse me!<NOD
+I think I've just about had
+my fill...<NOD<CLRWell, a little more couldn't
+hurt, could it?<NOD<CLR
+*chomp chomp chomp*<NOD<NOD<END
+#0590
+<MSGSo I hear you beat one of
+those monsters, eh?<NOD<CLROh?<NOD You already beat the
+second one, too?<NOD
+I guess you're faster than
+the rumors can travel!<NOD<CLO
+<ANP0580:0000:0000<END
+#0600
+<FLJ0010:0601<FL+0010<KEY<MSGThe bridge from here to Grasstown
+collapsed, and fell into the 
+village reservoir.<NOD
+If someone could turn on the
+valve controlling the water...<NOD
+Maybe the water pressure could
+make a geyser to the door...<NOD<CLR
+But monsters showed up in the
+village pipeworks, and they're
+guarding the valve...<NOD
+So I guess I'm stuck here...<NOD<END
+#0601
+<KEY<MSGI think I saw some enraged
+mimigas hopping around in the
+plumbing place too...<NOD Shouldn't
+they have all been cured after
+you guys beat The Doctor?<NOD<END
+#0602
+<FLJ0225:0607<FLJ0177:0605<FLJ0172:0603<FL+0172
+<KEY<MSGOh, hey.<NOD
+It was getting kinda stuffy in
+there, so I though I'd do
+some fishing for a change.<NOD<FLJ0142:0604<END
+#0603
+<FLJ0142:0604
+<KEY<MSGIt's actually quite peaceful out
+here, today...<NOD Have the quakes
+finally died down?<NOD<END
+#0604
+<KEY<MSGOh, are you wondering what's
+burning in the Town Hall?<NOD
+It's some kinda barbed bark I
+found in Grasstown once upon
+a time.<NOD It smelled so nice
+I couldn't help but collect
+a bunch of it, ha-ha.<NOD<CLROh, would you like some?<NOD
+Well, alright, I can't blame you!<NOD<CLR<GIT1035<IT+0035
+<CMU0010Got some =Prickly Ash Bark=!<WAI0160<NOD<GIT0000<CLO<RMU
+<FL+0143<FL-0142<END
+#0605
+<FLJ0245:0606<FL+0245
+<KEY<MSGI overheard the bad news...<NOD
+So we're all going to have to
+leave the island, huh?<NOD<CLRWell, that's okay.<NOD We're all fish
+in the open blue sea, after all.<NOD
+Just because one little pond
+has to drain doesn't mean there
+isn't any more water!<NOD<FLJ0152:0000<FLJ0143:0000<CLR
+......<NOD<CLRWell, anyway, if we never meet
+again I want you to have this
+to remember us by.<NOD You can
+burn some in small quantities
+as a sort of relaxing incense.<NOD<CLR<GIT1035<IT+0035
+<CMU0010Got some =Prickly Ash Bark=!<WAI0160<NOD<GIT0000<CLO<RMU
+<FL+0143<FL-0142<END
+#0606
+<KEY<MSGMaybe I could get myself one of
+those human fishing boats and
+sail the seven seas one day.<NOD
+I'll go where nobody's gone
+before, and find the tastiest
+fish on the planet.<NOD<END
+#0607
+<FLJ0245:0606<FL+0245
+<KEY<MSGI heard the news...<NOD
+So you guys are leaving the
+island soon, huh?<NOD<CLRWell, that's okay.<NOD We're all fish
+in the open blue sea, after all.<NOD
+Just because one little pond
+has to drain doesn't mean there
+isn't any more water!<NOD<CLR
+......<NOD<CLRWell, anyway, if we never meet
+again I want you to have this
+to remember us by.<NOD You can
+burn some in small quantities
+as a sort of relaxing incense.<NOD<CLR<GIT1035<IT+0035
+<CMU0010Got some =Prickly Ash Bark=!<WAI0160<NOD<GIT0000<CLO<RMU<END
+#0999
+<MNA<FLJ0343:0089<CMU0009<FAI0004<END
+#1100
+<SNP0259:0001:0001:0000<EVE0041

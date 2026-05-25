@@ -1,0 +1,12 @@
+{
+  "parts": "Pens",
+  "map": "WeedB",
+  "bkType": 1,
+  "back": "BkBlue",
+  "back_water": "BkBlue",
+  "npc": "Ravil",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Grasstown Hut"
+}

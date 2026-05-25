@@ -1,0 +1,12 @@
+{
+  "parts": "Roof",
+  "map": "mod005",
+  "bkType": 7,
+  "back": "bkRooftops",
+  "back_water": "bkRooftops",
+  "npc": "Sand",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Rooftops"
+}

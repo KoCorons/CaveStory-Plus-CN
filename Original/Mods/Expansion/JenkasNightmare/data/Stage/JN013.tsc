@@ -1,0 +1,65 @@
+
+#0090
+<MNA<CMU0012<FAI0000<END
+#0091
+<MNA<CMU0012<FAI0001<END
+#0092
+<MNA<CMU0012<FAI0002<END
+#0093
+<MNA<CMU0012<FAI0003<END
+#0094
+<MNA<CMU0012<FAI0004<END
+#0100
+<PRI<FAO0000<TRA0009:0090:0057:0033
+#0101
+<FLJ0283:0122<FLJ0343:0120<FLJ0159:0111<FLJ0132:0110<PRI<MSG
+It's locked.<NOD<CLO<SOU0022<FLJ0131:0102
+<MSG...?<NOD Someone peers through a
+small spyhole in the middle of
+the door.<NOD<CLRYou has no bid'nes bein' here.<NOD
+Da boss don't take kindly to
+people doin' no bid'nes.<NOD<CLR
+Scram!<NOD<CLO<EVE0103
+#0102
+<FLJ0122:0104<MSGYou has no bid'nes bein' here.<NOD
+Da boss don't take kindly to
+people doin' no bid'nes.<NOD<CLR
+Scram!<NOD<SOU0022<END
+#0103
+<FLJ0122:0104<FL+0131<SOU0022<END
+#0104
+<MSGHmmmmm?<NOD You's lookin' fer some
+kinda gun?<NOD<CLRWell, da boss's lookin' for
+some sorta gun collect'r for
+som'tin.<NOD Why not come 'nside?<NOD<CLO<FL+0132<EVE0110
+#0110
+<PRI<SOU0011<DNP0101<FAO0004<TRA0061:0094:0006:0010
+#0111
+<PRI<MSG
+It's locked.<NOD<CLO<SOU0022<MSG
+No chickens allowed.<NOD<NOD<SOU0022<END
+#0120
+<FL+0283<PRI<MSG
+It's locked.<NOD<CLO<SOU0022
+<MSG...?<NOD Someone peers through a
+small spyhole in the middle of
+the door.<NOD<CLROooh!<NOD A feisty-looking one!<NOD
+Sorry toots, no chicks allowed.<NOD
+Heheheh...<NOD<FLJ0346:0121<SOU0022<END
+#0121
+<FLJ7969:0124<MSG<FAC0004I'm here to see
+'King Pignon'.<NOD Is he
+there?<NOD<CLO<WAI0050<FAC0000<EVE0125
+#0122
+<FLJ0381:0123<PRI<MSG
+It's locked.<NOD<END
+#0123
+<PRI<SOU0011<DNP0101<FAO0004<TRA0105:0094:0006:0010
+#0124
+<MSG<FAC0043I'm here to see
+'King Pignon'.<NOD Is he
+there?<NOD<CLO<WAI0050<FAC0000<EVE0125
+#0125
+<MSG<SOU0022<FL+0381
+......<NOD<CLR
+The door unlocked.<NOD<END

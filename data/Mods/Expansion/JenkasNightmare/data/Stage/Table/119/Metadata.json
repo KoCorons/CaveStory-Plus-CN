@@ -1,0 +1,12 @@
+{
+  "parts": "Fall",
+  "map": "JN119",
+  "bkType": 0,
+  "back": "bkSun",
+  "back_water": "bkSun",
+  "npc": "Island",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Nothing"
+}

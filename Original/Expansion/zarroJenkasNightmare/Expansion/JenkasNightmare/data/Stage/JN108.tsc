@@ -1,0 +1,221 @@
+
+#0090
+<MNA<CMU0000<FAI0000<ITJ0002:0099<END
+#0091
+<MNA<CMU0000<FAI0001<ITJ0002:0099<END
+#0092
+<MNA<CMU0000<FAI0002<ITJ0002:0099<END
+#0093
+<MNA<CMU0000<FAI0003<ITJ0002:0099<END
+#0094
+<ANP0200:0000:0000<ANP0201:0000:0010<ANP0202:0000:0020
+<ANP0203:0000:0030<ANP0204:0000:0040<CMU0000<FAI0004<ITJ0002:0099<SKJ0050:0098<END
+#0095
+<DNP0095<MNA<END
+#0096
+<FOM0016<END
+#0097
+<FON0099:0016<END
+#0098
+<DNP0205<DNP0215<END
+#0099
+<EQ-0002<FL+0382<SKJ0050:0098<END
+#0100
+<PRI<FAO0004<ITJ0002:0107<TRA0005:0094:0015:0010
+#0101
+<PRI<SOU0011<DNP0101<CMU0000<FAO0004
+<LI+1000<AE+<ITJ0002:0104<ITJ0015:0105<ITJ0032:0106
+<TRA0116:0094:0041:0010
+#0102
+<FLJ0710:0108
+<KEY<SOU0011
+<CNP0102:0000:0000<WAI0016<HMC
+<CNP0102:0018:0000<MOV0094:0009<FOM0016<WAI0060<SOU0011
+<CNP0103:0000:0000<MYD0002<SMC<CMU0028<WAI0016
+<CNP0103:0018:0000<END
+#0103
+<KEY<SOU0011<DNP0095
+<CNP0103:0000:0000<WAI0016<HMC
+<CNP0103:0018:0000<MOV0073:0009<FON0099:0016<WAI0060<SOU0011
+<CNP0102:0000:0000<MYD0000<SMC<CMU0000<WAI0016
+<CNP0102:0018:0000<END
+#0104
+<FL+0701<IT-0002<ITJ0015:0105<ITJ0032:0106<TRA0116:0094:0041:0010
+#0105
+<FL+0712<ITJ0032:0106<TRA0116:0094:0041:0010
+#0106
+<FL+0713<TRA0116:0094:0041:0010
+#0107
+<EQ+0002<FL-0382<TRA0005:0094:0015:0010
+#0108
+<KEY<MSGThe door is shut seamlessly
+with no way of opening it.<NOD<END
+#0110
+<FLA<DNP0095<FON0099:0016<LI+1000<AE+
+<FLJ0701:0111<FLJ0712:0112<FLJ0713:0113<END
+#0111
+<IT+0002<FLJ0712:0112<FLJ0713:0113<END
+#0112
+<IT+0015<FLJ0713:0113<END
+#0113
+<IT+0032<END
+#0120
+<DNP0120<MNP0121:0009:0009:0000<FLJ2252:0121<END
+#0121
+<FLJ2254:0122<END
+#0122
+<FLJ2256:0123<END
+#0123
+<FLJ2258:0124<END
+#0124
+<FLJ2260:0125<END
+#0125
+<DNP0120<DNP0121<DNP0125
+<SMP0035:0007<SMP0035:0007<SMP0035:0008
+<SMP0035:0008<SMP0035:0009<SMP0035:0009<END
+#0200
+<PRI<FLJ0711:0001<FL+0711<SOU0022<CNP0200:0021:0000<MSG
+Opened the chest.<NOD<GIT1044<IT+0044<CLR
+<CMU0010Got the =Pointed Glasses=!<WAI0180<NOD<RMU<CLR
+Would you like to wear them?<YNJ0204<FL-7968<FL+7969<EQ+0512<MSG
+Put on the Pointed Glasses.<NOD<CLO<EVE0204
+#0201
+<FLJ0710:0202
+<KEY<MSG<TURThere is no shame in repairing
+yourself when you need to.<NOD<END
+#0202
+<FL+0715
+<KEY<MSG<TURUltimately, I want to thank you,
+the player.<NOD<CLRThrough time and effort, I have
+found joy. It may not mean much to
+some, but it means a lot to me.<NOD<CLRBut to know a player such as
+yourself has gone to such lengths
+to indulge in a game I have made...<NOD<CLR
+From the bottom of my heart,<NOD<CLR
+Thank you for playing.<NOD<END
+#0203
+<KEY<DNP0121<MSG<TURYou may only proceed if you've
+found the five prior.<NOD
+Those who have not must start again.<NOD<END
+#0204
+<FLJ0715:0000<MSG<GIT0000
+There's a note...<NOD<CLO<EVE0202
+#0205
+<DNP0205<SK+0050<KEY<MM0<WAS<MSG
+...So you've come.<NOD<CLRI don't know who you are,
+or what you're looking for
+here...<NOD<CLR
+But my time here is over.<NOD<CLRThis dream of mine has been
+fulfilled.<NOD I have completed
+what I set out to do.<NOD
+There's nothing left for me here.<NOD<CLRPerhaps one day I will return.<NOD
+But I hope to look towards
+the future, now.<NOD<CLRDo not follow me.<NOD
+What lies ahead...<NOD Is not
+something you can perceive.<NOD<CLO<ANP0215:0003:0002<WAI0047
+<ANP0215:0000:0002<WAI0016<ANP0215:0005:0002<WAI0016<SOU0011<CNP0101:0000:0000
+<WAI0016<DNP0215<WAI0016<CNP0101:0018:0000<CNP0016:0016:0002<END
+#0210
+<KEY<MSG<TUR
+[ Super ZTaimat World ]<NOD<CLR
+I was once so naive.<NOD<CLRAs a kid coming to terms with the
+internet, it came as no surprise
+that I'd look for SNES games.<NOD<CLRSearching for ROM after ROM,
+playing games I used to own...<NOD
+It was a time of bliss.<NOD<CLRThen I came to learn that one
+could edit the ROMs with the
+right tools.<NOD<CLRThere I was, like a kid in a
+candy factory, indulging in
+creating something of his own.<NOD<CLRAt the time, my internet alias
+was "ZTaimat"; my first initial
+next to a word for 'dragon'.<NOD<CLRCompleting level after level based
+on ideas alone, I eventually
+completed a large mod.<NOD<CLRIt would be my first petty step
+into the world of creation.<NOD
+Even if it was rather poor.<NOD<END
+#0211
+<KEY<MSG<TUR
+[ Eternal Chaos ]<NOD<CLRBack when Cave Story was new, and
+modding it was primitive, I would
+experiment with the given tools.<NOD<CLRGetting a hang of the tilesets and
+focusing on visual quality was
+my primary tasks at the time.<NOD<CLRI learned the game's tilesets were
+not bound to thier limited colors,
+and so I laid textures over tiles.<NOD<CLRI learned how to sprite and made
+a small cast of characters based
+on IRC members of the time.<NOD<CLREventually I cobbled a short story
+together based on fantasy and a
+petty god-complex turned villain.<NOD<CLR
+But I also grew bored.<NOD<CLRAt the time, feedback was scarce.<NOD
+Nobody cared for modding then,
+and those that did were naive.<NOD<CLRNothing but positive feedback
+and thumbs up did nothing to help
+the game grow.<NOD<CLR
+So I gave up on it all.<NOD<END
+#0212
+<KEY<MSG<TUR
+[ Fraxy - Wrath ]<NOD<CLRCollege came.<NOD
+With it came brackets of free time,
+and nothing to do with them.<NOD<CLRAt some point I became interested
+in SHMUPS as games of skill
+and patience.<NOD<CLR
+One such game was Fraxy.<NOD<CLRAt the time it was a free-roam
+shooter, with a plethora of small
+bosses.<NOD<CLR
+And the tools to make your own.<NOD<CLRI would make several of them in
+my free time, but would not release
+them to the public eye.<NOD<CLRI knew better after the times 
+I tried modding, before.<NOD
+I knew I needed practice, first.<NOD<CLRAfter I became confident in a small
+series of bosses, I contacted a
+member of their small community.<NOD<CLRNot only did they like my bosses,
+they loved one of them in particular...<NOD<CLROver time the game would adapt to
+a locked perspective that most
+SHMUPS are familiar with.<NOD<CLRI indulged in making zealous cinematic
+presentations more than anything.<NOD<CLRAnd so, I made bosses based off of
+the seven deadly sins as a newer
+series to pull out all the stops.<NOD<CLRIn the end, I ran out of ideas.<NOD
+Theres only so many ways you can
+make a bullet shoot.<NOD<END
+#0213
+<KEY<MSG<TUR
+[ SRB2 Kart ]<NOD<CLRAs I ran out of ideas, I dabbled
+in coding a bit.<NOD<CLRWhile playing around in a small
+Sonic community's fan game, I
+came across an incomplete mod.<NOD<CLRThe mod had a small Mario Kart
+mode in it, and it was bafflingly
+underappreciated.<NOD<CLRAnd so I took it over, adding
+necessities required, like random
+items and distance-based placing.<NOD<CLRI turned it into a full-fledged
+game all my own.<NOD
+People loved and accepted it.<NOD<CLRPerhaps coding became too
+frustrating, or perhaps the sprite
+artist was too slow...<NOD<CLRBut it should come as no surprise
+that I abandoned it as well.<NOD<CLRPerhaps one day I will return to it.<NOD
+But I'm not sure if I have the time...<NOD<END
+#0214
+<KEY<MSG<TUR
+[ Jenka's Nightmare ]<NOD<CLRDiscussing game ideas with a friend,
+we ran down a short list of games
+that could be modded for fun.<NOD<CLR
+Cave Story came up.<NOD<CLRI originally intended to sneak
+around, test the waters, and put
+together a short mod.<NOD<CLR
+But what I saw instead...<NOD<CLRNot only had the community failed
+to age or evolve, it was
+stagnating before my very eyes.<NOD<CLRJenka's Nightmare, an old,
+but appreciated mod from the time
+when I had left the community,<NOD<CLRHad been 'revived' by one of the
+forum members.<NOD<CLRThe revival promised an end to the
+game...<NOD
+...And it delivered.<NOD<CLR
+Poorly.<NOD<CLR
+Terribly.<NOD<CLR
+Horribly.<NOD<CLRIt was disgusting.<NOD
+And at the time of writing, it
+is STILL considered the true ending.<NOD<CLRI really, truly hope that this final
+version of my remake will overwrite
+what the awful one has written.<NOD<CLRWhat has been done cannot be undone.<NOD
+But I hope, with enough effort,
+that it can be repaired.<NOD<CLR
+And here we are.<NOD<END

@@ -1,0 +1,46 @@
+
+#0090
+<MOV0002:0006
+<FL+0431
+<MNA<CMU0008<FAI0000<END
+#0091
+<DNP0091
+
+<KEY<MM0<WAS
+<MSG<FAC0007Welcome Mr. Marks.<NOD
+Thank you for your interest
+in our foster child
+adoption services.<NOD<CLR
+But first things first...<NOD<CLO<WAI0050<CMU0004
+<ANP0300:0020:0000
+<WAI0050<MSGGive me all your money.<NOD<END
+#0092
+<DNP0092
+<KEY<MM0<WAS
+<MSG<FAC0007Oh is a freakin' blade
+not enough for ya?<NOD<CLO<WAI0050<CMU0007
+<CNP0000:0181:0000
+<WAI0050<MSGHow about now tough guy?<NOD
+Take another step.
+I dare ya.<NOD<CMP0008:0007:0063<END
+#0093
+<FL+A642
+<END
+#0094
+<KEY<FLA<WAI0010
+<ANP0301:0020:0000
+<WAI0000<MNP0301:0014:0011:0000
+<CNP0301:0067:0000
+<KEY<WAS
+<CMU0031<FAC0026<MS3I have one too.
+You're not getting away
+that easily.<NOD<END
+#0100
+<KEY<CNP0100:0000:0000<SOU0011
+<WAI0030<HMC<FAO0000
+<TRA0014:0090:0016:0009
+#0101
+#0200
+<EVE0090
+#0300
+#0301

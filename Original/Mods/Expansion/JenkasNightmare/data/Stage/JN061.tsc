@@ -1,0 +1,118 @@
+
+#0090
+<MNA<CMU0000<FAI0000<END
+#0091
+<MNA<CMU0000<FAI0001<END
+#0092
+<MNA<CMU0000<FAI0002<END
+#0093
+<MNA<CMU0000<FAI0003<END
+#0094
+<MNA<CMU0000<FAI0004<END
+#0095
+<CMU0000<FAI0004<END
+#0100
+<FLJ0159:0101
+<PRI<SOU0011<DNP0100<FAO0004<TRA0013:0094:0022:0014
+#0101
+<PRI<MSG
+It won't open!<NOD<END
+#0200
+<FLJ0160:0201<KEY<MSGHmmm.<NOD You's a lot taller
+'n person.<NOD Maybe we could get
+you's in as a member, ey?<NOD<END
+#0201
+<KEY<MSGHmmm.<NOD You's a lot tougher
+th'n you look.<NOD Might ev'n give da
+boss a run for 'is money...<NOD<END
+#0205
+<FLJ0160:0206<KEY<MSGHmph.<NOD Been borin' around here.<NOD
+Big bro says he'll be showing us
+something nice soon, though.<NOD<END
+#0206
+<KEY<MSGHmph.<NOD Saw the way you moved
+in da fight.<NOD You seem like
+you've done this before.<NOD<END
+#0210
+<FLJ0160:0211<KEY<MSG*Snrkle*<NOD
+*Snort*<NOD
+Zzz...<NOD<END
+#0211
+<KEY<MSG*Snrkle*<NOD
+*Snort*<NOD
+That was tiring...<NOD<END
+#0400
+<FLJ0160:0403<SKJ0040:0401<SK+0040<KEY<MYB0002<MSGAHEY!<NOD
+Who let this lousy human punk
+in here!?<NOD Swift, ya got rocks
+in yer skull again!?<NOD<MYD0000<CLRHmph.<NOD Kid's lookin' for a gun,
+bro.<NOD And just look at 'im,
+'e's armed to the teeth.<NOD<MYD0002<CLRAHAH!<NOD
+A weapon critic, eh?<NOD
+Well you arrived just in time!<NOD
+I was about to show this here
+treasure I got under the island
+to my boys in green, see?<NOD<CLRWELL!<NOD
+I won't keep you boys waitin'<CNP0205:0120:0002
+any longer!<NOD Have a looksee at<GIT0002
+THIS baby!<NOD<CLRMmmm, tha's a niiice lookin'
+gun, bro!<NOD Gotta be one a' da
+Gunsmith's fo' sure.<NOD<CLRHAHA!<NOD
+I scored us BIG this time!<NOD
+The boss'll get a kick outta
+this for sure!<NOD He always hated
+that Gunsmith's guts!<NOD<CLR<GIT0000
+......<NOD<CLRWHAT!?<NOD
+Hey guys, this lousy punk human
+just said he wants to TAKE this
+gun from us!<NOD
+Heh heh heh, you got guts kid!<NOD
+But I ain't gonna just GIVE it
+to ya.<NOD<CLRLet's make a little wager, eh?<NOD
+I'll give you this here gun I
+found if you can beat all of us in
+a four-on-one dog-pile.<NOD
+I'll even let ya's leave if you're
+too chicken to take us on!<NOD<CLR
+BUT!<NOD<CLRWe don't let any wussy chickens
+in this here club, if you catch my
+drift.<NOD If ya's refuse, you can't
+ever come back in here.<NOD<CLRSo, whatya say, kid?<NOD
+Do ya really think you can take on
+all four of us at once?<YNJ0402<CLO<WAI0010
+<CNP0300:0122:0002<DNP0200<WAI0010<MYB0002
+<CNP0305:0122:0002<DNP0205<WAI0010
+<CNP0310:0122:0002<DNP0210<WAI0010
+<MSGYou heard the man, boys!<NOD
+Let's show this punk what
+Bro Pignon's gang is made of!<NOD<CLO<CMU0004
+<CNP0500:0313:0000<WAI0002<ANP0500:0100:0000<DNP0400
+<ANP0300:0010:0002<ANP0305:0010:0002<ANP0310:0010:0000
+<BSL0500<FL+0159<END
+#0401
+<KEY<MYB0002<MSGSo, whatya say, kid?<NOD
+Do ya really think you can take on
+all four of us at once?<YNJ0402<CLO<WAI0010
+<CNP0300:0122:0002<DNP0200<WAI0010<MYB0002
+<CNP0305:0122:0002<DNP0205<WAI0010
+<CNP0310:0122:0002<DNP0210<WAI0010
+<MSGYou heard the man, boys!<NOD
+Let's show this punk what
+Bro Pignon's gang is made of!<NOD<CLO<CMU0004
+<CNP0500:0313:0000<WAI0002<ANP0500:0100:0000<DNP0400
+<ANP0300:0010:0002<ANP0305:0010:0002<ANP0310:0010:0000
+<BSL0500<FL+0159<END
+#0402
+<FL+0159<MSG...PFFT!<NOD
+Scram you lousy chicken!<NOD<CLO<WAI0010<FAO0004<TRA0013:0094:0022:0014
+#0403
+<KEY<MSGSIGH.<NOD
+You got the better of us, kid.<NOD
+Guess I'm the punk this time.<NOD<CLRIf you see the boss, don't
+tell him you wiped the floor wit'
+us, eh?<NOD He has a short temper.<NOD<END
+#0500
+<KEY<MYD0500<CMU0000<ANP0500:0500:0005<FL-0159
+<ANP0300:0020:0005<ANP0305:0020:0005<ANP0310:0020:0005<WAI0100<FAO0001
+<MSGYou win......<NOD<CLR<GIT0002<AM+0002:0000<FL+0160
+<CMU0010Got the =Polar Star= back!<WAI0160<NOD<RMU<TRA0061:0095:0010:0010

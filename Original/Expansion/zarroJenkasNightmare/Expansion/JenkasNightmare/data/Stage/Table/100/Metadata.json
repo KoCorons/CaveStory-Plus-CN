@@ -1,0 +1,12 @@
+{
+  "parts": "Fall",
+  "map": "JN100",
+  "bkType": 0,
+  "back": "bkArcadia",
+  "back_water": "bkArcadia",
+  "npc": "Priest",
+  "boss": "Tristitia",
+  "boss_no": 9,
+  "lighting": "disabled",
+  "name": "Tristitia"
+}

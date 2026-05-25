@@ -1,0 +1,12 @@
+{
+  "parts": "Maze",
+  "map": "JN052",
+  "bkType": 2,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Suto",
+  "boss": "White",
+  "boss_no": 2,
+  "lighting": "disabled",
+  "name": "Great White Critter"
+}

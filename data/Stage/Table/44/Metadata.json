@@ -1,0 +1,12 @@
+{
+  "parts" : "Maze",
+  "map" : "MazeS",
+  "bkType" : 2,
+  "back" : "bkGray",
+  "back_water" : "bkGray",
+  "npc" : "Maze",
+  "boss" : "Bllg",
+  "boss_no" : 0,
+  "lighting" : "normal",
+  "name" : "巨石之间"
+}

@@ -1,0 +1,244 @@
+
+#0090
+<MNA<CMU0030<SMP0002:0010<SMP0002:0011<CMP0037:0008:0001
+<CMP0037:0009:0001<FAI0000<ANP0400:1010:0000<END
+#0091
+<MNA<CMU0030<SMP0002:0010<SMP0002:0011<CMP0037:0008:0001
+<CMP0037:0009:0001<FAI0001<ANP0400:1010:0000<END
+#0092
+<MNA<CMU0030<SMP0002:0010<SMP0002:0011<CMP0037:0008:0001
+<CMP0037:0009:0001<FAI0002<ANP0400:1010:0000<END
+#0093
+<MNA<CMU0030<SMP0002:0010<SMP0002:0011<CMP0037:0008:0001
+<CMP0037:0009:0001<FAI0003<ANP0400:1010:0000<END
+#0094
+<MNA<CMU0030<SMP0002:0010<SMP0002:0011<CMP0037:0008:0001
+<CMP0037:0009:0001<FAI0004<ANP0400:1010:0000<END
+#0100
+<PRI<FAO0002<TRA0104:0092:0117:0062
+#0101
+<PRI<FAO0000<TRA0096:0090:0002:0009
+#0160
+<FLJ0355:0016<PRI<MSGThis is the last save point.<NOD
+Once you save here, you will
+no longer be able to return
+to the island.<NOD<CLR
+Do you want to save?<YNJ0000<CLR
+Are you absolutely sure?<YNJ0000<FL+0355<FL+4015<SVP<CLR
+Game saved.<NOD<END
+#0200
+<KEY<SKJ0028:0201<SK+0028<EVE0202
+#0201
+<SAT<EVE0202
+#0202
+<KEY<DNP0200<MYD0002<FLJ7969:0203<MSG<FAC0001
+Quote!<WAI0050<NOD<CLRThank goodness you're
+alright!<NOD
+You had us worried sick!<NOD<CLO<FAC0000<FMU<WAI0050<MSG<FAC0033
+......<NOD<CLO<FAC0000<CMU0000<WAI0050
+<MSG<FAC0003Hey, Quote...?<NOD
+Come on, you ARE okay,
+aren't you...?<NOD<CLO<FAC0000<WAI0020<MSG<FAC0034
+*Chuckle*...<NOD<CLR<FAC0003<CMU0000
+!?<NOD<CLO<FAC0000<ANP0300:0010:0000<WAI0040<DNP0400<CNP0300:0247:0000
+<ANP0300:0020:0000<WAI0060<CMU0017<MSG<FAC0035
+Hello, partner...<NOD<CLRI really have to...<NOD
+apologise...<NOD<CLRI'm not quite myself,
+lately...<NOD<MYB0002
+Ha-hah-hah...!<NOD<CLR<FAC0031Who are you and what
+have you done with
+Quote!?<NOD<CLO<FAC0000<WAI0030<MSG<FAC0035You're his partner,
+aren't you?<NOD<CLREven now, I can feel
+his knowledge filling
+my mind...<NOD<CLRA year ago you and
+he destroyed the source
+of my crown's magic...<NOD<CLR<FAC0031
+!?<NOD<CLR<FAC0035
+And I also see...<NOD<CLRAll of the fools who
+stood against me have<CMU0000
+arrived on the island!<NOD<CLR<FAC0032
+You...!<NOD<CLR<FAC0035There is no place in
+my world for inferior
+machines like you.<NOD<CLR
+Prepare yourself!<NOD<CLO
+<CMP0002:0010:0001<CMP0002:0011:0001
+<BSL0300<ANP0300:0100:0000<CMU0031<END
+#0203
+<MSG<FAC0040
+Quote!<WAI0050<NOD<CLRThank goodness you're
+alright!<NOD
+You had us worried sick!<NOD<CLO<FAC0000<FMU<WAI0050<MSG<FAC0033
+......<NOD<CLO<FAC0000<CMU0000<WAI0050
+<MSG<FAC0042Hey, Quote...?<NOD
+Come on, you ARE okay,
+aren't you...?<NOD<CLO<FAC0000<WAI0020<MSG<FAC0034
+*Chuckle*...<NOD<CLR<FAC0042<CMU0000
+!?<NOD<CLO<FAC0000<ANP0300:0010:0000<WAI0040<DNP0400<CNP0300:0247:0000
+<ANP0300:0020:0000<WAI0060<CMU0017<MSG<FAC0035
+Hello, partner...<NOD<CLRI really have to...<NOD
+apologise...<NOD<CLRI'm not quite myself,
+lately...<NOD<MYB0002
+Ha-hah-hah...!<NOD<CLR<FAC0045Who are you and what
+have you done with
+Quote!?<NOD<CLO<FAC0000<WAI0030<MSG<FAC0035You're his partner,
+aren't you?<NOD<CLREven now, I can feel
+his knowledge filling
+my mind...<NOD<CLRA year ago you and
+he destroyed the source
+of my crown's magic...<NOD<CLR<FAC0045
+!?<NOD<CLR<FAC0035
+And I also see...<NOD<CLRAll of the fools who
+stood against me have<CMU0000
+arrived on the island!<NOD<CLR<FAC0046
+You...!<NOD<CLR<FAC0035There is no place in
+my world for inferior
+machines like you.<NOD<CLR
+Prepare yourself!<NOD<CLO
+<CMP0002:0010:0001<CMP0002:0011:0001
+<BSL0300<ANP0300:0100:0000<CMU0031<END
+#0300
+<KEY<FMU<MYD0300<FON0300:0016<ANP0300:1000:0005
+<DNA0249<DNA0250<DNA0251<DNA0252<DNA0001<DNA0086<DNA0087<MSG
+Gaahhh!<NOD<CLO<CMU0000<ANP0300:1010:0005<WAI0100
+<DNA0001<DNA0086<DNA0087<FAO0001<MYD0002<FL+0288<FL-0289
+<TRA0095:0301:0023:0009
+#0301
+<ANP0400:1010:0005<CMP0037:0008:0001<CMP0037:0009:0001
+<WAI0100<FAI0001<WAI0020<MSG
+Tut-tut-tut...<NOD<CLO<ANP0400:0020:0000
+<MSG<FAC0035Stupid girl...<NOD
+So long as the red crystal
+exists, I can never die!<NOD<CLR
+Hah-hah-hah!!<NOD<CLO<FAC0000<WAI0020<MSG
+Huzzah!<NOD<CLO<CNP0301:0009:0000<WAI0040<CNP0400:0093:0000<WAI0030
+<CNP0400:0150:0000<ANP0400:0010:0000<WAI0001<CNP0400:0163:0000<WAI0030
+<CMU0000<CNP0301:0012:0000<WAI0080<ANP0301:0030:0000<CMU0011<FLJ0710:0302
+<MSG<FAC0007Sorry!<NOD
+Hee-hee-hee.<NOD<CLR<FAC0001Balrog!<NOD
+How did you...?<NOD<CLR<FAC0000
+That would be my doing.<NOD<CLO<CMU0000<WAI0010<MYD0000
+<FON0404:0032<WAI0064<CMU0019<MS3<FAC0003
+Is that...?<NOD<FAC0001 Jenka!?<NOD<CLR<FAC0009
+Mmm.<NOD<CLRI really have to
+apologize for what my
+magic has done with you.<NOD<ANP0302:0010:0000
+Seems I was having a bad
+dream one night, and that
+coward took over.<NOD<CLRWhen he sought to bring
+you and Quote back to
+the island for revenge,<NOD
+I took it as an
+opportunity to include
+Balrog in that spell.<NOD<CLR
+Heh...<NOD<CLO<EVE0303
+#0302
+<MSG<FAC0007Sorry!<NOD
+Hee-hee-hee.<NOD<CLR<FAC0040Balrog!<NOD
+How did you...?<NOD<CLR<FAC0000
+That would be my doing.<NOD<CLO<CMU0000<WAI0010<MYD0000
+<FON0404:0032<WAI0064<CMU0019<MS3<FAC0042
+Is that...?<NOD<FAC0040 Jenka!?<NOD<CLR<FAC0009
+Mmm.<NOD<CLRI really have to
+apologize for what my
+magic has done with you.<NOD<ANP0302:0010:0000
+Seems I was having a bad
+dream one night, and that
+coward took over.<NOD<CLRWhen he sought to bring
+you and Quote back to
+the island for revenge,<NOD
+I took it as an
+opportunity to include
+Balrog in that spell.<NOD<CLR
+Heh...<NOD<CLO<EVE0303
+#0303
+<FAC0000<CMU0000<MS2
+And so what?<NOD<CLO<WAI0010<FON0400:0016<WAI0032<MYD0002<CMU0034
+<ANP0301:0000:0002<WAI0020<ANP0301:0080:0002<WAI0010<MS2
+Do you think I'm impressed?<NOD<CLR
+Should I be surprised??<NOD<CLR
+You may have saved their lives...<NOD<CLR
+But so what!?<NOD<CLO<WAI0010<CNP0305:0292:0000<WAI0010<MSG
+!!<NOD<CLR<FAC0009Balrog!<NOD
+Bring Quote over here!<NOD<CLR<FAC0006<ANP0301:0000:0000
+R-Right!<NOD<CLO<ANP0301:0060:0000<WAI0016<ANP0301:0050:0000<WAI0016
+<DNP0400<WAI0016<ANP0301:0010:0000<WAI0064<FON0404:0016<WAI0032
+<CNP0402:0009:0000<WAI0080<CNP0402:0012:0000<ANP0402:0050:0002<WAI0016
+<MNP0406:0011:0011:0000<WAI0016<ANP0402:0060:0000<WAI0032
+<CNP0402:0012:0002<MS2<FON0400:0128
+I shall have my revenge...<NOD<CLR
+All of you... Shall die...<NOD<CLR
+This palace shall crumble!<NOD<CLR<FMU
+And soon...<NOD<CLR
+The island shall fall again!<NOD<CLR<MNP0302:0032:000.:0000
+Ha-ha-ha-ha-ha...!<NOD<CLO<WAI0050<CMU0000<FOM0016<FL+0289
+<CNP0017:0017:0002<WAI0010<CNP0160:0016:0002<WAI0010
+<CMP0037:0008:0043<CMP0037:0009:0059<END
+#0402
+<FLJ0290:0403<FL+0290
+<KEY<MYB0000<WAS<MS3<FAC0006Jenka explained it to
+me.<NOD The red crystal is
+both his strength and
+weakness.<NOD It's strong,
+but with enough damage
+dealt to its soul...<NOD<CLR<FAC0007<ANP0402:0030:0002
+I think I cracked it!<NOD<END
+#0403
+<KEY<MYB0000<WAS<MS3<FAC0006If you can pick another
+fight with him, the crystal
+should break in time.<NOD
+But...<NOD Bad things might
+happen depending on his
+last resorts.<NOD<CLR
+Be careful, alright?<NOD<END
+#0404
+<FLJ0291:0405<FL+0291
+<KEY<MS3<FAC0009That brat...<NOD
+He talks big, but at his
+core, he's just a child
+who hasn't gotten his way.<NOD<CLRHis 'plan' was to gather
+everyone who wronged him
+to this island.<NOD
+Afterward, he'd...<NOD<CLRIn any case, there's only
+one option.<NOD You must
+climb the palace and meet
+him at his lair.<NOD<CLRAll of us are counting
+on you, dear.<NOD<END
+#0405
+<FLJ0292:0407<FL+0292
+<KEY<MS3<FAC0009This palace...<NOD
+Nay, this entire island
+was once the kingdom that
+Ballos and I loved...<NOD<CLRThe 'Sacred Ground' where
+angels gather was once the
+dungeon where he was kept.<NOD
+I sealed him there, where
+he could do no harm to
+any others...<NOD<CLRMisery would visit him
+and share his spite toward
+mankind.<NOD Whether he
+tricked her, or she egged
+him on, I'll never know.<NOD
+But the Demon Crown came
+to be.<NOD<CLRThrough Misery, he
+brought life to the red
+flowers on the island.<NOD
+And I came to hold a
+grudge against my own
+daughter...<NOD<CLRWhen she was the first
+to come to my aid,<NOD
+The Doctor twisted her
+into a foul beast.<NOD
+In time she would return
+to normal, but...<NOD
+It was not what I
+would have ever wished
+onto my own child.<NOD<EVE0407
+#0406
+<KEY<MS3It's Quote.<NOD
+He's in bad shape, but it looks
+like he'll be alright...<NOD<END
+#0407
+<KEY<MS3<FAC0009I'll see to it that I
+show her my forgiveness.<NOD
+Now go!<NOD End this
+nightmare for us all!<NOD<END

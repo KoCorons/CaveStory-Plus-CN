@@ -1,0 +1,8 @@
+{
+	"save_slot_identifier" : "CurlyStory",
+	"full_name" : "卡莉物语",
+	"description" : "以卡莉芙蕾斯的身份游玩《洞窟物语》",
+	"difficulties" : true,
+	"requirement" : "item",
+	"requirement_number" : 35
+}

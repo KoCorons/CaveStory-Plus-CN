@@ -1,0 +1,12 @@
+{
+  "parts": "River",
+  "map": "Stream",
+  "bkType": 5,
+  "back": "bkCircle2",
+  "back_water": "bkCircle2",
+  "npc": "Stream",
+  "boss": "IronH",
+  "boss_no": 5,
+  "lighting": "normal",
+  "name": "Main Artery"
+}

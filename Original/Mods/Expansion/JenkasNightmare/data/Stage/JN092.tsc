@@ -1,0 +1,159 @@
+
+#0090
+<MNA<CMU0030<FAI0000<END
+#0091
+<MNA<CMU0030<FAI0001<END
+#0092
+<MNA<CMU0030<FAI0002<END
+#0093
+<MNA<CMU0030<FAI0003<END
+#0094
+<MNA<CMU0030<FAI0004<END
+#0099
+<KEY<MNA<CMU0030
+<ANP0500:0001:0000<FAI0004
+<CNP0301:0112:0002<WAI0100
+<ANP0500:0000:0000
+<MYD0002<SMC<DNP0301<END
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<FLJ0253:0103
+<FLJ0226:0101<FLJ0225:0102<EVE0101
+#0101
+<TRA0091:0094:0079:0073
+#0102
+<TRA0091:0500:0077:0073
+#0103
+<TRA0104:0094:0079:0073
+#0200
+<DNP0199<KEY<FLJ0253:0201<MSGYou find a note written by
+Booster.<NOD
+Would you like to read it?<YNJ0000<CLR<TURBefore we came to the island,
+there were already several...
+'incidents'.<NOD<CLRSue's father, Daisuke Sakamoto,
+was murdered in cold blood.
+By whom, no one knows.<NOD<CLRThis was years ago, and it delayed
+our trip here significantly.<NOD<CLRIt was originally Daisuke's idea
+to come here. He said something
+was 'waiting' for him here.<NOD<CLRI can only pray that this
+'something' was not the crown.<NOD<CLRHowever, since Date seemed to take
+Daisuke's death the hardest, he may
+have been using the crown on his behalf.<NOD<CLRIn a dubious way, I'm glad things
+turned out as they did.<NOD<CLRI would hate to think of what
+would happen to Sue and Momorin if
+Daisuke were to go mad like that...<NOD<CLRStill, I can't help but feel
+sorry for Date after learning about
+Ballos' influences on the island.<NOD<CLRWhat may have started as fulfilling
+his partner's deluded dream turned
+him into another mindless zealot.<NOD<CLRI hope, wherever they are, they
+can rest peacefully.<NOD<END
+#0201
+<MSGYou find a note hastily
+written by Booster.<NOD
+Would you like to read it?<YNJ0000<CLR<TURI was a fool to have ever
+doubted Daisuke, it seems.<NOD<CLRDate wants to see us all
+killed. That was the entire
+purpose of our coming here.<NOD<CLRHe's no longer human.
+Is he in control, or is
+it still Ballos?<NOD<CLREither way, I fear without
+a miracle, the island's
+time is nearing its end.<NOD<CLR
+And us along with it...<NOD<END
+#0500
+<FLJ0226:0502<FLJ0225:0501<KEY<MSGA teleporter.<NOD There appears to
+be power, but it has been turned
+off.<NOD<CLR
+Turn it on?<YNJ0000<CLO<MNP0199:0000:0000:0000<FL+0225<PS+0007:6007
+<SOU0042<WAI0002<SOU0103<CNP0501:0023:0000<WAI0080
+<SOU0043<ANP0500:0001:0000<WAI0010<MYB0002<WAI0001<MYB0002
+<WAI0080<CNP0650:0113:0002<ANP0650:0030:0002<WAI0100
+<ANP0650:0000:0002<ANP0500:0000:0000<WAI0050<MSG<FAC0024
+Phew...<ANP0650:0000:0000<NOD<CLRI see you've made it
+up here in one piece.<NOD
+Good, good...<NOD<CLO<WAI0020<MSG
+Hmmm...<NOD<CLRI don't know quite how
+to tell you this, but...<NOD
+There's been another
+change in plans.<NOD<CLRMisery contacted us again,
+just a few moments ago...<NOD
+I don't know why, or how,
+but...<NOD<CLRJenka's barrier has
+fallen.<NOD And, moreover,
+the island is no longer
+in any danger!<NOD<CLR
+Hahahah...<NOD<CLO<FAC0000<WAI0005
+<ANP0650:0003:0000<WAI0039<MYD0000<WAI0007<ANP0650:0000:0002
+<MSG<FAC0024I'm just as surprised as
+you are!<NOD If what Misery
+says is true...<NOD
+Jenka should awaken
+shortly, and things should
+return to normal.<NOD<CLO<WAI0005<ANP0650:0005:0000<WAI0020
+<MSGI'm sorry to have
+placed so much pressure
+on you, Quote.<NOD
+I can't say I'd know
+what to do if you
+never came here.<NOD
+But I suppose Jenka
+knew you had what
+it took, if she...<NOD<CLR
+Hrm...<NOD<CLO<WAI0005<ANP0650:0000:0000<WAI0020<MSGStrange that you'd be
+summoned here at all.<NOD
+If her memory of Ballos
+drove her to tear the
+island apart...<NOD<CLR
+Hmmm...<NOD<CLRPerhaps we'd do better
+discussing this outside
+while we wait.<NOD
+Momorin and Itoh should
+be here shortly.<NOD<CLO
+<WAI0005<ANP0650:0005:0000<WAI0005
+<SOU0011<MNP0100:0000:0000:0000<WAI0020<DNP0650<WAI0020
+<SOU0011<MNP0100:0010:0008:0000<WAI0020<END
+#0501
+<KEY<MSGA teleporter.<NOD
+It would be rude to use it now.<NOD<END
+#0502
+<KEY<MSGA teleporter.<NOD<SLP<NOD<END
+#0503
+<KEY<MSGThe teleporter is in
+shambles...<NOD<END
+#6001
+<PRI<MSGDo you want to go to the
+Mimiga Village?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0012:0099:0004:0005
+#6002
+<PRI<MSGDo you want to go to
+Grasstown?<YNJ0000<CLO<FLJ0144:6012<EVE6011
+#6003
+<PRI<MSGDo you want to go to the
+Sand Zone?<YNJ0000<CLO<FLJ0144:6013<EVE6011
+#6004
+<PRI<MSGDo you want to go to the
+Labyrinth?<YNJ0000<CLO<FLJ0145:6014<EVE6011
+#6005
+<PRI<MSGDo you want to go to the
+Aqueducts?<YNJ0000<CLO<FLJ0146:6015<EVE6011
+#6006
+<PRI<MSGDo you want to go to the
+Observatory?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0084:0099:0015:0005
+#6007
+<END
+#6011
+<PRI<MSG<TUR
+ERROR! PERMISSION NOT YET GRANTED!<NOD<END
+#6012
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0025:0099:0013:0009
+#6013
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0040:0099:0016:0007
+#6014
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0046:0099:0020:0005
+#6015
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0056:0099:0010:0010

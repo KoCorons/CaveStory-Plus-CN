@@ -1,0 +1,12 @@
+{
+  "parts": "Pens",
+  "map": "JN012",
+  "bkType": 2,
+  "back": "bk14",
+  "back_water": "bk14",
+  "npc": "Guest",
+  "boss": "Guest",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Town Hall"
+}

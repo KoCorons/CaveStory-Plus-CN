@@ -1,0 +1,184 @@
+#0094
+<KEY<FAI0004<CMU0002<MNA<END
+#0100
+<KEY<FAO0004<TRA0002:0094:0024:0009
+#0101
+<FLJ0201:0104
+<ITJ0001:0103
+<KEY<MS3
+It won't open.<NOD
+A small key hole is visable.<NOD<CLO<END
+#0102
+<KEY<FAO0004<TRA0004:0094:0005:0010
+#0103
+<KEY<MS3<GIT1001
+Used the =Rooftop= key.<NOD<FL+0201<CLO
+<FAO0004<TRA0005:0094:0009:0074
+#0104
+<KEY<FAO0004<TRA0005:0094:0009:0074
+#0105
+<KEY<FAO0004<TRA0006:0094:0004:0011
+#0201
+<KEY<MS3<TUR
+Rooftops<NOD<CLO<END
+#0202
+<KEY<MS3<TUR
+Kitchen<NOD<CLO<END
+#0203
+<KEY<MS3<TUR
+Pizza Parlor<NOD<CLO<END
+#0204
+<KEY<MM0<WAS<MS3<FAC0026
+This is a disaster!<NOD
+No one has gotten their
+food due to something<NOD
+eating all of our suppli<WAI0025<CLR<FAC0016
+Oh hello there!<NOD
+Sorry, discussing private
+business stuff!<NOD<CLO<FL+0103<DNP0204<END
+#0205
+<FLJ0102:0208
+<KEY<MS3<FAC0020
+I don't know what we're
+gonna do...<NOD<CLO<END
+#0206
+<FLJ0102:0207
+<KEY<MS3<FAC0015
+Sorry, I don't know if you
+will be able to get any
+food here.<NOD
+Something has been stealing
+all of our supplies.<NOD<CLR
+I'd teleport the food here,<NOD
+if it wasn't for my powers
+not working.<NOD<CLR<FAC0030
+quote can help<NOD<CLR<FAC0016
+That'd be splendid!<NOD
+Thank you so much!<NOD<CLR<FAC0030
+haha<NOD<CLO<FL+0102<END
+#0207
+<KEY<MS3<FAC0015
+Can't thank you enough,
+genuinely.<NOD<CLO<END
+#0208
+<KEY<MS3<FAC0019
+It's very kind of you
+to help us out!<NOD<CLO<END
+#0209
+<FLJ0102:0210
+<KEY
+<MYB0002<WAS<MS3<FAC0030
+miza<NOD<CLO<END
+#0210
+<DNP0209<END
+#0301
+<FLJ0801:0306
+<ITJ0002:0304
+<ITJ0003:0305
+<FLJ0401:0302
+<KEY<MS3
+Hey, I'm Santa.<NOD
+I've been waiting for my food
+for a while.<NOD
+Wait, how long has it been?<NOD<CLO<WAI0120<MS3
+4 days?!<NOD
+What the heck! That can't
+be normal, right?<NOD<CLO<FL+0401<END
+#0302
+<KEY<MS3
+Can't believe this...<NOD<CLO<END
+#0303
+<FLJ0802:0309
+<ITJ0002:0307
+<ITJ0003:0308
+<KEY<MS3<FAC0002
+I wonder where my food is..<NOD<CLO<END
+#0304
+<KEY<MS3
+Hey! Is that...<NOD<GIT1002
+Pizza?!<NOD
+For me??<NOD
+Thanks a bunch!<NOD<CLR
+(Santa took your pizza!)<NOD<IT-0002<FL+0801<END
+#0305
+<KEY<MS3
+Hey! Is that...<NOD<GIT1002
+Pizza?!<NOD
+For me??<NOD
+Thanks a bunch!<NOD<CLR
+(Santa took your pizza!)<NOD<IT-0003<FL+0801<END
+#0306
+<KEY<MS3
+Thanks again!<NOD<CLO<END
+#0307
+<KEY<MS3<FAC0001
+Oh hey!<NOD
+Is that...<NOD<GIT1002
+Pizza on you, by chance?<NOD<GIT0000
+Is it for me?<NOD
+It is?<NOD
+Wow, Thanks!<NOD<CLR<FAC0000
+(Sue took your pizza!)<NOD<IT-0002<FL+0802<END
+#0308
+<KEY<MS3<FAC0001
+Oh hey!<NOD
+Is that...<NOD<GIT1002
+Pizza on you, by chance?<NOD<GIT0000
+Is it for me?<NOD<CLR
+It is?!<NOD
+Wow, Thanks!<NOD<CLR<FAC0000
+(Sue took your pizza!)<NOD<IT-0003<FL+0802<END
+#0309
+<KEY<MS3<FAC0001
+This is delicious!<NOD
+Thank you so much!<NOD<CLR<END
+#0310
+<FLJ0803:0313
+<ITJ0002:0311
+<ITJ0003:0312
+<KEY<MS3<FAC0007
+Am I going to get some
+FUCKING PIZZA or WHAT<NOD<CLO<END
+#0311
+<KEY<MS3<FAC0007
+no way.<NOD
+has the day finally come?<NOD
+this is incredible.<NOD
+greatest day.<WAI0020 ever.<NOD<CLR<FAC0000
+(King took your pizza!)<NOD<CLO<IT-0002<FL+0803<END
+#0312
+<KEY<MS3<FAC0007
+no way.<NOD
+has the day finally come?<NOD
+this is incredible.<NOD
+greatest day.<WAI0020 ever.<NOD<CLR<FAC0000
+(King took your pizza!)<NOD<CLO<IT-0003<FL+0803<END
+#0313
+<KEY<MS3<FAC0007
+finally some GOOD FUCKING
+FOOD THANK YOU<NOD<CLO<END
+#0314
+<FLJ0804:0317
+<ITJ0002:0315
+<ITJ0003:0316
+<KEY<MS3<FAC0010
+Shame I haven't gotten
+my food yet.<NOD
+I'd enjoy that soon.<NOD<CLO<END
+#0315
+<KEY<MS3<FAC0010
+Oh hey! You!<NOD<GIT1002
+May I have that pizza?<NOD<GIT0000
+Oh, It's for me?<NOD
+Thanks a lot!<NOD<CLR<FAC0000
+(Kazuma took your pizza!)<NOD<CLO<IT-0002<FL+0804<END
+#0316
+<KEY<MS3<FAC0010
+Oh hey! You!<NOD<GIT1002
+May I have that pizza?<NOD<GIT0000
+Oh, It's for me?<NOD
+Thanks a lot!<NOD<CLR<FAC0000
+(Kazuma took your pizza!)<NOD<CLO<IT-0003<FL+0804<END
+#0317
+<KEY<MS3<FAC0010
+Thanks a bunch!<NOD<CLO<END

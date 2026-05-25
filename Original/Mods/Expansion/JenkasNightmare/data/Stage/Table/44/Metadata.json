@@ -1,0 +1,12 @@
+{
+  "parts": "Maze",
+  "map": "JN044",
+  "bkType": 2,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Guest",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Old Clinic"
+}

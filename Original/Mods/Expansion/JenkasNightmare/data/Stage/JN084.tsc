@@ -1,0 +1,318 @@
+
+#0090
+<MNA<CMU0014<FAI0000<END
+#0091
+<MNA<CMU0014<FAI0001<END
+#0092
+<MNA<CMU0014<FAI0002<END
+#0093
+<MNA<CMU0014<FAI0003<END
+#0094
+<MNA<CMU0014<FAI0004<END
+#0095
+<MNP0203:0016:0005:0002<MNP0204:0016:0000:0002<EVE0090
+#0099
+<KEY<MNA<CMU0014
+<ANP0500:0001:0000<FAI0004
+<CNP0301:0112:0002<WAI0100
+<ANP0500:0000:0000
+<MYD0002<SMC<DNP0301<END
+#0100
+<FLJ0186:0101<PRI<MSG
+It's locked from the other side...<NOD<END
+#0101
+<PRI<SOU0011<DNP0100<FAO0002<TRA0075:0092:0134:0005
+#0102
+<FLJ0187:0103<PRI<MSG
+It's locked from the other side...<NOD<END
+#0103
+<PRI<SOU0011<DNP0102<FAO0002<TRA0082:0092:0026:0017
+#0104
+<IT-0040<IT-0041<IT-0042
+<PRI<SOU0011<DNP0104<FAO0002<TRA0085:0092:0197:0143
+#0150
+<KEY<MSGThank you for playing the game
+so far.<NOD This is the last demo
+until the final release.<NOD
+The final areas lurk ahead, and
+there's much work to be done.<NOD<CLR<TURIf you need more to do, try
+coming from the other door!
+             - ZarroTsu 27/10/2013<NOD<END
+#0200
+<DNP0200<PS+0006:6006<ANP0203:0000:0000<KEY<MM0<WAS<MSG<FAC0001
+Aha!<NOD<CLO<MYD0002<ANP0203:0010:0000<WAI0080<EVE0202
+#0201
+<DNP0201<PS+0006:6006<ANP0203:0000:0000<KEY<MM0<WAS<MSG<FAC0001
+Aha!<NOD<CLO<MYD0002<ANP0203:0010:0000<WAI0040<EVE0202
+#0202
+<FL+0177<MSG<FAC0001Hey Quote!<NOD<CLRBooster and Sue managed to
+reconnect the teleporter
+here to the network.<NOD
+<FAC0003What was weird is it was
+never offline to begin
+with...<NOD<FAC0004 Something about
+the connection being
+encrypted...?<NOD<CLR<FAC0001Anyway, have you seen
+Balrog around...?<NOD<CLO<FAC0000
+<WAI0010<MSG<CMU0000
+HUZZAH!<NOD<CLO<ANP0203:0000:0002<CNP0204:0009:0000<WAI0120
+<CNP0204:0012:0000<ANP0204:0030:0000<CMU0011
+<MSG<FAC0007Oh, hey guys!<NOD
+I finally found you both
+in one place!<NOD<CLR<FAC0001Balrog!<NOD Just in time!<NOD
+Now, let's go over the
+plan Booster's put
+together...<NOD<CLO<FAO0000<WAI0010<FON0202:0001
+<TRA0084:0203:0025:0010
+#0203
+<KEY<CMU0023<FAI0000<WAI0020
+<MSG<FAC0001So here's the deal.<NOD
+Momorin, Itoh, and Kazuma
+are on their way over
+right now.<NOD<CLR<FAC0006
+Sue's family?<NOD<CLR<FAC0001They're on their way
+over to pick her up.<NOD<FAC0003
+They won't stay long, and
+it's best they leave as
+quickly as possible.<NOD<CLR<FAC0004According to Misery,
+though...<NOD<FAC0002
+Jenka's barrier hasn't
+gotten any weaker.<NOD<CLR<FAC0006Huh?<NOD I thought Quote beat
+those two spirit things
+already?<NOD<CLR<FAC0003Right...<NOD But it looks like
+Booster's theory was
+true,<NOD and we need to
+wake up Jenka to get
+rid of them for good...<NOD<FAC0002
+But the way things are, it
+doesn't seem possible...<NOD<CLR<FAC0004Balrog, you and I are
+going to wait here for
+Kazuma.<NOD<CLR<FAC0006
+What about Quote?<NOD<CLR<FAC0003Quote is going to head up
+to the surface and turn
+on the last teleporter.<NOD<FAC0002<ANP0210:0000:0000
+I offered to do it myself,
+but...<NOD<FAC0004 Booster insisted
+you have far more
+experience dealing with
+the island.<NOD It's
+imperative that that
+teleporter gets turned on.<NOD<CLR<FAC0005I've been unarmed and no
+help since we got here,
+so I don't really mind...<NOD<CLR<FAC0006So, uh...<NOD<ANP0210:0000:0002<FAC0007<ANP0220:0030:0000 What do we do
+after Quote turns it on?<NOD<CLR<FAC0003After he's done, we're
+free to leave the island.<NOD<FAC0002
+In fact, Booster stressed
+that we do, as soon as
+possible.<NOD<CMU0000<CLR<FAC0006
+Huh?<NOD<CLR<FAC0004He's evacuating as many
+people from the island as
+he can.<NOD<CLR<FAC0003Jenka's magic has gotten
+too unpredictable.<NOD<FAC0002
+It's only a matter of
+time before the island
+falls apart...<NOD<CLO<WAI0020
+<FAO0001<FOM0016<WAI0050<CMU0023<FAI0001<END
+#0210
+<FLJ0226:0214
+<FLJ0211:0211<FL+0211<KEY<MSG<FAC0003Booster and Kazuma would
+occasionally meet here
+and mingle.<NOD<FAC0004
+There's a lot about the
+island they still don't
+know...<NOD<FAC0002 And a lot that you
+and I don't know either.<NOD<END
+#0211
+<AMJ0004:0212<EVE0213
+#0212
+<ITJ0006:0022<EVE0213
+#0213
+<KEY<MSG<FAC0004When this is all over, I 
+hope we can go back home,
+away from this place.<NOD<FAC0002
+There's too many bad
+memories hiding here...<NOD<END
+#0214
+<FLJ0233:0215<FL+0233
+<KEY<MSG<FAC0001You got up to the balcony
+alright?<NOD<CLR<FAC0003So...<NOD
+I guess we're done here?<NOD
+We can leave at any time.<NOD<FAC0001
+If that's okay with
+Balrog, anyway...<NOD<CLR<FAC0007<ANP0220:0030:0004I'm ready to leave
+whenever you guys are!<NOD<CLO<FAC0000<WAI0050
+<MSG<FAC0004Then I guess this might
+be the last time we ever
+see the island...<NOD<CLO<EVE0215
+#0215
+<KEY<MSG<FAC0001
+Are you ready to go?<YNJ0216<CLO
+<FON0220:0016<WAI0050<FMU
+<MSG<FAC0001Alright, Balrog!<NOD<MYD0002
+We're good to go!<NOD<CLO<FAC0000<CMU0000
+<ANP0220:0000:0002<CNP0230:0150:0002<HMC
+<ANP0210:0003:0002<WAI0042<ANP0210:0020:0002<WAI0016
+<ANP0230:0050:0002<WAI0032<ANP0230:0080:0002<WAI0032
+<DNP0210<DNP0230
+<CNP0220:0212:0002<ANP0220:0010:0002<WAI0100
+<MSG<FAC0007Okay guys!<NOD
+Here we go again!<NOD<CLR
+Hang on tight!!<NOD<CLO<FAC0000
+<ANP0220:0020:0002<WAI0250<FAO0000<TRA0000:0100:0001:0015
+#0216
+<MSG<FAC0004
+Really?<NOD<CLR<FAC0001Alright, come back here
+when you've said your
+goodbyes to everyone!<NOD
+We'll be waiting!<NOD<END
+#0220
+<FLJ0226:0229
+<KEY<MYB0220<WAI0010<ANP0220:0000:0004
+<FLJ0384:0226<FLJ0383:0231<FLJ0210:0226<FL+0210
+<MSG<FAC0006I never did get a chance
+to return the storehouse
+key to Jenka.<NOD I hope
+this isn't all my fault
+or something...<NOD<CLO<AMJ0004:0221<END
+#0221
+<KEY<MSG<FAC0006Oh, right.<NOD<FAC0007<ANP0220:0030:0004
+Quote, did you wanna trade
+weapons back, now?<YNJ0225<CLO<FAC0000<MSG<AM-0004<FL+0384
+<GIT0004Gave back the =Machine Gun=.<NOD<CLO<FLJ0206:0400<FLJ0207:0410
+<MSG<FL-0205<AM+0003:0000
+<CMU0010<GIT0003Got back the =Fireball=!<WAI0160<NOD<RMU<END
+#0222
+<MSG<FL-0206
+<CMU0010<GIT0001Got back the =Snake=!<WAI0160<NOD<RMU<END
+#0223
+<MSG<FL-0206<AM+0001:0000
+<CMU0010<GIT0001Got back the =Hydra=!<WAI0160<NOD<RMU<END
+#0224
+<MSG<FL-0207
+<CMU0010<GIT0007Got back the =Bubbler=!<WAI0160<NOD<RMU<END
+#0225
+<FL-0383<MSG<FAC0006Okay.<NOD I'll ask you
+again some other time.<NOD<END
+#0226
+<AMJ0005:0227<AMJ0010:0227<EVE0228
+#0227
+<ITJ0007:0033<ITJ0010:0034<EVE0228
+#0228
+<KEY<MSG<FAC0006I guess we'll wait around
+here for that Kazuma guy.<NOD
+But how's he getting here,
+anyway?<NOD<FLJ0205:0232<FLJ0206:0232<FLJ0207:0232<END
+#0229
+<FLJ0234:0230<FL+0234
+<KEY<MSG<FAC0006So we're already done
+here, huh?<NOD<CLR
+Man...<NOD<CLRI didn't get to stomp
+on ANYTHING since I got
+here!<NOD Where's the fun
+in that!?<NOD<CLR
+......<NOD<CLRDon't look at me like
+that!<NOD You got to have
+all the fun this time.<NOD<END
+#0230
+<KEY<MSG<FAC0006Let Curly know when
+you're ready to leave.<NOD
+Kinda wondering what's
+taking that Kazuma guy
+so long, though.<NOD<END
+#0231
+<KEY<MSG<FAC0006Say, Quote...<NOD<FAC0007<ANP0220:0030:0004
+Did you wanna trade
+weapons back, now?<YNJ0225<CLO<FAC0000<MSG<AM-0004<FL+0384
+<GIT0004Gave back the =Machine Gun=.<NOD<CLO<FLJ0206:0400<FLJ0207:0410
+<MSG<FL-0205<AM+0003:0000
+<CMU0010<GIT0003Got back the =Fireball=!<WAI0160<NOD<RMU<END
+#0232
+<FL+0383<END
+#0400
+<FLJ2222:0223<AM+0001:0020
+<FLJ2202:0401<FLJ2203:0402<FLJ2204:0403
+<FLJ2205:0404<FLJ2206:0405<FLJ2207:0406<EVE0222
+#0401
+<AM+0001:0010
+<FLJ2203:0402<FLJ2204:0403
+<FLJ2205:0404<FLJ2206:0405<FLJ2207:0406<EVE0222
+#0402
+<AM+0001:0010
+<FLJ2204:0403
+<FLJ2205:0404<FLJ2206:0405<FLJ2207:0406<EVE0222
+#0403
+<AM+0001:0010
+<FLJ2205:0404<FLJ2206:0405<FLJ2207:0406<EVE0222
+#0404
+<AM+0001:0010
+<FLJ2206:0405<FLJ2207:0406<EVE0222
+#0405
+<AM+0001:0010
+<FLJ2207:0406<EVE0222
+#0406
+<AM+0001:0010<EVE0222
+#0410
+<AM+0007:0030
+<FLJ2301:0411<FLJ2302:0412<FLJ2303:0413
+<FLJ2304:0414<FLJ2305:0415<FLJ2306:0416<EVE0224
+#0411
+<AM+0007:0015
+<FLJ2302:0412<FLJ2303:0413
+<FLJ2304:0414<FLJ2305:0415<FLJ2306:0416<EVE0224
+#0412
+<AM+0007:0015
+<FLJ2303:0413
+<FLJ2304:0414<FLJ2305:0415<FLJ2306:0416<EVE0224
+#0413
+<AM+0007:0015
+<FLJ2304:0414<FLJ2305:0415<FLJ2306:0416<EVE0224
+#0414
+<AM+0007:0015
+<FLJ2305:0415<FLJ2306:0416<EVE0224
+#0415
+<AM+0007:0015
+<FLJ2306:0416<EVE0224
+#0416
+<AM+0007:0015<EVE0224
+#0500
+<KEY<MSGA teleporter.<NOD<SLP<NOD<END
+#6001
+<PRI<MSGDo you want to go to the
+Mimiga Village?<YNJ0000<CLO<FLJ0225:6011
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0014:0099:0004:0005
+#6002
+<PRI<MSGDo you want to go to
+Grasstown?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0025:0099:0013:0009
+#6003
+<PRI<MSGDo you want to go to the
+Sand Zone?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0040:0099:0016:0007
+#6004
+<PRI<MSGDo you want to go to the
+Labyrinth?<YNJ0000<CLO<FLJ0145:6014<EVE6010
+#6005
+<PRI<MSGDo you want to go to the
+Aqueducts?<YNJ0000<CLO<FLJ0146:6015<EVE6010
+#6006
+<END
+#6007
+<PRI<MSGDo you want to go to the
+Surface?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0092:0099:0013:0008
+#6010
+<PRI<MSG<TUR
+ERROR! PERMISSION NOT YET GRANTED!<NOD<END
+#6011
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0012:0099:0004:0005
+#6014
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0046:0099:0020:0005
+#6015
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0056:0099:0010:0010

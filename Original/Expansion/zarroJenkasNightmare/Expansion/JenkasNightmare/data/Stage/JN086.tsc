@@ -1,0 +1,105 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<CMU0002<FAI0004<END
+#0100
+<PRI<SOU0011<DNP0100<FAO0000<TRA0085:0094:0087:0142
+#0150
+<KEY<MSGAn old rocket.<NOD<FLJ0343:0000
+It looks like the one you rode
+up to fight The Doctor, so
+long ago...<NOD<END
+#0200
+<FLJ0343:0202<FLJ0268:0201<FL+0268
+<KEY<MSG
+Oh?<NOD<CLRWelcome!<NOD It's been a very long
+time since I've seen you, child.<NOD
+You may have fooled the other
+with that disguise of yours,<NOD
+but I knew you weren't a Mimiga
+from the very beginning!<NOD<CLRA lot has changed since then,
+my friend.<NOD Many Mimigas were freed
+from The Doctor's tyranny.<NOD
+They spread out across the island
+in two groups...<NOD There were
+those who wanted to settle down
+in a safe location,<NOD
+and those who wanted to expand,
+and explore new reaches of the
+island.<NOD<CLR
+Alas...<NOD<CLR...I fear the second group may
+have met with some trouble after
+the earthquakes began...<NOD
+But I'm confident that they will
+be alright.<NOD Mimigas are nothing
+if not hard to get rid of!<NOD<END
+#0201
+<KEY<MSGMany of the flowers wilted with
+time, but I've kept a small
+garden alive for myself.<NOD
+I hope there will be enough to
+feed everyone when they return.<NOD<END
+#0202
+<FLJ0269:0204<FL+0269<FLJ0268:0203
+<KEY<MSGOh?<NOD Welcome!<NOD
+Please, make yourself right at
+home.<NOD I don't have much here,
+but I assure you The Doctor
+won't find us any time soon.<NOD<END
+#0203
+<KEY<MSGOh, my, another visitor.<NOD Today is
+certainly a special day...<NOD
+...Is what I would say if The
+Doctor hadn't returned...<NOD<END
+#0204
+<KEY<MSGAre you going...?<NOD
+...<NOD I see...<NOD<CLRKeep your chin up, young lady.<NOD
+No matter how grim things become,
+you mustn't lose hope.<NOD
+If you fight hard enough, there
+will always be a happy ending.<NOD<END
+#0220
+<FLJ0270:0221<FL+0270
+<ANP0220:0010:0000
+<KEY<MYB0000<MSG
+Uwah!<NOD ...<NOD<CLO<ANP0220:0000:0002
+<KEY<MSG<FAC0037Oh, my apologies.<NOD
+I thought you were
+somebody else.<NOD
+I fled down here after
+that...<NOD THING attacked
+my associates and I.<NOD<CLRA friend of Booster's?<NOD
+Ah, yes, you must be that
+other surface robot he and
+Quote mentioned.<NOD<CLRYes, well...<NOD
+After we were attacked,
+I somehow found myself
+here.<NOD Everything else
+is a bit of a blur...<NOD<CLR
+......<NOD<CLRAh, yes, I found this<GIT1002
+on my way down here.<NOD
+I don't have much use
+for it myself, but maybe
+it'll help you out.<NOD<CLR<IT+0002<EQ+0002<FAC0000
+<CMU0010Got the =Map System=!<WAI0160<NOD<GIT0000<RMU
+<ANP0220:0000:0000<END
+#0221
+<KEY<MSG<FAC0037Sorry, I was admiring
+some of my old work.<NOD
+Well, not entirely mine,
+but...<NOD<CLRAnyway, I'll be sure to
+look for Booster after
+I formulate a plan.<NOD<END
+#0300
+<AMJ0004:0301<EVE0020
+#0301
+<FLJ2124:0001<FL+2124<SOU0022<CNP0300:0021:0000<EVE0021
+#1100
+<SNP0259:0001:0001:0000<EVE0041

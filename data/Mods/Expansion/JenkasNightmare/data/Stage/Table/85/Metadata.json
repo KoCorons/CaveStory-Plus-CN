@@ -1,0 +1,12 @@
+{
+  "parts": "Cent",
+  "map": "JN085",
+  "bkType": 1,
+  "back": "bkGreen",
+  "back_water": "bkGreen",
+  "npc": "Cent2",
+  "boss": "Cent",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "大农场"
+}

@@ -1,0 +1,12 @@
+{
+  "parts": "Pens",
+  "map": "Pens2",
+  "bkType": 1,
+  "back": "BkBlue",
+  "back_water": "BkBlue",
+  "npc": "Guest",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Arthur's House"
+}

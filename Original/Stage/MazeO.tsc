@@ -1,0 +1,136 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<CMU0002<FAI0004<END
+#0100
+<KEY<SOU0011<ANP0100:0000:0002<FAO0000<MYD0000
+<FLJ0703:0101
+<TRA0039:0094:0084:0015
+#0101
+<FL+0704<TRA0039:0094:0084:0015
+#0105
+<KEY<FAO0004<TRA0039:0094:0091:0012
+#0200
+<KEY<MSG
+The mysterious robot,
+Monster X...<NOD
+When the hatch opens...
+that's your chance to attack.<NOD<END
+#0300
+<KEY<MSG
+I'm a physician.<NOD
+Allow me to take care of you.<NOD<CLO<LI+1000<SOU0020
+<FLJ0704:0304
+<FLJ0702:0303
+<ITJ0016:0302
+<FLJ0700:0301<FL+0700<WAI0050
+<MSG
+Don't worry, I won't take your money.<NOD<CLR
+In exchange, please accept a simple
+request from me...<NOD<CLR
+There's an old clinic nearby.<NOD
+Go there and see if there is any 
+medicine left inside.<NOD<CLR
+<GIT1017<IT+0017Obtained the Clinic Key.<NOD<GIT0000<END
+#0301
+<KEY<MSG
+The clinic's pretty close.<NOD
+When you get there, search for any
+usable medicine that's available.<NOD<END
+#0302
+<KEY<MSG<IT-0016<FL+0702
+<GIT1016Gave the Cure-All to the physician.<NOD<CLR<GIT0000
+Oh, you found it!<NOD
+Thank you and sorry for the trouble.<NOD
+Please leave the rest to me.<NOD<END
+#0303
+<KEY<MSG
+Many thanks.<NOD
+Leave the rest to me please.<NOD<END
+#0304
+<KEY<MSG
+Looks like the medicine is finally
+taking effect.<NOD
+She'll be much better very soon.<NOD
+It's all thanks to you.<NOD<END
+#0310
+<FLJ0704:0313
+<FLJ0702:0312
+<FLJ0701:0311
+<KEY<MSG
+I'm a nurse.<NOD
+I worked at the clinic nearby,<NOD
+but a dark ghost began haunting it, so
+I ran away and came here.<NOD<END
+#0311
+<KEY<MSG
+Are you her friend?<NOD
+If you want to save her, it's best you
+do whatever the doctor says.<NOD<END
+#0312
+<KEY<MSG
+Thank you for doing what was 
+necessary to help your friend.<NOD
+Tell me, were there still any ghosts?<NOD<END
+#0313
+<KEY<MSG
+Here for a visit with your friend?<NOD<CLR
+If that's who you're looking for, she
+headed out in the general direction
+of the Boulder Chamber.<NOD<END
+#0320
+<FLJ0702:0322
+<FLJ0701:0321<FL+0701
+<KEY<MSG<FAC1119
+Hi!<FAC1019<NOD<CLR<FAC1119
+Long time no see.<FAC1019<NOD<FAC1119
+You look great!<FAC1019<NOD<CLR<FAC1119
+So you were warped down 
+here by that witch, Misery.<FAC1019<NOD<FAC1119
+Me too!<FAC1019<NOD<CLR<FAC1120
+Even you weren't able to
+succeed against them.<FAC1020<NOD<FAC1120
+I did have a tiny bit of hope...<FAC1020<NOD<CLR<FAC1120
+Like you, I tried my best.
+And this is where I ended up.<FAC1020<NOD<CLR
+.....<NOD<CLR<FAC1120
+I'm disappointed in myself.<FAC1020<NOD<FAC1120
+When it comes down to it,
+I couldn't protect them.<FAC1020<NOD<FAC1120
+With this body in this shape...<FAC1020<NOD<FAC1120
+...getting out of here is going
+to be next to impossible...<FAC1020<NOD<END
+#0321
+<KEY<MSG<FAC1120
+I may have survived so far
+and everything...<FAC1020<NOD<FAC1120
+but what should I do now?<FAC1020<NOD<CLR<FAC1120
+Am I just going to rot away
+in here or something?<FAC1020<NOD<END
+#0322
+<KEY<MSG<FAC1120
+This is the legendary
+Labyrinth.<FAC1020<NOD<FAC1120
+I don't know who built it,
+but it must be for some kind
+of trash collection.<FAC1020<NOD<CLR<FAC1120
+There's only one way to
+escape.<FAC1020<NOD<FAC1120
+You would have to move a
+massive rock that is found
+inside a separate chamber.<FAC1020<NOD<CLR<FAC1120
+I'd go with you, but in my
+current state I'll be more of
+a burden than a help.<FAC1020<NOD<FL+0760<FL+0703<END
+#0400
+<KEY<FLJ0705:0001<FL+0705<SOU0022<CNP0400:0021:0000
+<MSG
+Opened the treasure chest.<NOD<GIT1019<IT+0019<EQ+0004<CLR
+<CMU0010Obtained the Arms Barrier.<WAI0160<NOD<RMU<END

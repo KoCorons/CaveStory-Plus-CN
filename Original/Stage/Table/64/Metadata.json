@@ -1,0 +1,12 @@
+{
+  "parts": "White",
+  "map": "Ring1",
+  "bkType": 7,
+  "back": "bkFog",
+  "back_water": "bkFog",
+  "npc": "Guest",
+  "boss": "Miza",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Throne Room"
+}

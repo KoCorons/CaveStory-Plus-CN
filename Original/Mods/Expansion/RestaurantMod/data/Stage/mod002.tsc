@@ -1,0 +1,33 @@
+#0094
+<KEY<FAI0004<CMU0002<MNA<END
+#0100
+<KEY<FAO0004<MYD0000<TRA0001:0095:0026:0008
+#0101
+<KEY<FAO0004<TRA0003:0094:0000:0015
+#0200
+<FLJ0101:0201
+<KEY
+<MYB0002<WAS<MS3<FAC0009
+Hey!<NOD
+You gotta check in,
+first!<NOD<CLO<END
+#0201
+<DNP0200<END
+#0202
+<FLJ0101:0203
+<KEY<MS3<FAC0009
+Hey there!<NOD
+Welcome to our awesome
+resturant!<NOD
+My name is Jack, the
+number two around here.<NOD
+How can I help you today?<NOD<CLR
+Wait, Quote?<NOD
+Oh! You can come
+inside free-of-charge!<NOD<CLR
+Proceed to your right,
+then!<NOD<CLO<FL+0101<END
+#0203
+<KEY<MS3<FAC0009
+Hope you enjoy your stay,
+quote!<NOD<CLO<END

@@ -1,0 +1,11 @@
+{
+  "parts": "Store",
+  "map": "Eggs",
+  "bkType": 1,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Eggs1",
+  "boss": "Ravil",
+  "boss_no": 0,
+  "lighting": "disabled"
+}

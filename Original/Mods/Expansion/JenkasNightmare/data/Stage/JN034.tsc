@@ -1,0 +1,96 @@
+
+#0090
+<MNA<MYD0002<CMU0000<FAI0000<END
+#0091
+<MNA<CMU0000<FAI0001<END
+#0092
+<MNA<CMU0000<FAI0002<END
+#0093
+<MNA<CMU0000<FAI0003<END
+#0094
+<MNA<CMU0000<FAI0004<END
+#0200
+<DNP0200<CMU0000<MM0<MYD0002<KEY<WAS
+<MSGI thought you were strong...<NOD
+I thought you might save me...<NOD<CLR
+But instead...<NOD<CNP0400:0144:0000<WAI0050<CLR
+You killed me.<WAI0075<NOD<CLO
+<CNP0400:0140:0000<BSL0400<CMU0004<END
+#0400
+<KEY<CMU0000<DNA0141<DNA0142<DNA0001<DNA0086<DNA0087<ANP0400:0100:0000<WAI0240
+<FAO0001<MNP0400:0021:0009:0000<MOV0013:0010<MYD0002<FON0400:0032<FAI0001
+<MSG<FAC0019No, this isn't what I'm 
+supposed to be doing.<NOD
+I don't belong here!<NOD<FAC0018
+The rage is gone, but
+I'm still dead...<NOD<CLRWhat did I die for?<NOD
+What did Arthur die for?<NOD
+What did King die for?<NOD<CLO<WAI0050
+<SNP0004:0024:0009:0000<SNP0004:0024:0009:0000
+<SNP0004:0024:0009:0002
+<CNP0401:0061:0000
+<FAC0020<MSG
+What did we die for?<NOD<CLO
+<ANP0401:0008:0000<WAI0020<ANP0401:0000:0000<MSGFor our people.<NOD
+For our home.<NOD
+For this island.<NOD<MNP0400:0021:0009:0002<CLRIt doesn't matter if it's
+a demon, or that cursed
+crown, or...<NOD them...<NOD<CLRWe lived and we died for
+what we cared about.<NOD<CLO
+<FAC0018<MSG
+King...<NOD<CLR<FAC0020It's too late to save
+us now, but he can still
+help everyone else.<NOD<CLR
+It's time to go, Toroko...<NOD<CLO
+<ANP0401:0008:0002<WAI0020<CNP0401:0004:0000<MNP0400:0021:0009:0000<WAI0040
+<FAC0018<MSG
+I feel...<NOD peaceful now.<NOD<CLR
+Thank you...<NOD<CLRIf you see Sue, tell
+her...<NOD Tell her I
+lived a happy life.<NOD<CLRKing...<NOD
+My brother...<NOD<CLR
+Her...<NOD<CLRThey were the best
+friends I'd ever had...<NOD
+Tell her that...<NOD<CLRAnd please, give her this
+to remember me by...<NOD<GIT1023<IT+0023<CLR<FAC0000
+Got the =Silver Locket=!<WAI0018<NOD<CLO<ANP0400:0140:0005<GIT0000
+<WAI0120<DNP0400<FON0405:0064<WAI0120<MSG
+She finally calmed herself down?<NOD<CLRMan, that sister of mine...<NOD
+In and out of trouble with King,
+just like she was with me.<NOD<CLRThank you, stranger.<NOD
+For saving my sister.<NOD
+For avenging my friend's death.<NOD<CLROur lives were always wrought
+with misery and hardship, but as
+a family together, we faced it.<NOD
+And after I had to leave, to
+fight that monster spawned from
+the red flowers...<NOD
+Well, I've seen King be as good
+a brother as he could, in my
+stead.<NOD I've no regrets.<NOD<CLR
+And now, they have none either...<NOD<CLO<WAI0100
+<MSGI suppose I have one final
+request of you, if you'd hear me
+out.<NOD This land, the island,
+has no more use of my memory.<NOD
+The legacy I once lead has been
+passed on to another...<NOD
+Another, who, ironically, is the
+last to truly bare my memory.<NOD<CLRI offer you my sword.<NOD
+King's sword.<NOD
+The sword our people have passed
+down through the ages to protect
+our home against evil.<NOD<CLRKing offered it to you with
+his blessing before...<NOD
+And now I, too, offer mine.<NOD
+Take our exalted blade, and
+with it, do no wrong!<NOD<CLO<FOM0016<WAI0010<FL-0175
+<MNP0405:0022:0009:0000<CNP0405:0061:0000<ANP0405:0040:0000
+<END
+#0405
+<KEY<SOU0022<DNP0405
+<GIT0009<AM+0009:0000<MSG<CMU0010
+Got the =Excalibur=!<WAI0160<NOD<GIT0000<CLO<FL-0360<FL-0372<FL+0401<FL+0444
+<WAI0040<FAO0004<WAI0020<SOU0029<WAI0060<MYD0000<FLJ0117:0406<TRA0029:0999:0201:0020
+#0406
+<TRA0009:0999:0057:0033

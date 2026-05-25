@@ -1,0 +1,12 @@
+{
+  "parts" : "Sand",
+  "map" : "Curly2",
+  "bkType" : 4,
+  "back" : "bk0",
+  "back_water": "bk0",
+  "npc" : "Sand",
+  "boss" : "Bllg",
+  "boss_no" : 0,
+  "lighting": "disabled",
+  "name" : "砂区收容所"
+}

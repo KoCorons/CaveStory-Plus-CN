@@ -1,0 +1,12 @@
+{
+  "parts": "Null",
+  "map": "JN115",
+  "bkType": 5,
+  "back": "bkNull",
+  "back_water": "bkNull",
+  "npc": "Null1",
+  "boss": "Null3",
+  "boss_no": 7,
+  "lighting": "disabled",
+  "name": "Nothing"
+}

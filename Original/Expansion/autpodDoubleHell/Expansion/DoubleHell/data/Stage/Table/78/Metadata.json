@@ -1,0 +1,12 @@
+{
+  "parts": "Fall",
+  "map": "e_Sky",
+  "bkType": 1,
+  "back": "BkFall",
+  "back_water": "BkFall",
+  "npc": "Guest",
+  "boss": "Heri",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Nothing"
+}

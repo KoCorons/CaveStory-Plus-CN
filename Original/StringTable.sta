@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<stringtable>
+    <info version="1.0" modified="Thu Apr 20 12:02:43 2017" modifiedby="Nicalis"/>
+    <languages>
+        <language id="21" index="0" name="Key"/>
+        <language id="0" index="1" name="English"/>
+        <language id="2" index="2" name="Japanese"/>
+    </languages>
+    <category name="Default">
+        <key name="Title_Prompt">
+            <string>Press        to begin</string>
+            <string> でスタート</string>
+        </key>
+        <key name="GameMode_Story">
+            <string>Story Mode</string>
+            <string>ストーリーモード</string>
+        </key>
+        <key name="GameMode_CurlyStory">
+            <string>Curly Story</string>
+            <string>カーリーストーリー</string>
+        </key>
+        <key name="GameMode_MachineGun">
+            <string>Machine Gun Challenge</string>
+            <string>マシンガンチャレンジ</string>
+        </key>
+        <key name="GameMode_Sanctuary">
+            <string>Sanctuary Time Attack</string>
+            <string>聖域タイムアタック</string>
+        </key>
+        <key name="GameMode_BossAttack">
+            <string>Boss Attack</string>
+            <string>ボスアタック</string>
+        </key>
+        <key name="GameMode_Kaze">
+            <string>Wind Fortress</string>
+            <string>風要塞</string>
+        </key>
+        <key name="GameMode_Nemesis">
+            <string>Nemesis Challenge</string>
+            <string>ネメシスチャレンジ</string>
+        </key>
+        <key name="GameMode_SandPit">
+            <string>Sand Pit</string>
+            <string>砂場</string>
+        </key>
+        <key name="MenuOption_Challenges">
+            <string>Challenges...</string>
+            <string>チャレンジ</string>
+        </key>
+        <key name="MenuOption_Options">
+            <string>Game Options</string>
+            <string>オプション</string>
+        </key>
+        <key name="MenuOption_Jukebox">
+            <string>Jukebox</string>
+            <string>ジュークボックス</string>
+        </key>
+        <key name="SaveSlot_New">
+            <string>New</string>
+            <string>NEW</string>
+        </key>
+        <key name="SaveSlot_Delete">
+            <string>Delete a Save</string>
+            <string>データを消去する</string>
+        </key>
+        <key name="SaveSlot_DeleteChoose">
+            <string>Choose the save you would like to delete</string>
+            <string>消去するデータを選択</string>
+        </key>
+        <key name="SaveSlot_DeleteConfirm">
+            <string>Are you sure you want to delete this save data?</string>
+            <string>これでいいですか？</string>
+        </key>
+        <key name="SaveDataCorrupt_Line1">
+            <string>The save file is corrupted.</string>
+            <string>セーブファイルが破損されています。</string>
+        </key>
+        <key name="SaveDataCorrupt_Line2">
+            <string>This file cannot be used.</string>
+            <string>このファイルは使用できません。</string>
+        </key>
+        <key name="SaveDataCorrupt_Continue">
+            <string>Continue without saving</string>
+            <string>セーブしないで続ける</string>
+        </key>
+        <key name="SaveDataCorrupt_Delete">
+            <string>Delete File</string>
+            <string>ファイルを削除</string>
+        </key>
+        <key name="SaveDataCorrupt_ContinueConfirm_Line1">
+            <string>You will not be able to save the game if you continue.</string>
+            <string>ゲームを続ける場合、ゲームをセーブできなくなります。</string>
+        </key>
+        <key name="SaveDataCorrupt_ContinueConfirm_Line2">
+            <string>Is this okay?</string>
+            <string>続けますか？</string>
+        </key>
+        <key name="Prompt_Yes">
+            <string>Yes</string>
+            <string>はい</string>
+        </key>
+        <key name="Prompt_No">
+            <string>No</string>
+            <string>いいえ</string>
+        </key>
+        <key name="Prompt_Cancel">
+            <string>Cancel</string>
+            <string>キャンセル</string>
+        </key>
+        <key name="GameOption_FlipInput">
+            <string>P1 Jump/Shoot:</string>
+            <string>P1ジャンプ/撃つ：</string>
+        </key>
+        <key name="GameOption_FlipInputP2">
+            <string>P2 Jump/Shoot:</string>
+            <string>P2ジャンプ/撃つ：</string>
+        </key>
+        <key name="GameOption_FlipNormal">
+            <string>Normal</string>
+            <string>ノーマル</string>
+        </key>
+        <key name="GameOption_FlipFlipped">
+            <string>Flipped</string>
+            <string>反転</string>
+        </key>
+        <key name="GameOption_On">
+            <string>On</string>
+            <string>オン</string>
+        </key>
+        <key name="GameOption_Off">
+            <string>Off</string>
+            <string>オフ</string>
+        </key>
+        <key name="GameOption_MusicVolume">
+            <string>Music Volume:</string>
+            <string>BGM音量：</string>
+        </key>
+        <key name="GameOption_SoundVolume">
+            <string>Sound Volume:</string>
+            <string>サウンド音量：</string>
+        </key>
+        <key name="GameOption_MusicType">
+            <string>Music:</string>
+            <string>音楽：</string>
+        </key>
+        <key name="GameOption_Language">
+            <string>Language:</string>
+            <string>言語：</string>
+        </key>
+        <key name="GameOption_GraphicStyle">
+            <string>Graphics:</string>
+            <string>グラフィック：</string>
+        </key>
+        <key name="GameOption_UnlockNotifications">
+            <string>Unlock Notifications:</string>
+            <string>解除通知：</string>
+        </key>
+        <key name="GameOption_SharedHealthBar">
+            <string>Shared Health Bar:</string>
+            <string>体力ゲージ共用：</string>
+        </key>
+        <key name="GameOption_2PlayerOptions">
+            <string>2 Player Options</string>
+            <string>プレーヤー２　オプション</string>
+        </key>
+        <key name="GameOption_New">
+            <string>Cave Story+</string>
+            <string>Cave Story+</string>
+	</key>
+        <key name="GameOption_Multiplayer">
+            <string>Number of players:</string>
+            <string>プレイ人数：</string>
+        </key>
+        <key name="GameOption_Original">
+            <string>Classic</string>
+            <string>クラシック</string>
+        </key>
+        <key name="GameOption_Difficulty">
+            <string>Difficulty Level:</string>
+            <string>難易度：</string>
+        </key>
+        <key name="GameOption_Speed">
+            <string>Speed:</string>
+            <string>スピード：</string>
+        </key>
+        <key name="MusicType_Original">
+            <string>Organya</string>
+            <string>オルガーニャ</string>
+        </key>
+        <key name="MusicType_Remastered">
+            <string>Remastered</string>
+            <string>リマスター</string>
+        </key>
+        <key name="MusicType_New">
+            <string>Cave Story+</string>
+            <string>Cave Story+</string>
+        </key>
+        <key name="MusicType_Famitracks">
+            <string>Famitracks</string>
+            <string>ファミトラック</string>
+        </key>
+        <key name="MusicType_Ridiculon">
+            <string>Ridiculon</string>
+            <string>Ridiculon</string>
+        </key>
+        <key name="Language_English">
+            <string>English</string>
+            <string>英語</string>
+        </key>
+        <key name="Language_Japanese">
+            <string>Japanese</string>
+            <string>日本語</string>
+        </key>
+        <key name="Multiplayer_Single">
+            <string>Single Player</string>
+            <string>１人プレイ</string>
+        </key>
+        <key name="Multiplayer_Double">
+            <string>Two Players</string>
+            <string>２人プレイ</string>
+        </key>
+        <key name="Difficulty_Easy">
+            <string>Easy</string>
+            <string>Easy</string>
+        </key>
+        <key name="Difficulty_Original">
+            <string>Original</string>
+            <string>Original</string>
+        </key>
+        <key name="Difficulty_Hard">
+            <string>Hard</string>
+            <string>Hard</string>
+        </key>
+        <key name="Difficulty_Easy_Description">
+            <string>Best choice for first-time players.</string>
+            <string>初めてプレイする方へのベストチョイス</string>
+        </key>
+        <key name="Difficulty_Original_Description">
+            <string>For players familiar with Cave Story.</string>
+            <string>洞窟物語を熟知している方向け</string>
+        </key>
+        <key name="Difficulty_Hard_Description">
+            <string>Not recommended for first-time players.</string>
+            <string>初めてプレイする方にはおすすめできません</string>
+        </key>
+        <key name="NewGame_Start">
+            <string>Start Game</string>
+            <string>Game Start</string>
+        </key>
+        <key name="NewGame_HardModeCancel">
+            <string>I'm too afraid!</string>
+            <string>足がすくんじゃう！</string>
+        </key>
+        <key name="PauseMenu_Header">
+            <string>Paused</string>
+            <string>停止</string>
+        </key>
+        <key name="PauseMenu_Resume">
+            <string>Resume Game</string>
+            <string>ゲーム再開</string>
+        </key>
+        <key name="PauseMenu_DropSecondPlayer">
+            <string>Drop Player 2</string>
+            <string>プレイヤー２をドロップアウト</string>
+        </key>
+        <key name="PauseMenu_AddSecondPlayer">
+            <string>Add Player 2</string>
+			<string>プレイヤー２を追加</string>
+        </key>
+        <key name="PauseMenu_Quit">
+            <string>Quit Game</string>
+            <string>ゲームを辞める</string>
+        </key>
+        <key name="PauseMenu_QuitConfirm">
+            <string>Quit to Main Menu? Really??</string>
+            <string>メインメニューに戻りますか？本当に？？</string>
+        </key>
+        <key name="PauseMenu_QuitWarning">
+            <string>Any unsaved progress will be lost!</string>
+            <string>セーブされてない状態は消えてしまいます！</string>
+        </key>
+        <key name="Challenge_GameStart">
+            <string>Game Start</string>
+            <string>ゲームスタート</string>
+        </key>
+        <key name="Challenge_ReplayLast">
+            <string>Replay Last</string>
+            <string>前回のプレイを再生</string>
+        </key>
+        <key name="Challenge_ReplayBest">
+            <string>Replay Best</string>
+            <string>ベストプレイを再生</string>
+        </key>
+        <key name="Challenge_BestTime">
+            <string>Best Time:</string>
+            <string>ベストタイム：</string>
+        </key>
+        <key name="Challenge_ViewRankings">
+            <string>View Rankings</string>
+            <string>ランキングを確認</string>
+        </key>
+        <key name="Replay_Paused">
+            <string>(Paused)</string>
+            <string>停止</string>
+        </key>
+        <key name="Replay_Action">
+            <string>Action Replay</string>
+            <string>アクション再生</string>
+        </key>
+        <key name="Replay_Recording">
+            <string>Recording Replay</string>
+            <string>録画再生</string>
+        </key>
+        <key name="MenuOption_SeasonalArt">
+            <string>Seasonal Art:</string>
+            <string>季節ものアート</string>
+        </key>
+        <key name="Prompt_ControllerDisconnect1">
+            <string>Controller Disconnected!</string>
+            <string>コントローラーの接続が切れました！</string>
+        </key>
+        <key name="Prompt_ControllerDisconnect2">
+            <string>Please reconnect controller and</string>
+            <string>コントローラーを再度接続し、</string>
+        </key>
+        <key name="Prompt_ControllerDisconnect3">
+            <string>press any button to continue</string>
+            <string>ボタンを押して進めてください</string>
+        </key>
+        <key name="Prompt_SkipCredits">
+            <string>Hold any button to skip</string>
+            <string>好きなボタンを押してスキップ</string>
+        </key>
+        <key name="Prompt_ExitCredits">
+            <string>Hold any button to exit</string>
+            <string>好きなボタンを押して終了</string>
+        </key>
+        <key name="Prompt_SkipCutscene1">
+            <string>HOLD</string>
+            <string> </string>
+        </key>
+        <key name="Prompt_SkipCutscene2">
+            <string>TO SKIP CUTSCENE</string>
+            <string>を押し続け、カットシーンをスキップ</string>
+        </key>
+        <key name="Leaderboard_Top">
+            <string>Top</string>
+            <string>トップ</string>
+        </key>
+        <key name="Leaderboard_Friends">
+            <string>Friends</string>
+            <string>フレンド</string>
+        </key>
+        <key name="Leaderboard_Mine">
+            <string>Mine</string>
+            <string>自分</string>
+        </key>
+        <key name="Leaderboard_Connecting">
+            <string>Connecting...</string>
+            <string>通信中･･･</string>
+        </key>
+        <key name="Leaderboard_Checking">
+            <string>Checking score...</string>
+            <string>スコア確認中･･･</string>
+        </key>
+        <key name="Leaderboard_Downloading">
+            <string>Downloading scores...</string>
+            <string>スコアをダウンロード中・・・</string>
+        </key>
+        <key name="Leaderboard_Attaching">
+            <string>Attaching replay....</string>
+            <string>リプレイを添付しております・・・</string>
+        </key>
+        <key name="Leaderboard_UploadingReplay">
+            <string>Uploading replay data...</string>
+            <string>リプレイデータをアップロードしております・・・</string>
+        </key>
+        <key name="Leaderboard_ScoreUploadFailed">
+            <string>Failed to upload your score...</string>
+            <string>スコアのアップロードが失敗しました・・・</string>
+        </key>
+        <key name="Leaderboard_ReplayUploadFailed">
+            <string>Failed to upload replay!</string>
+            <string>リプレイのアップロード失敗！</string>
+        </key>
+        <key name="Leaderboard_UploadingScore">
+            <string>Uploading score...</string>
+            <string>スコアをアップロードしております・・・</string>
+        </key>
+        <key name="Leaderboard_ConnectError">
+            <string>Failed to connect.</string>
+            <string>通信に失敗しました。</string>
+        </key>
+        <key name="Leaderboard_UploadError">
+            <string>Upload interrupted; score is unverified.</string>
+            <string>アップロードが中断されました。スコアは検証されませんでした。</string>
+        </key>
+        <key name="Leaderaboard_DownloadLeaderboardError">
+            <string>Failed to download leaderboard.\n(Internet connection problem?)</string>
+            <string>リーダーボードのダウンロード失敗。\n（インターネット通信に問題あり？）</string>
+        </key>
+        <key name="Leaderboard_CheckingError">
+            <string>Error checking score</string>
+            <string>スコア確認エラー</string>
+        </key>
+        <key name="Leaderboard_LocateReplayError">
+            <string>Could not locate replay file for upload!</string>
+            <string>アップロードする再生ファイルが見つかりません！</string>
+        </key>
+        <key name="Leaderboard_ReplayProcesssingError">
+            <string>Error processing replay data!</string>
+            <string>リプレイデータが処理できませんでした！</string>
+        </key>
+        <key name="Leaderboard_DownloadReplayError">
+            <string>Error downloading replay...</string>
+            <string>リプレイのダウンロード失敗・・・</string>
+        </key>
+        <key name="Leaderboard_ReplayCreateError">
+            <string>Failed to create local replay file!</string>
+            <string>ローカルリプレイファイルの作成失敗！</string>
+        </key>
+        <key name="Leaderboard_ReplayWriteError">
+            <string>Error saving replay file!</string>
+            <string>リプレイファイルのセーブ失敗！</string>
+        </key>
+        <key name="Leaderboard_OpenReplayError">
+            <string>Failed to open replay file...</string>
+            <string>リプレイファイルを開けることができませんでした・・・</string>
+        </key>
+        <key name="Leaderboard_Error:">
+            <string>Error:</string>
+            <string>エラー:</string>
+        </key>
+        <key name="Leaderboard_CancelWarning">
+            <string>Canceling will cause your score to be lost...</string>
+            <string>今キャンセルするとあなたのスコアが無くなってしまいます･･･</string>
+        </key>
+        <key name="Leaderboard_Retry">
+            <string>Retry</string>
+            <string>リトライ</string>
+        </key>
+        <key name="Leaderboard_NoScores">
+            <string>No one has a score!</string>
+            <string>誰もスコアを取得していません！</string>
+        </key>
+        <key name="Leaderboard_NoMineScore">
+            <string>You dont have a score!</string>
+            <string>スコアを所持していません！</string>
+        </key>
+        <key name="Leaderboard_NoFriendScore">
+            <string>Neither you or your friends have any scores!</string>
+            <string>キミもトモダチもスコアを所持してないよ！</string>
+        </key>
+        <key name="Exit_Replay">
+            <string>Halt replay and quit to Main Menu?</string>
+            <string>リプレイを停止し、</string>
+        </key>
+        <key name="Exit_Replay2">
+            <string>  </string>
+            <string>メインメニューに戻りますか？</string>
+        </key>
+        <key name="Unlock_Costume_Curly">
+            <string>Unlocked Curly Costume for 2P!</string>
+            <string>２Pのカーリーコスチュームが解除されました！</string>
+        </key>
+        <key name="Unlock_Costume_King">
+            <string>Unlocked King Costume for 2P!</string>
+            <string>２Pのキングコスチュームが解除されました！</string>
+        </key>
+        <key name="Unlock_Costume_Sue">
+            <string>Unlocked Sue Costume for 2P!</string>
+            <string>２Pのスーコスチュームが解除されました！</string>
+        </key>
+        <key name="Unlock_Costume_Booster">
+            <string>Unlocked Booster Costume for 2P!</string>
+            <string>２Pのブースターコスチュームが解除されました！</string>
+        </key>
+        <key name="Unlock_Costume_Toroko">
+            <string>Unlocked Toroko Costume for 2P!</string>
+            <string>２Pのトロ子コスチュームが解除されました！</string>
+        </key>
+        <key name="Unlock_Costume_Killer_Robot">
+            <string>Unlocked Killer Robot Costume for 2P!</string>
+            <string>２Pのキラーロボットコスチュームが解除されました！</string>
+        </key>
+        <key name="Unlock_Costume_Curly_Clone">
+            <string>Unlocked Curly Clone Costume for 2P!</string>
+            <string>２Pのカーリークローンコスチュームが解除されました！</string>
+        </key>
+    </category>
+</stringtable>

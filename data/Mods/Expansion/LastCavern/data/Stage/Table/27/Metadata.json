@@ -1,0 +1,12 @@
+{
+  "parts": "Store",
+  "map": "WeedD",
+  "bkType": 1,
+  "back": "BkBlue",
+  "back_water": "BkBlue",
+  "npc": "0",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Execution Chamber"
+}

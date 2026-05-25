@@ -1,0 +1,12 @@
+{
+  "parts": "Jail",
+  "map": "Priso1",
+  "bkType": 4,
+  "back": "bkGray",
+  "back_water": "bkGray",
+  "npc": "Red",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "normal",
+  "name": "Last Cave"
+}

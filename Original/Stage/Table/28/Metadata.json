@@ -1,0 +1,12 @@
+{
+  "parts": "Weed",
+  "map": "Frog",
+  "bkType": 2,
+  "back": "bkGreen",
+  "back_water": "bkGreen",
+  "npc": "Weed",
+  "boss": "Frog",
+  "boss_no": 2,
+  "lighting": "normal",
+  "name": "Gum"
+}

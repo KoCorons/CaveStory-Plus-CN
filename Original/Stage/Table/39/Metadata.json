@@ -1,0 +1,12 @@
+{
+  "parts": "Maze",
+  "map": "MazeW",
+  "bkType": 1,
+  "back": "bkMaze",
+  "back_water": "bkMaze",
+  "npc": "Maze",
+  "boss": "X",
+  "boss_no": 3,
+  "lighting": "normal",
+  "name": "Labyrinth W"
+}

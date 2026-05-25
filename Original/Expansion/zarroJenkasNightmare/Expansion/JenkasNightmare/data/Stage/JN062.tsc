@@ -1,0 +1,381 @@
+
+#0090
+<MNA<FLJ0163:0095<CMU0000<FAI0000<EVE0250
+#0091
+<MNA<FLJ0163:0096<CMU0000<FAI0001<EVE0250
+#0092
+<MNA<FLJ0163:0097<CMU0000<FAI0002<EVE0250
+#0093
+<MNA<FLJ0163:0098<CMU0000<FAI0003<EVE0250
+#0094
+<MNA<FLJ0163:0099<CMU0000<FAI0004<EVE0250
+#0095
+<CMU0008<FAI0000<END
+#0096
+<CMU0008<FAI0001<END
+#0097
+<CMU0008<FAI0002<END
+#0098
+<CMU0008<FAI0003<END
+#0099
+<CMU0008<FAI0004<END
+#0100
+<FLJ0340:0102<FLJ0163:0101<PRI<MSG
+It won't open!<NOD<END
+#0101
+<KEY<SOU0011<MNP0100:0000:0000:0000
+<WAI0010<HMC<WAI0050<MYD0002<SMC<WAI0010
+<SOU0011<MNP0100:0005:0009:0000<END
+#0102
+<PRI<SOU0011<DNP0100<FAO0002<TRA0007:0094:0053:0035
+#0200
+<FLJ0333:0350<AMJ0013:0209<FLJ0163:0201
+<PRI<MSG
+Ugh...<NOD<END
+#0201
+<FLJ0343:0222
+<KEY<MYB0002<MSG
+...<NOD<CLO<WAI0010<CNP0200:0226:0000<WAI0010
+<FLJ0347:0202<ITJ0012:0202<ITJ0039:0203<EVE0202
+#0202
+<MSG
+Phew...<NOD<CLRThat was quite the display!<NOD
+I knew I was right to entrust my
+first =Spur= with you.<NOD
+If only I were a little younger...<NOD
+And, well, armed...<NOD<CLROh, no, don't worry about me.<NOD
+He only threw me around a
+little bit.<NOD Between you and
+me I think he smashed up the
+ceiling just to intimidate you.<NOD<CLRWhat I'm really worried about
+is my tools, and...<GIT0002<NOD<CLR
+Oh, you brought it!<NOD<GIT0000<CLRGood, good.<NOD Lemme just
+regain my composure, and I'll
+fix it up in a moment.<NOD<CLO<FAO0001<WAI0150<FAI0001
+<FLA<WAI0050<TAM0002:0013:0000<MSG<CMU0010<GIT0013
+=Polar Star= became the =Spur=!<SMC<DNP0210<WAI0160<NOD<CMU0008<FL+0340<END
+#0203
+<MSG
+Uhff...<NOD My back...<NOD<CLR
+...You!?<NOD<CLRI saw you in that fight!<NOD
+You're the one who stole my
+=Polar Star=!<NOD<GIT0002 Give that back!<NOD<GIT0000<CLRI toiled weeks on end to put
+together this prototype after
+the last one was stolen!<NOD
+And let me guess, you stole
+that one too, didn't you?<NOD<CLR
+......<NOD<CLRYou know...<NOD
+I've long believed that one's
+weapons should be crafted by
+oneself.<NOD
+That one who fights with another's
+weapons and considers that force
+his own is witless.<NOD
+That one who blames his tools for
+that which his own power cannot
+achieve is a fool...<NOD<CLR
+<CMU0008But...<WAI0050<CLRWhen I see this gun before me that
+you have used so exhaustively,
+it moves this man to tears.<NOD
+To think such thorough use were
+possible even before the gun's
+completion...<NOD
+And to think my life would be
+saved by it as well...<NOD<CLR
+Hahhh...<NOD<CLR
+I apologize for my grumbling.<NOD<CLRYou can keep this gun.<NOD<CMU0000<FAO0001
+After I finish it, of course...<NOD<CLO<ITJ0005:0206<WAI0150<FAI0001
+<FLA<WAI0050<TAM0002:0013:0000<MSG<CMU0010<GIT0013
+=Polar Star= became the =Spur=!<SMC<DNP0210<WAI0160<NOD<CMU0008<FL+0340<END
+#0204
+<KEY<MSGI should be more upset about
+my house, but I'm not.<NOD
+After seeing all around the
+island when I was looking for
+just that one part...<NOD<CLRWell, I can safely say I'm
+glad to be entrusting my life's
+work with you.<NOD Keep them
+safe, you hear?<NOD<END
+#0205
+<KEY<MSGIn this world, there exists a
+balance between those who are
+creators and those who are users.<NOD<CLRI knew that, of course, but
+it took your help for me to
+experience this firsthand.<NOD
+From now on, I vow to dedicate
+myself to the side of creation.<NOD
+The labor involved becomes joy
+when I know there are those who
+will enjoy my work to the utmost.<NOD<END
+#0206
+<WAI0020<MSG<GIT1005
+Hey, hold on a second...!<NOD<FAI0003<CLRThat capsule you have there
+bares the mark of Polaris, too...<NOD
+Is this what became of my other
+gun!?<NOD<CLR<GIT0000
+Give me that!<NOD<CLR
+.....<NOD<CLR
+..........<NOD<CLR<SOU0022<GIT0000<IT-0005
+!?<NOD<CLR
+This is...<NOD<CLRYes, of course!<NOD With this
+I could...<NOD And then...!<NOD<CLRMy boy, you wouldn't believe what
+was in that capsule.<NOD I haven't
+felt this excited since my very
+first weapon...<NOD<CLR
+Now then!<NOD<CMU0000<FAO0001 Where was I?<NOD<CLO<WAI0150<FAI0001
+<FLA<WAI0050<TAM0002:0013:0000<MSG<GIT0013<CMU0010
+=Polar Star= became the =Spur=!<SMC<DNP0210<WAI0160<NOD<CMU0008<FL+0340<GIT0000<CLRAnd this was in that capsule
+of yours...<NOD<GIT1018<IT+0018<EQ+0008<CLR
+<CMU0010Got the =Ursa Minor=!<WAI0180<NOD<RMU<GIT0000<CLRI made a slight alteration to my
+dream weapon...<NOD Using that
+=Ursa Minor=, I've modified it
+so it can charge twice as fast.<NOD
+It is truly the most powerful
+weapon I could ever imagine...<NOD<CLR
+And I'm the man who made it.<NOD<END
+#0209
+<ITJ0012:0210<FLJ0347:0204<ITJ0039:0205<EVE0204
+#0210
+<KEY<MSG<GIT1012What a peculiar capsule...<NOD
+There's something about it but
+I can't put my finger on it.<NOD<CLR
+Could I have a look?<YNJ0211<CLR
+.....<NOD<CLR
+..........<NOD<CLR<SOU0022<GIT0000<IT-0012
+There we go!<NOD
+Hey, can you use this?<NOD<CLR<FL+0347<GIT1032<IT+0032
+<CMU0010Got the =Munitions Clip=!<WAI0160<NOD<RMU<END
+#0211
+<MSG
+Really? Hmm...<NOD<END
+#0212
+<AMJ0013:0209<FL+0340<MSG
+Phew...<NOD<CLRThat was quite the display!<NOD
+You're certainly one of the most
+well-built models I've ever seen.<NOD<CLROh, no, don't worry about me.<NOD
+He only threw me around a
+little bit.<NOD Between you and
+me I think he smashed up the
+ceiling just to intimidate you.<NOD<AMJ0002:0214<MSGWhat I'm really worried about
+is my tools, and an errand I
+had given someone.<NOD
+With any luck he'll be back
+soon...<NOD<CLRIt's too bad I don't have the
+materials to make more than
+one =Spur=...<NOD I'd really like to
+reward you for helping me out.<NOD<CMU0008<END
+#0213
+<ITJ0012:0212<FLJ0340:0219<FL+0340<MSG
+Uhff...<NOD My back...<NOD<CLO<AMJ0002:0215<EVE0218
+#0214
+<MSGWhat I'm really worried about
+is my tools, and...<GIT0002<NOD<CLR
+Oh?<NOD I was expecting somebody
+else to bring it, but...<NOD<GIT0000<CLRGood, good.<NOD Let me just
+regain my composure, and I'll
+fix you something special...<NOD<CLO<FAO0001<WAI0150<FAI0001
+<FLA<WAI0050<TAM0002:0013:0000<MSG<CMU0010<GIT0013
+=Polar Star= became the =Spur=!<SMC<DNP0210<WAI0160<NOD<CMU0008<END
+#0215
+<MSGI saw you in that fight!<NOD
+You're the one who stole my
+=Polar Star=!<NOD<GIT0002 Give that back!<NOD<GIT0000<CLRI toiled weeks on end to put
+together this prototype after
+the last one was stolen!<NOD
+And let me guess, you stole
+that one too, didn't you?<NOD<CLR
+......<NOD<CLRYou know...<NOD
+I've long believed that one's
+weapons should be crafted by
+oneself.<NOD
+That one who fights with another's
+weapons and considers that force
+his own is witless.<NOD
+That one who blames his tools for
+that which his own power cannot
+achieve is a fool...<NOD<CLR
+<CMU0008But...<WAI0050<CLRWhen I see this gun before me that
+you have used so exhaustively,
+it moves this man to tears.<NOD
+To think such thorough use were
+possible even before the gun's
+completion...<NOD
+And to think my life would be
+saved by it as well...<NOD<CLR
+Hahhh...<NOD<CLR
+I apologize for my grumbling.<NOD<CLRYou can keep this gun.<NOD<CMU0000<FAO0001
+After I finish it, of course...<NOD<CLO<ITJ0005:0216<WAI0150<FAI0001
+<FLA<WAI0050<TAM0002:0013:0000<MSG<CMU0010<GIT0013
+=Polar Star= became the =Spur=!<SMC<DNP0210<WAI0160<NOD<CMU0008<END
+#0216
+<WAI0020<MSG<GIT1005
+Hey, hold on a second...!<NOD<FAI0003<CLRThat capsule you have there
+bares the mark of Polaris, too...<NOD
+Is this what became of my other
+gun!?<NOD<CLR<GIT0000
+Give me that!<NOD<CLR
+.....<NOD<CLR
+..........<NOD<CLR<SOU0022<GIT0000<IT-0005
+!?<NOD<CLR
+This is...<NOD<CLRYes, of course!<NOD With this
+I could...<NOD And then...!<NOD<CLRMy girl, you wouldn't believe what
+was in that capsule.<NOD I haven't
+felt this excited since my very
+first weapon...<NOD<CLR
+Now then!<NOD<CMU0000<FAO0001 Where was I?<NOD<CLO<WAI0150<FAI0001
+<FLA<WAI0050<TAM0002:0013:0000<MSG<GIT0013<CMU0010
+=Polar Star= became the =Spur=!<SMC<DNP0210<WAI0160<NOD<CMU0008<GIT0000<CLRAnd this was in that capsule
+of yours...<NOD<GIT1018<IT+0018<EQ+0008<CLR
+<CMU0010Got the =Ursa Minor=!<WAI0180<NOD<RMU<GIT0000<CLRI made a slight alteration to my
+dream weapon...<NOD Using that
+=Ursa Minor=, I've modified it
+so it can charge twice as fast.<NOD
+It is truly the most powerful
+weapon I could ever imagine...<NOD<CLR
+And I'm the man who made it.<NOD<END
+#0217
+<KEY<MSGPlease, pay an old hermit like me
+no mind.<NOD I'm really rather busy,
+right now...<NOD<CLO<AMJ0002:0220<ITJ0012:0352<END
+#0218
+<KEY<MSGThat was quite the display...<NOD
+You're certainly one of the most
+well-built models I've ever seen.<NOD<CLROh, but don't pay a hermit like
+me any mind.<NOD I'm just an old man
+lamenting his broken dreams...<NOD<AMJ0002:0221<CMU0008<END
+#0219
+<KEY<MSGPlease, pay an old hermit like me
+no mind.<NOD I'm really rather busy,
+right now...<NOD<CLO<AMJ0002:0221<END
+#0220
+<MSG<GIT0002Oh?<NOD I was expecting somebody
+else to bring it, but...<NOD<GIT0000<CLR<CMU0000This is excellent news!<NOD Let me
+prepare my tools, and I'll
+reward you properly...<NOD<CLO<FAO0001<WAI0150<FAI0001
+<FLA<WAI0050<TAM0002:0013:0000<MSG<CMU0010<GIT0013
+=Polar Star= became the =Spur=!<SMC<DNP0210<WAI0160<NOD<CMU0008<END
+#0221
+<MSG<GIT0002<CMU0000
+...!?<NOD Give that back!<NOD<GIT0000<CLRI toiled weeks on end to put
+together this prototype after
+the last one was stolen!<NOD<CLR
+......<NOD<CLRYou know...<NOD
+I've long believed that one's
+weapons should be crafted by
+oneself.<NOD
+That one who fights with another's
+weapons and considers that force
+his own is witless.<NOD
+That one who blames his tools for
+that which his own power cannot
+achieve is a fool...<NOD<CLR
+<CMU0008But...<WAI0050<CLRWhen I see this gun before me that
+has been used so exhaustively,
+it moves this man to tears.<NOD
+To think such thorough use were
+possible even before the gun's
+completion...<NOD<CLR
+Hahhh...<NOD<CLRI apologize for my grumbling.<NOD<CLR
+You can keep this gun.<NOD<CMU0000<FAO0001
+After I finish it, of course...<NOD<CLO<ITJ0005:0216<WAI0150<FAI0001
+<FLA<WAI0050<TAM0002:0013:0000<MSG<CMU0010<GIT0013
+=Polar Star= became the =Spur=!<SMC<DNP0210<WAI0160<NOD<CMU0008<END
+#0222
+<FLJ0340:0223
+<KEY<MYB0002<MSG
+...<NOD<CLO<WAI0010<CNP0200:0226:0000<WAI0010
+<FLJ0319:0212<ITJ0039:0213<EVE0212
+#0223
+<FLJ0319:0217<ITJ0039:0218<EVE0217
+#0250
+<KEY<MSG<FAC0030Khss khss khss...<NOD
+That'll teach you to talk
+back to ME, old man.<NOD<ANP0300:0030:0002
+<FAC0029You should know your
+place!<NOD<CLR<FAC0030I know for a fact it
+was YOU who gave that red
+hat those weapons!<NOD You
+can't fool me, old man!<NOD<CLO<FAC0000<FLJ0319:0252<ITJ0039:0252<EVE0251
+#0251
+<KEY<MSGYou won't get away with this...<NOD
+Ugh...<NOD<CLR<FAC0030Khss khss khss!<NOD That's a
+riot!<NOD Someone like me CAN
+get away with this!<NOD<CLO<FLJ0343:0254<EVE0253
+#0252
+<FLJ0347:0251<ITJ0012:0251<KEY<MSGI-I don't know what you're
+talking about...<NOD
+Ugh...<NOD<CLR<FAC0029
+KHSSS!<NOD<CLR<FAC0030You should really know
+better than that, old man!<NOD
+I'm not STUPID you know!<NOD<CLO<FLJ0343:0254<EVE0253
+#0253
+<KEY<MSG<FAC0029<MYB0002<ANP0300:0030:0000
+AND AS FOR YOU!!<NOD<CLRYou've pissed me off
+LONG ENOUGH!<NOD This time
+I'M ENDING YOU!<NOD<CLR<SOU0072<ANP0300:0030:0000
+KHSSSSS!!<NOD<CLO
+<CNP0300:0169:0000<BSL0300<CMU0007<END
+#0254
+<KEY<MSG<FAC0029<MYB0002<ANP0300:0030:0000
+AND AS FOR YOU--<NOD<CLO<CMU0000<FLJ7969:0255
+<MSG<FAC0030Oh?<NOD I was expecting
+someone else, right now.<NOD
+A red-hatted robot.<NOD
+You wouldn't happen to--<WAI0005<CLR<FAC0031I don't know who you are,
+but you have two choices.<NOD<FAC0003
+Leave,<NOD or I do to you
+what you did to him.<NOD<CLO<FAC0000<WAI0100
+<MSG<FAC0030
+Ha...<NOD Haha...<NOD<CLR<FAC0029<ANP0300:0030:0000HAHAHAHAHAHA!<NOD
+DO YOU HAVE ANY IDEA WHO
+YOU'RE SPEAKING TO!?<NOD<CLR
+<FAC0005Should I?<NOD<CLR<FAC0029<SOU0072<ANP0300:0030:0000
+KHSSSSS!!<NOD<CLO
+<CNP0300:0169:0000<BSL0300<CMU0007<END
+#0255
+<MSG<FAC0030Oh?<NOD I was expecting
+someone else, right now.<NOD
+A red-hatted robot.<NOD
+You wouldn't happen to--<WAI0005<CLR<FAC0045I don't know who you are,
+but you have two choices.<NOD<FAC0042
+Leave,<NOD or I do to you
+what you did to him.<NOD<CLO<FAC0000<WAI0100
+<MSG<FAC0030
+Ha...<NOD Haha...<NOD<CLR<FAC0029<ANP0300:0030:0000HAHAHAHAHAHA!<NOD
+DO YOU HAVE ANY IDEA WHO
+YOU'RE SPEAKING TO!?<NOD<CLR
+<FAC0044Should I?<NOD<CLR<FAC0029<SOU0072<ANP0300:0030:0000
+KHSSSSS!!<NOD<CLO
+<CNP0300:0169:0000<BSL0300<CMU0007<END
+#0300
+<KEY<FLJ0161:0301<FL+0161<DNA0170<SMC
+<CNP0300:0012:0000<ANP0300:0020:0004<WAI0060
+<PRI<MSG<FAC0029<MYB0300
+I'LL END YOU!!<NOD<CLO
+<CNP0300:0036:0000<BSL0300<END
+#0301
+<KEY<FLJ0162:0303<DNA0033<DNA0011<DNA0001<DNA0086<DNA0087
+<CNP0300:0012:0000<ANP0300:0020:0004<WAI0240
+<CMU0015<MSG
+Fought off Suto!<WAI0040<FLJ0343:0302<WAI0100<NOD<CLO<CMU0000<FL+0163<END
+#0302
+<FL+0162<CLO<RMU<CNP0300:0000:0000<MNP0300:0005:0000:0000
+<CNP0300:0160:0002<MSG<FAC0029<MYB0000<MYB0000<MYB0000
+JUST DIE!!<NOD<CLO<BSL0300<END
+#0303
+<KEY<CMU0000<DNA0161<DNA0001<DNA0086<DNA0087
+<CNP0300:0162:0005<WAI0550<MSG
+Fought off Suto.<WAI0040.<WAI0040.<WAI0040?<NOD<CLR
+...For good this time.<NOD<CLO<FL+0163<END
+#0350
+<FLJ0405:0351<FL+0405<KEY<MSG
+Oh!<NOD Good afternoon, young lady.<NOD<CLRPlease, pay an old hermit like me
+no mind.<NOD I'm busy with a rather
+large project right now, you see.<NOD<CLO<ITJ0012:0352<END
+#0351
+<KEY<MSGPlease, pay an old hermit like me
+no mind.<NOD I'm busy with a rather
+large project right now, you see.<NOD<CLO<ITJ0012:0352<END
+#0352
+<KEY<MSG<GIT1012
+Oh...?<NOD<CLO<EVE0210

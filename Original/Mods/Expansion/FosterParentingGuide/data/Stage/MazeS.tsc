@@ -1,0 +1,49 @@
+#0090
+
+<KEY<MNA<CMU0020
+<ANP0200:0020:0000
+<WAI0000
+<CNP0000:0000:0000
+<INP0200:0330:0000
+<CNP0091:0000:0000
+<ANP0401:0009:0002
+<FAI0000<MYD0002<SMC<WAI0020
+<CNP0091:0018:0000<SOU0011
+<MNP0200:0002:0021:0001
+<WAI0050
+<MS3Hey rectangle guy!
+What's the deal with all the
+kidnapping you're doing?<CMP0002:0019:0072<NOD<CLR
+<MS3<FAC0005Hey dude get off my back
+you misunderstand.<NOD
+<FAC0014I run a YouTube Prank
+Channel. It's just a prank.<NOD<CLR<FAC0000
+<MS3....<NOD
+I think we have to kill this guy
+Quote.<NOD<CLO<WAI0030<SOU0027
+<CNP0000:0321:0000
+<WAI0040
+<MS3<FAC0005...what.<NOD<CLO
+<CNP0400:0068:0000<BSL0400<CMU0004
+<END
+#0091
+<PRI<MS3Not a good time!<NOD<END
+#0200
+<PRI<MSGIt's me, Roland the Rolling!<NOD<END
+#0201
+<PRI<MSGHow are you interacting with me?<NOD<END
+#0202
+<PRI<MSGHow are you interacting with me?<NOD<END
+#0203
+<PRI<MSGHow are you interacting with me?<NOD<END
+#0204
+<PRI<MSGHow are you interacting with me?<NOD<END
+#0400
+<KEY<CNP0400:0012:0004<ANP0400:0040:0004
+<WAI0080<ANP0400:0020:0004<WAI0050
+<FAC0000<MS3<CMU0015
+        = Battery Charges! =<NOD<CMU0000<CLO
+<WAI0020
+<MS3With that out of the way,
+let's ROLL outta here!<NOD<CLO<FAO0000<TRA0048:0090:0030:0006
+#0401

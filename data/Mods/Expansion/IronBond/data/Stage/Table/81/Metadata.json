@@ -1,0 +1,10 @@
+{
+  "parts" : "Hell",
+  "map" : "Hell2",
+  "bkType" : 2,
+  "back" : "bkRed",
+  "npc" : "Hell",
+  "boss" : "Miza3",
+  "boss_no" : 0,
+  "name" : "圣域参道"
+}

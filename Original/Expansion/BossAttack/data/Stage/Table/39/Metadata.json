@@ -1,0 +1,11 @@
+{
+  "parts": "Store",
+  "map": "MazeW",
+  "bkType": 1,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Maze",
+  "boss": "X",
+  "boss_no": 3,
+  "lighting": "disabled"
+}

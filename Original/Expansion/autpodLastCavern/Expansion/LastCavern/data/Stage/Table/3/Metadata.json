@@ -1,0 +1,12 @@
+{
+  "parts": "EggX",
+  "map": "EggX",
+  "bkType": 4,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Eggs1",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Egg No. 00"
+}

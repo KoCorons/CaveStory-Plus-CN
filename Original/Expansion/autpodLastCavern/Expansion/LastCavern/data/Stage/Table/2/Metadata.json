@@ -1,0 +1,12 @@
+{
+  "parts": "Eggs",
+  "map": "Eggs",
+  "bkType": 1,
+  "back": "BkGreen",
+  "back_water": "BkGreen",
+  "npc": "Eggs1",
+  "boss": "Ravil",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Egg Corridor"
+}

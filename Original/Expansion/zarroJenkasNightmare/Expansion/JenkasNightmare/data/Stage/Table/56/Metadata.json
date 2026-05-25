@@ -1,0 +1,12 @@
+{
+  "parts": "River",
+  "map": "JN056",
+  "bkType": 2,
+  "back": "bkBlue",
+  "back_water": "bkBlue",
+  "npc": "0",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Teleporter Room"
+}

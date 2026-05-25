@@ -1,0 +1,105 @@
+
+#0085
+<CMU0028<FAI0000<END
+#0086
+<CMU0028<FAI0001<END
+#0087
+<CMU0028<FAI0002<END
+#0088
+<CMU0028<FAI0003<END
+#0089
+<CMU0028<FAI0004<END
+#0090
+<MNA<FLJ0343:0085<CMU0002<FAI0000<END
+#0091
+<MNA<FLJ0343:0086<CMU0002<FAI0001<END
+#0092
+<MNA<FLJ0343:0087<CMU0002<FAI0002<END
+#0093
+<MNA<FLJ0343:0088<CMU0002<FAI0003<END
+#0094
+<MNA<FLJ0343:0089<CMU0002<FAI0004<END
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0022:0094:0025:0054
+#0200
+<FLJ0343:0208<FLJ0225:0206<FLJ0117:0204<FLJ0045:0202
+<FLJ0051:0201<FL+0051
+<KEY<MSGHello handsome<NOD
+I haven't seen you around in a
+while!<NOD What brings you here?<NOD<END
+#0201
+<KEY<MSGSay, I haven't been able to
+find my favorite lipstick since
+the last time you were here...<NOD<END
+#0202
+<FLJ0052:0203<FL+0052
+<KEY<MSGI keep hearing this weird
+hissing sound at night.<NOD Sorta
+like laughter, too...<NOD<CLRIt scares the bajesus out of me!<NOD
+I haven't been able to get a good
+night's sleep in days!<NOD<CLRDo you mind doing something
+about that, handsome...?<NOD<END
+#0203
+<KEY<MSGI just can't get over how
+roomy this house is.<NOD And I
+have it all to myself!<NOD<END
+#0204
+<FLJ0133:0205<FL+0133
+<KEY<MSGOh, hello again.<NOD
+That hissing stopped since you
+went out the other day!<NOD
+Did you beat up the cause of it
+just for little old me?<NOD<END
+#0205
+<KEY<MSGI wonder where all the jellies
+have gone?<NOD There used to be plenty
+of them flying around, but it
+looks like they all went away.<NOD<END
+#0206
+<FLJ0246:0207<FL+0246
+<KEY<MSGHey handsome, what's happening
+with you?<NOD<CLRLeaving the island?<NOD
+Oh, and I'm not invited?<NOD<CLRHaha, just kidding, hun'.<NOD
+Wouldn't want to keep you from
+where you want to be.<NOD<END
+#0207
+<KEY<MSGHave a nice trip, hun'.<NOD
+Maybe you can keep that old
+lipstick of mine to remember me
+by...?<NOD<CLRHaha, kiddin' you again!<NOD
+Or am I...?<NOD<END
+#0208
+<FLJ0271:0209<FL+0271
+<FLJ7969:0218<KEY<MSG
+You love him, don't you?<NOD<CLR<FAC0003
+Uhhh...?<NOD<CLR<FAC0000It's alright.<NOD This old girl won't
+get between you and that handsome
+stud of a partner you've got.<NOD<CLR<FAC0001I'M GOING TO GO OVER
+HERE NOW, THANK YOU!<NOD<END
+#0209
+<FLJ7969:0219<KEY<MSG
+Kiss him twice for me, honey!<NOD<CLR<FAC0003
+......<NOD<CLR
+You're weird.<NOD<END
+#0218
+<KEY<MSG
+You love him, don't you?<NOD<CLR<FAC0042
+Uhhh...?<NOD<CLR<FAC0000It's alright.<NOD This old girl won't
+get between you and that handsome
+stud of a partner you've got.<NOD<CLR<FAC0040I'M GOING TO GO OVER
+HERE NOW, THANK YOU!<NOD<END
+#0219
+<KEY<MSG
+Kiss him twice for me, honey!<NOD<CLR<FAC0042
+......<NOD<CLR
+You're weird.<NOD<END
+#0220
+<FLJ0272:0221<FL+0272
+<KEY<MSGPlease, oh please don't let him
+catch me.<NOD I was one of the ones in
+that rusty old cell in Plantation.<NOD
+Do you have any idea how little
+they fed us?<NOD It was torture!<NOD<END
+#0221
+<KEY<MSG
+Doctor dumb can go screw himself!<NOD<END

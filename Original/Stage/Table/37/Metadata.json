@@ -1,0 +1,12 @@
+{
+  "parts": "Sand",
+  "map": "SandE",
+  "bkType": 1,
+  "back": "bkGreen",
+  "back_water": "bkGreen",
+  "npc": "Sand",
+  "boss": "Bllg",
+  "boss_no": 0,
+  "lighting": "normal",
+  "name": "Sand Zone"
+}

@@ -1,0 +1,12 @@
+{
+  "parts" : "Hell",
+  "map" : "Prefa2",
+  "bkType" : 5,
+  "back" : "bkRed",
+  "back_water" : "bkRed",
+  "npc" : "Miza",
+  "boss" : "Almo3",
+  "boss_no" : 4,
+  "lighting" : "disabled",
+  "name" : "装配小屋"
+}

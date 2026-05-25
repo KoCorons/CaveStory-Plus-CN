@@ -1,0 +1,12 @@
+{
+  "parts": "White",
+  "map": "e_Blcn",
+  "bkType": 7,
+  "back": "bkFog",
+  "back_water": "bkFog",
+  "npc": "Miza",
+  "boss": "0",
+  "boss_no": 9,
+  "lighting": "disabled",
+  "name": ""
+}

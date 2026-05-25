@@ -1,0 +1,12 @@
+{
+  "parts": "White",
+  "map": "Ring2",
+  "bkType": 7,
+  "back": "BkFog",
+  "back_water": "BkFog",
+  "npc": "Guest",
+  "boss": "Dr",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "The King's Table"
+}

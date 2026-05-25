@@ -1,0 +1,209 @@
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+#0099
+<KEY<MNA<CMU0000<CMU0008
+<ANP0102:0001:0000<FAI0004
+<CNP0301:0112:0000<WAI0100
+<ANP0102:0000:0000
+<MYD0000<DNP0301<SMC<END
+#0100
+<PRI<FLJ0523:0105<FAO0004<TRA0006:0094:0217:0016
+#0101
+#0102
+<KEY<FLJ0524:0103
+<MSG
+A teleporter.<NOD<CLR
+Its use seems to be suspended...<NOD<END
+#0103
+<PRI<MSG
+Teleport to the Plantation?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0102:0001:0000
+<WAI0100<FAO0004<TRA0061:0099:0007:0013
+#0105
+<PRI<FAO0004<FL+0227<TRA0006:0600:0217:0016
+#0200
+<KEY<MNA<CMU0000<FAI0004<WAI0100
+<QUA0030<SOU0044<ANP0101:0001:0000
+<WAI0080<ANP0210:0000:0000<WAI0020
+<FL+0520<SOU0011<DNP0101
+<WAI0050<MYD0002<MOV0009:0010<2MV0000
+<CMU0010<MSG<FAC0110
+All right!<FAC0210<WAI0160<NOD<CMU0008<CLR<FAC0110
+You did well, boy!<FAC0010<NOD<FAC0110
+Just one look and I knew--<FAC0010<NOD<FAC0110
+I knew you could do it!<FAC0010<NOD<CLR<FAC0010
+.....<NOD
+<CLR<FAC0110
+Um...<FAC0010<NOD<FAC0110
+My name is Kazuma Sakamoto.<FAC0010<NOD<FAC0110
+But please call me Kazuma.<FAC0010<NOD<CLR<FAC0110
+Luckily, I was able to escape
+from the Doctor, but then...<FAC0010<NOD<FAC0110
+I was teleported here.<FAC0010<NOD<FAC0110
+It felt like I was about to die
+of total starvation...<FAC0010<NOD<FAC0110
+You're a real life saver!<FAC0010<NOD<CLR<FAC0110
+By the way...<FAC0010<NOD<CLR<FAC0110
+Have you heard of a place
+called Mimiga Village?<FAC0010<NOD<CLR<FAC0110
+...Sue?<FAC0010<NOD<CLR<FAC0110
+You know Sue?!<FAC0010<NOD<CLR<FAC0110
+I see...<FAC0010<NOD<FAC0110
+So, you've come to get me
+in place of Sue.<FAC0010<NOD<CLR<FAC0110
+I understand.<FAC0010<NOD<FAC0110
+Let's go!
+Take me to the village!<FAC0010<NOD<SOU0043<ANP0102:0001:0000<WAI0030<ANP0210:0000:0002<CLR
+<FAC1010?!<NOD<CLO<FAC0000
+<CNP0303:0113:0000<ANP0303:0030:0000<WAI0100
+<FAC0000<MSG<ANP0102:0000:0000<FAC0118
+Is that you, Kazuma?!<FAC0018<NOD<CLR<FAC1110
+Professor Booster!!<FAC1010<NOD<FAC1110
+So you're safe!<FAC1010<NOD<CLR<FAC0118
+Yes, somehow.<FAC0018<NOD<CLO
+<ANP0303:0003:0000<WAI0040
+<ANP0303:0000:0002<WAI0030
+<ANP0303:0000:0000<WAI0030
+<FAC0000<MSG<FAC0118
+And how's Sue?<FAC0018<NOD<FAC0118
+Is she safe?!<FAC0018<NOD<CLR<FAC1110
+Sue's in Mimiga Village.<FAC1010<NOD<FAC1110
+This boy will get us there.<FAC1010<NOD<CLO
+<WAI0020<ANP0210:0000:0000<WAI0010
+<FAC0000<MSG<FAC0118
+Oh...<FAC0018<NOD<CLO
+<ANP0303:0003:0000<WAI0080<ANP0303:0000:0000
+<FAC0000<MSG<FAC0110
+Do you know him?<FAC0010<NOD<CLR<FAC0018
+.....<NOD<CLR<FAC0118
+No...<FAC0018<NOD<CLR<FAC1118
+<ANP0303:0000:0002Um, actually, we just met.<FAC1018<NOD<CLR<FAC1118
+Anyway, let's hurry and get
+to Sue's location.<FAC1018<NOD<FAC1118
+The Doctor has started to
+gather the Mimiga.<FAC1018<NOD<FAC1118
+It appears he's taken 
+notice of the red flowers.<FAC1018<NOD<CLR<FAC0110
+But, Sue is a...<FAC0010<NOD<CLR<FAC0110
+Will the red flowers work on
+Sue as well?<FAC0010<NOD<FAC0110
+Just like the others?<FAC0010<NOD<CLR<FAC1118
+Kazuma.<FAC1018<NOD<CLR<FAC1118
+The Doctor has commenced
+snatching the Mimiga.<FAC1018<NOD<FAC1118
+Do you understand what 
+this means?<FAC1018<NOD<CLR<FAC0110<CMU0000
+...So the Doctor and the war?<FAC0010<NOD<CLO<FAC0000
+<ANP0303:0003:0002<WAI0032
+<ANP0303:0000:0002
+<MSG<FAC1118
+That's right.<FAC1018<NOD<CMU0008<FAC1118
+And now we're the only ones
+who can stop him.<FAC1018<NOD<CLR<FAC0110
+But how are we going to 
+stop the Doctor?<FAC0010<NOD<CLR<FAC1118
+I have an idea.<FAC1018<NOD<FAC1118
+At any rate, let's hurry and
+get back to Sue.<FAC1018<NOD<FAC1118
+We'll discuss when we're there.<FAC1018<NOD<FAC0000<CLO
+<ANP0303:0003:0000<WAI0038
+<MYB0002<WAI0016<MYD0002<ANP0303:0000:0000
+<MSG<FAC0118
+I want you to come, too.<FAC0018<NOD<CLO
+<ANP0303:0005:0000<WAI0020<DNP0303
+<ANP0210:0003:0000<WAI0078
+<ANP0210:0005:0000<WAI0020<DNP0210
+<FL-0522<FL+0523
+<CNP0016:0016:0002<WAI0020
+<CNP0017:0017:0002<FL+0525<FL+0226
+<END
+#0210
+#0220
+<KEY<FLJ0524:0221<MSG<TUR
+Use of this teleporter is currently
+suspended.<NOD<END
+#0221
+<KEY<MSG<TUR
+Teleportation to Plantation is
+possible.<NOD<END
+#0300
+#0301
+#0302
+#0303
+#0500
+<KEY<CMU0021<FAI0004
+<MSG
+Connecting to network.<WAI0050
+<MSG
+Logged on.<WAI0050
+<MSG
+Starting IM chat.<WAI0100<CLR
+<MSG
+Kazuma: Sue?<NOD
+Kazuma: are you there?<NOD
+Kazuma: it's me<NOD
+Kazuma: it's Kazuma!<NOD
+Kazuma: I was somehow able to escape,
+but I got lost<NOD
+Kazuma: I'm in a shelter without
+anything inside<NOD
+Kazuma: if you're reading this,
+please answer<NOD<CLR
+Kazuma: ...please?<NOD
+<FAO0004<SK+0005<TRA0013:0091:0013:0008
+#0501
+<KEY<HMC<CMU0021<FAI0004
+<MSG
+Searching for "Sue".<WAI0150<CLR<MSG
+One "Sue" found.<WAI0150<CLR<MSG
+Kazuma: SUUUUE!<NOD
+Kazuma: answer me<NOD
+Kazuma: they're looking for you
+Kazuma: are you asleep or what?<NOD
+Kazuma: your brother is so lonely...<NOD<FAO0004<SMC<CLO
+<TRA0090:0095:0017:0009
+#0502
+<KEY<HMC<CMU0021<FAI0004
+<MSG
+Kazuma: c'mon Sue!!!<NOD
+Kazuma: type something will you?<NOD
+Kazuma: starving over here...
+Kazuma: I'm so hungry that, that...
+Kazuma: I even ate a cockroach<NOD
+Kazuma: LOL just kidding!!!<NOD<CLR
+Kazuma: but, just so you know, if I get
+to that point I'll do it<NOD<FAO0004<SMC<TRA0011:0302:0008:0006
+#0700
+<KEY<FAI0004<MSG
+Kazuma: Sue?<NOD
+Kazuma: is that really you, Sue?<NOD<FAO0004<TRA0024:0701:0005:0000
+#0701
+<KEY<FAI0004<MSG
+Kazuma: the door is jammed and I can't
+get out of here<NOD
+Kazuma: I'm still in a shelter-looking
+sorta room<NOD
+Kazuma: by the way, the code that you
+need to teleport is "Bushlands"<NOD
+Kazuma: try searching from your end<NOD<CLR
+Kazuma: and no, mom isn't with me
+Kazuma: I'm afraid she still might be
+with the Doctor<NOD<CLR
+Kazuma: are any of the flying dragon
+eggs about ready to hatch yet?<NOD<FAO0004<TRA0024:0702:0005:0000
+#0702
+<KEY<FAI0004<MSG
+Kazuma: roger that!<NOD
+Kazuma: and do me a favor, bring some
+food back on your wa--<NOD<CLR
+<MSG
+User "Sue" has disconnected.<NOD<CLR
+Ah...<NOD<FAO0004<TRA0024:0703:0005:0000

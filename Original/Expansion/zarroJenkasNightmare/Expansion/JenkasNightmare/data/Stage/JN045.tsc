@@ -1,0 +1,183 @@
+
+#0090
+<MNA<CMU0037<FAI0000<END
+#0091
+<MNA<CMU0037<FAI0001<END
+#0092
+<MNA<CMU0037<FAI0002<END
+#0093
+<MNA<CMU0037<FAI0003<END
+#0094
+<MNA<CMU0037<FAI0004<END
+#0100
+<PRI<SOU0011<DNP0100<FAO0002<TRA0044:0092:0016:0010
+#0101
+<PRI<FAO0000<TRA0047:0090:0017:0036
+#0102
+<PRI<FAO0002<TRA0047:0092:0076:0005
+#0103
+<PRI<SOU0011<DNP0103<FAO0004<TRA0046:0094:0005:0013
+#0104
+<SKJ0006:0105
+<PRI<SOU0011<DNP0104<FAO0002<TRA0049:0094:0089:0039
+#0105
+<PRI<SOU0011<DNP0104<FAO0002<TRA0049:0094:0089:0015
+#0106
+<SKJ0006:0107
+<PRI<SOU0011<DNP0106<FAO0000<TRA0049:0094:0068:0013
+#0107
+<PRI<SOU0011<DNP0106<FAO0000<TRA0049:0094:0020:0013
+#0110
+<PRI<FAO0000<TRA0054:0090:0002:0005
+#0120
+<FLJ0095:0121<FL+0095
+<PRI<MSGRound and round, the clock hand
+spins; new exits shown where
+time begins...<NOD<CLREh, what?<NOD
+Just mumbling an old song to
+myself.<NOD Heh heh heh...<NOD<END
+#0121
+<PRI<MSGRound and round, the clock hand
+spins; New exits shown where
+time begins.<NOD But in the end,
+the clock hand stops; the
+forward path behind us...<NOD<END
+#0150
+<PRI<FLJ0253:0175<FLJ0103:0180<FLJ0101:0170<FLJ0093:0156<MSG
+...YOU!<NOD<CLR
+......<NOD<CLRAhem!<NOD Yes, well.<NOD So sorry,
+but I can't give you a rematch
+right now.<NOD Fancy that,
+I'm all out of gas.<NOD<CLR
+A darn shame, that.<NOD<ITJ0029:0161<CLROh, what's that?<NOD 
+You say you'll find some
+=Critter Juice= for me?<YNJ0151<EVE0155
+#0151
+<MSGCome on buddy, you don't really
+mean that, do you?<NOD
+You'll be HAPPY to find some
+=Critter Juice= for me, right?<YNJ0152<EVE0155
+#0152
+<MSGSorry, sorry, you're gonna have
+to speak up!<NOD
+I didn't quite catch that.<NOD
+You say you'll go and find some
+=Critter Juice= for me?<YNJ0153<EVE0155
+#0153
+<MSGOh pish posh!<NOD There's no reason
+to be so modest!<NOD
+Come now, I'm almost certain you
+could find some =Critter Juice=
+for me, correct?<YNJ0154<EVE0155
+#0154
+<MSGHmm!<NOD Oh come on, you're not
+scared are you?<NOD I know plenty of
+scaredy-cats myself!<NOD
+You look nothing like any of
+those other shameless kittens!<NOD
+Truly a brave soul like yours
+would be happy to find me some
+=Critter Juice=?<YNJ0151<EVE0155
+#0155
+<MSG<FL+0093
+Perfect!<NOD<CLRYes, well.<NOD That old
+roach Chaba - you know him,
+don't you?<NOD Anyway, he stopped
+accepting business from me
+a little while back.<NOD
+He says some shameful dark cat-
+eyed monster has been stealing
+supplies!<NOD Oh meow-my.<NOD<CLRI'd NEVER do something like that
+to ol' Chaba!<NOD And yet I'm the very
+first one he suspects!<NOD
+The world just doesn't have a
+place for an old cat like me.<NOD<CLR
+Okay, okay, I'm rambling.<NOD<CLO<FLJ0114:0157
+<MSGGetting =Critter Juice= is no big
+deal!<NOD Just go have a nice chat
+with Chaba and see if you can make
+a deal with him.<NOD I'm sure a guy
+like you makes for an excellent
+negotiator, hmmmmm?<NOD<EVE0156
+#0156
+<ITJ0029:0160<FLJ0114:0158<MSGSo all you gotta do to get me some
+=Critter Juice= is have a word withChaba.<NOD I'll be riiight here!<NOD<END
+#0157
+<MSG<GIT1028Say, that key looks familiar...!<NOD
+Hmm hmm hmm!<NOD This gives me
+a niiice idea...<NOD<GIT0000<CLRHere's what you can do for me.<NOD
+If you HAPPEN to be heading to
+Chaba's cold-storage, maybe you
+could, well, pick some up for me?<NOD
+Oh, he won't mind at all!<NOD
+He trusts you, right?<NOD<EVE0158
+#0158
+<MSGSo all you gotta do to get me some
+=Critter Juice= is sneak some out
+of Chaba's cold-storage for me.<NOD
+I'll be riiight here!<NOD<END
+#0160
+<MSGOh man, you got some
+=Critter Juice=!<NOD<EVE0162
+#0161
+<MSGWait, you have some
+=Critter Juice= on you!?<NOD<EVE0162
+#0162
+<MSGAlright, time for our rematch,
+sucker!<NOD I'll give you a bit
+of a head start, even.<NOD
+Heh heh heh...<NOD<GIT1029<IT-0029<CLR
+=Critter Juice= was taken.<NOD<CLO<KEY
+<WAI0010<CNP0150:0108:0000<CNP0300:0046:0002
+<DNA0108<WAI0030<FL+0100<FL+0101<FL+0093<END
+#0170
+<MSG
+Welcome back!<NOD<CLRI never knew the dinky robot
+that broke my vehicle had become
+such a coward!<NOD Come on, come on,
+show me what you're made of!<NOD<CLO<KEY
+<WAI0010<CNP0150:0108:0000<CNP0300:0046:0002
+<DNA0108<WAI0030<FL+0100<END
+#0175
+<FLJ0103:0176
+<MSGOh, hello.<NOD Don't mind me,
+I'm waiting for SOMEBODY to
+come back and fight me.<NOD
+He'd better not have forgotten
+about me!<NOD<END
+#0176
+<MSG
+Ah!<NOD ...<NOD<CLROh, no, don't mind me...<NOD
+I'm just lamenting the loss of
+my machine...<NOD ...again...<NOD<CLRNo, no, I was asking for it.<NOD
+I wanted this to happen, I guess.<NOD<CLR
+Sigh...<NOD<END
+#0180
+<MSG
+ARRRRRGHHH!<NOD<CLR
+You... YOU...<NOD<CLR
+(Okay, deep breaths, X...)<NOD<CLRTWICE!!<NOD
+TWICE NOW YOU BROKE MY THINGS!<NOD<GIT1030<CLR
+Hey, is that--<NOD<CLR
+GIVE ME THAT!!<NOD<CLR<IT-0030
+=Catseye Medal= was taken.<NOD<GIT0000<CLR
+JUST...!<NOD JUST GO AWAY!<NOD<CLO<KEY
+<WAI0010<CNP0150:0108:0000<DNA0108<WAI0030<FL+0100<FL+0116<END
+#0200
+<FLJ2110:0028<FLJ2105:0001<FL+2105<SOU0022<CNP0200:0021:0000<EVE0012
+#0300
+<FLJ0103:0000<DNP0300<CMU0020<BOA0010<CNP0305:0013:0000<END
+#0301
+<BOA0001<DNP0301<FL-0103<END
+#0400
+<PRI<DNP0400<EVE0003
+#1000
+<KEY<FOB0000:0016<WAI0150<DNA0013<DNA0027<DNA0211<DNA0001<DNA0086<DNA0087
+<WAI0100<CMU0000<FL+0102<FL+0103<GIT1030<IT+0030<FOM0016<MSG<FAC0000<FL-0100
+<CMU0010Got the =Catseye Medal=!<WAI0160<NOD<CMU0037<END
+#1100
+<SNP0259:0001:0001:0000<EVE0041
+#1200
+<KEY<ANP1200:0020:0002
+<FON1200:0016<FAI0001
+<WAI0100<FAO0001<TRA0047:1200:0038:0016
