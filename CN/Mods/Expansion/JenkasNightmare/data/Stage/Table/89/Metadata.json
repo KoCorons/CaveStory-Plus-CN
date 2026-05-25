@@ -1,0 +1,12 @@
+{
+  "parts": "Jail",
+  "map": "JN089",
+  "bkType": 5,
+  "back": "bkStars",
+  "back_water": "bkStars",
+  "npc": "Night",
+  "boss": "Mare",
+  "boss_no": 7,
+  "lighting": "disabled",
+  "name": "珍卡的噩梦"
+}

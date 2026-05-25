@@ -1,0 +1,12 @@
+{
+  "parts": "Pens",
+  "map": "JN024",
+  "bkType": 2,
+  "back": "bk24",
+  "back_water": "bk24",
+  "npc": "Guest",
+  "boss": "Guest",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "草丛区之塔"
+}

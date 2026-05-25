@@ -1,0 +1,12 @@
+{
+  "parts": "Maze",
+  "map": "e_Maze",
+  "bkType": 1,
+  "back": "bkMaze",
+  "back_water": "bkMaze",
+  "npc": "Guest",
+  "boss": "Maze",
+  "boss_no": 3,
+  "lighting": "normal",
+  "name": ""
+}

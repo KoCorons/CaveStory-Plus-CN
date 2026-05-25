@@ -1,0 +1,12 @@
+{
+  "parts" : "Hell",
+  "map" : "Hell42",
+  "bkType" : 4,
+  "back" : "bk0",
+  "back_water" : "bk0",
+  "npc" : "Hell",
+  "boss" : "Press",
+  "boss_no" : 8,
+  "lighting" : "disabled",
+  "name" : "通路？"
+}

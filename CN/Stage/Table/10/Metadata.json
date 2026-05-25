@@ -1,0 +1,12 @@
+{
+  "parts" : "Sand",
+  "map" : "Sand",
+  "bkType" : 1,
+  "back" : "bkGreen",
+  "back_water" : "bkGreen",
+  "npc" : "Sand",
+  "boss" : "Omg",
+  "boss_no" : 1,
+  "lighting" : "normal",
+  "name" : "砂区"
+}

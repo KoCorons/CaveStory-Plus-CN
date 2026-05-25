@@ -1,0 +1,12 @@
+{
+  "parts": "Arcadia",
+  "map": "JN097",
+  "bkType": 7,
+  "back": "bkDawn",
+  "back_water": "bkDawn",
+  "npc": "Hell",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "圣域地上二阶"
+}

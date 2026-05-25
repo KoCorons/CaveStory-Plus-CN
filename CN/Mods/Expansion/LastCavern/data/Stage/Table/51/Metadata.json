@@ -1,0 +1,12 @@
+{
+  "parts": "Store",
+  "map": "EggR2",
+  "bkType": 4,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Eggs1",
+  "boss": "TwinD",
+  "boss_no": 6,
+  "lighting": "disabled",
+  "name": "Egg Observation Room?"
+}

@@ -1,0 +1,12 @@
+{
+  "parts": "River",
+  "map": "JN057",
+  "bkType": 2,
+  "back": "bkGardBB",
+  "back_water": "bkGardBB",
+  "npc": "Floaty",
+  "boss": "Alpha",
+  "boss_no": 1,
+  "lighting": "disabled",
+  "name": "水路"
+}

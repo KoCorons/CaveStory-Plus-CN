@@ -1,0 +1,12 @@
+{
+  "parts": "Rust",
+  "map": "JN093",
+  "bkType": 1,
+  "back": "bkRust",
+  "back_water": "bkRust",
+  "npc": "Rusty",
+  "boss": "Rust",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "砂区？"
+}

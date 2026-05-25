@@ -1,0 +1,12 @@
+{
+  "parts": "Sand",
+  "map": "JN122",
+  "bkType": 0,
+  "back": "bkGreen",
+  "back_water": "bkGreen",
+  "npc": "0",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "e_Sand"
+}

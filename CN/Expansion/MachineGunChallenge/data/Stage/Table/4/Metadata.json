@@ -1,0 +1,12 @@
+{
+  "parts": "Eggs",
+  "map": "Egg6",
+  "bkType": 1,
+  "back": "bkBlue",
+  "back_water": "bkBlue",
+  "npc": "Eggs1",
+  "boss": "Cemet",
+  "boss_no": 0,
+  "lighting": "normal",
+  "name": "蛋之终点"
+}

@@ -1,0 +1,12 @@
+{
+  "parts" : "Hell",
+  "map" : "miakid",
+  "bkType" : 0,
+  "back" : "bkRed",
+  "back_water": "bkRed",
+  "npc" : "Guest",
+  "boss" : "Curly",
+  "boss_no" : 0,
+  "lighting": "disabled",
+  "name" : "米亚基顿"
+}

@@ -1,0 +1,12 @@
+{
+  "parts": "Maze",
+  "map": "JN047",
+  "bkType": 1,
+  "back": "bkMaze",
+  "back_water": "bkMaze",
+  "npc": "Maze",
+  "boss": "Sand",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "迷宫Ｓ"
+}
