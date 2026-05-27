@@ -1,0 +1,12 @@
+{
+  "parts": "Almaze",
+  "map": "JN054",
+  "bkType": 2,
+  "back": "bkMisery",
+  "back_water": "bkMisery",
+  "npc": "Maze",
+  "boss": "Maze2",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "反抗者联盟"
+}

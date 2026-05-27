@@ -1,0 +1,12 @@
+{
+  "parts" : "Store",
+  "map" : "WeedD",
+  "bkType" : 1,
+  "back" : "bkBlue",
+  "back_water" : "bkBlue",
+  "npc" : "0",
+  "boss" : "0",
+  "boss_no" : 0,
+  "lighting" : "normal",
+  "name" : "处刑室"
+}

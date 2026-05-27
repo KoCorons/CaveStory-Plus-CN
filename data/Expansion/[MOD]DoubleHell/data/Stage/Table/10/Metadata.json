@@ -1,0 +1,12 @@
+{
+  "parts": "GreyHell",
+  "map": "Sand",
+  "bkType": 7,
+  "back": "bkDH_GreySky",
+  "back_water": "bkDH_GreySky",
+  "npc": "Hell",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "征服"
+}

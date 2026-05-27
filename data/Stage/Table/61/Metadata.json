@@ -1,0 +1,12 @@
+{
+  "parts" : "Store",
+  "map" : "Jail2",
+  "bkType" : 4,
+  "back" : "bk0",
+  "back_water" : "bk0",
+  "npc" : "Guest",
+  "boss" : "Cent",
+  "boss_no" : 0,
+  "lighting" : "disabled",
+  "name" : "二号牢房"
+}

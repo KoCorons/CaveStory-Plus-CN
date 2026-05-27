@@ -1,0 +1,343 @@
+#0000
+<FRE<WAI9999<END
+
+#1001
+<MSG<TUR- 蛇枪 -
+说明：可以穿透墙壁。
+由迷宫的茶羽所制作。<WAI9999<END
+#1002
+<MSG<TUR- 北极星 -
+说明：最基本的枪。
+上面印有北极星的图案。<WAI9999<END
+#1003
+<MSG<TUR- 火球 -
+说明：在地面跳转。
+在坡道上可以发挥出其威力。<WAI9999<END
+#1004
+<MSG<TUR- 机枪 -
+说明：自动连射。
+弹数随着时间自动回复。<WAI9999<END
+#1005
+<MSG<TUR- 飞弹 -
+说明：对广范围造成大伤害。
+有弹药限制。<WAI9999<END
+#1007
+<MSG<TUR- 泡泡枪 -
+说明：从集会场的暖炉中取得。
+其好用程度因人而异。<WAI9999<END
+#1009
+<MSG<TUR- 剑 -
+说明：给予单发的大伤害。
+寄宿着金的魂魄。<WAI9999<END
+#1010
+<MSG<TUR- 超级飞弹 -
+说明：爽快系飞弹。
+加速力非常优秀。<WAI9999<END
+
+#1012
+<MSG<TUR- 复仇女神 -
+说明：女神之雷。
+LEVEL1时最强，建议超上级者使用。<WAI9999<END
+#1013
+<MSG<TUR- 突波 -
+说明：按住按钮一段时间
+可以发出镭射。<WAI9999<END
+
+#1100
+<MSG<TUR斌<WAI9999<END
+#1101
+<MSG<TUR米克<WAI9999<END
+#1102
+<MSG<TUR忍<WAI9999<END
+#1103
+<MSG<TUR驱<WAI9999<END
+#1104
+<MSG<TUR宁宁<WAI9999<END
+
+#1200
+<MSG<TUR珍卡的爱犬，是这些狗中的首领。
+出外找寻自己的兄弟结果自己也迷路，
+就这样跟卡莉她们住在一起。<WAI9999<END
+#1201
+<MSG<TUR珍卡的爱犬，找寻宝物的天才。
+非常的喜欢宝箱，最近有着
+在宝箱中睡觉的癖好。<WAI9999<END
+#1202
+<MSG<TUR珍卡的爱犬，喜欢黑暗的地方。
+由于野性的直感，即使视力不好
+在黑暗中也能大步行走。<WAI9999<END
+#1203
+<MSG<TUR珍卡的爱犬，只要有骨头就会感到幸福。
+他在各个地方到处都埋藏了骨头。
+而且将这些地点都忘记了...<WAI9999<END
+#1204
+<MSG<TUR珍卡的爱犬，总是在睡觉的漂亮狗儿。
+其实她的梦拥有非常准确的
+预知能力。<WAI9999<END
+
+#5000
+<MSG<TURNo item.<WAI9999<END
+#5001
+<MSG<TURArthur's Key<WAI9999<END
+#5002
+<MSG<TUR地图系统<WAI9999<END
+#5003
+<MSG<TURSanta's Key<WAI9999<END
+#5004
+<MSG<TURSilver Locket<WAI9999<END
+#5005
+<MSG<TURBeast Fang<WAI9999<END
+#5006
+<MSG<TURLife Capsule<WAI9999<END
+#5007
+<MSG<TURID Card<WAI9999<END
+#5008
+<MSG<TURJellyfish Juice<WAI9999<END
+#5009
+<MSG<TURRusty Key<WAI9999<END
+#5010
+<MSG<TURGum Key<WAI9999<END
+#5011
+<MSG<TURGum Base<WAI9999<END
+#5012
+<MSG<TURCharcoal<WAI9999<END
+#5013
+<MSG<TURExplosive<WAI9999<END
+#5014
+<FLJ3000:1100
+<FLJ3001:1101
+<FLJ3002:1102
+<FLJ3003:1103
+<FLJ3004:1104
+<MSG<TUR小狗<WAI9999<END
+#5015
+<MSG<TUR生命罐<WAI9999<END
+#5016
+<MSG<TURCure-All<WAI9999<END
+#5017
+<MSG<TURClinic Key<WAI9999<END
+#5018
+<MSG<TUR推进器 v0.8<WAI9999<END
+#5019
+<MSG<TUR战斗护盾<WAI9999<END
+#5020
+<MSG<TUR涡轮增压器<WAI9999<END
+#5021
+<MSG<TURCurly's Air Tank<WAI9999<END
+#5022
+<MSG<TUR贰玖零计时器<WAI9999<END
+#5023
+<MSG<TUR推进器 v2.0<WAI9999<END
+#5024
+<MSG<TUR咪咪卡面具<WAI9999<END
+#5025
+<MSG<TURTeleporter Room Key<WAI9999<END
+#5026
+<MSG<TURSue's Letter<WAI9999<END
+#5027
+<MSG<TURController<WAI9999<END
+#5028
+<MSG<TURBroken Sprinkler<WAI9999<END
+#5029
+<MSG<TURSprinkler<WAI9999<END
+#5030
+<MSG<TUR牵引绳<WAI9999<END
+#5031
+<MSG<TUR土人形的徽章<WAI9999<END
+#5032
+<MSG<TURLittle Man<WAI9999<END
+#5033
+<MSG<TURMushroom Badge<WAI9999<END
+#5034
+<MSG<TURMa·Pignon<WAI9999<END
+#5035
+<MSG<TURCurly's Underwear<WAI9999<END
+#5036
+<MSG<TUR外星人的徽章<WAI9999<END
+#5037
+<MSG<TURChako's Lipstick<WAI9999<END
+#5038
+<MSG<TUR无常之星<WAI9999<END
+#5039
+<MSG<TURIron Bond<WAI9999<END
+
+#6000
+<MSG<TURNo item.<WAI9999<END
+#6001
+<MSG<TURThe key to Arthur's house.
+It was hidden near Arthur's
+gravestone.<WAI9999<END
+#6002
+<PRI<EVE7002<MPJ7002<MSGNo data for this floor.<NOD<CLR<END
+#6003
+<MSG<TURThe key to Santa's house.<WAI9999<END
+#6004
+<MSG<TURA silver locket in the shape of a fish.
+From the condition it's in, it looks
+like it's been treasured for years.<WAI9999<END
+#6005
+<MSG<TURA sharp fang found at the
+Yamashita Farm. Is its owner still
+alive...?<WAI9999<END
+#6006
+<MSG<TURA life capsule.<WAI9999<END
+#6007
+<MSG<TURAn ID Card found in Egg No. 06.<WAI9999<END
+#6008
+<MSG<TURA fluid that can quench
+fireplaces.<WAI9999<END
+#6009
+<MSG<TURA rusty key.<WAI9999<END
+#6010
+<MSG<TURA tag says "Gum".<WAI9999<END
+#6011
+<MSG<TURA clump of gum.<WAI9999<END
+#6012
+<MSG<TURTaken from a fireplace.<WAI9999<END
+#6013
+<MSG<TURAn explosive for blowing up doors
+and such.<WAI9999<END
+#6014
+<FLJ3000:1200
+<FLJ3001:1201
+<FLJ3002:1202
+<FLJ3003:1203
+<FLJ3004:1204
+<MSG<TUR珍卡的爱犬。<WAI9999<END
+#6015
+<KEY<MSG
+可以回复生命点数一次。
+要使用吗？<YNJ0000<LI+1000<SOU0020<IT-0015<MSG
+生命点数已经获得回复。<FRE<WAI9999<END
+#6016
+<MSG<TURApparently this cures
+anything and everything...<WAI9999<END
+#6017
+<MSG<TURIt says "Labyrinth Clinic".<WAI9999<END
+#6018
+<FLJ0742:7018
+<KEY<MSG
+在空中按住跳跃键不放，
+可以往上方高处移动。<NOD<CLR
+要装备吗？<YNJ0000<EQ+0001<FL+0742<EQ-0032<FL-0743<MSG
+已经装备了推进器 v0.8。<NOD<WAI0003<FRE<EVE5018
+#6019
+<MSG<TUR
+当受到伤害的时候，
+武器能量减少值降为原本的一半。<WAI9999<END
+#6020
+<MSG<TUR加快机枪子弹的填弹速度。<WAI9999<END
+#6021
+<MSG<TURYou can breathe underwater with
+this. Curly used to use it.<WAI9999<END
+#6022
+<MSG<TUR全自动的码表。
+从上面看不到任何按钮。<WAI9999<END
+#6023
+<FLJ0743:7023
+<KEY<MSG
+在空中按住跳跃键不放，
+可以往４方向移动。<NOD<CLR
+要装备吗？<YNJ0000<EQ+0032<FL+0743<EQ-0001<FL-0742<MSG
+已经装备了推进器 v2.0。<NOD<WAI0003<FRE<EVE5023
+#6024
+<MSG<TUR由数的母亲所制作，
+可以变成咪咪卡的面具。
+尺寸有一点大...<WAI9999<END
+#6025
+<MSG<TURA key fished out by a certain
+Mimiga.<WAI9999<END
+#6026
+<KEY<MSGWill you read it?<YNJ0000<MSG<TUR
+This is Sue.<NOD<CLRI don't believe I ever told
+you much about all of us.<NOD<CLRWe came to this island from
+the surface on a research trip.<NOD<CLRProf. Booster was on our
+helicopter, and so was my
+mother, my brother,<NOD<CLRvarious assistants...
+The Doctor as well.<NOD<CLRHe was there to serve our
+medical needs, and did so...<NOD<CLRAt least, until he found
+the Demon Crown...<WAI0020<NOD<CLRThat crown, once the property
+of the master of this island,<NOD<CLRgrants monstrous magical
+powers upon its wearer...<NOD<CLRThe Doctor knew this even
+before coming to the island,<NOD<CLRwhich is why he wormed his
+way into our group in the
+first place.<NOD<CLROnce he had the Crown in
+his possession, no one could
+stand up to him.<NOD<CLRWe had no choice except to
+continue our research of the
+island under his orders.<NOD<CLRThe Doctor seeks to rule the
+Earth's surface using this
+island as a base.<NOD<CLRI think he plans to first
+attack the surface using
+the Mimigas as weapons.<NOD<CLRAnyway, I was able to get away
+somehow, but I fear the other
+researchers are already...<NOD<CLRNow, he's using the unsuspecting
+Mimigas to cultivate more and
+more red flowers.<NOD<CLROnce he is ready to attack, he will
+drive the Mimigas into a murderous
+frenzy using the flowers.<NOD<CLRUsing his terrible powers,
+he will be able to control the
+raging Mimigas to do his bidding.<NOD<CLR
+And that means I, too, will...<NOD<CLRIf you can escape from this prison
+cell, look for the hideout hidden
+in the plantation.<NOD<CLRIf my mother is yet safe,
+she'll be there, coming up
+with a counterplan.<NOD<CLRPlease. Help my mother.<NOD<CLRThe password is
+"Litagano Motscoud".<NOD<CLR<FL+1024<FRE<MSGThe letter ends here...<WAI9999<END
+#6027
+<MSG<TURNecessary to make a rocket.
+Pride of Itoh, the cowardly man.<WAI9999<END
+#6028
+<MSG<TURA busted water sprinkler.<WAI9999<END
+#6029
+<MSG<TURIt's brand-new. ...Perhaps.<WAI9999<END
+#6030
+<MSG<TUR机器人用的牵引绳。<WAI9999<END
+#6031
+<MSG<TUR虽然很小但却非常的重。
+没有任何用途。<WAI9999<END
+
+#6032
+<MSG<TURHey! We there yet?<WAI9999<END
+#6033
+<MSG<TURThe mushroom badge you got from the
+mushroom. It has no real use. To be
+honest, you don't really need it...<FL+1563<WAI9999<END
+#6034
+<MSG<TUR
+似乎拥有
+能够恢复记忆的功效...<WAI9999<END
+#6035
+<MSG<TURRetrieved from behind the wall.
+Yellow-green panties with a cute
+little insignia. They have no use.<WAI9999<END
+#6036
+<MSG<TUR上面刻着外星人的轮廓，
+没有任何用途。<WAI9999<END
+#6037
+<MSG<TURRed lipstick.
+It has no use.<WAI9999<END
+#6038
+<KEY<MSG从迷宫的茶羽手中得到的废品，
+无常之星。<NOD<FLJ0722:7038<CLR
+要装备吗？<YNJ0000<EQ+0128<FL+0722<MSG
+装备了无常之星。<NOD<WAI0003<FRE<EVE5038
+#6039
+<MSG<TURYour tie to Curly Brace, the only
+warrior you would trust your back to.
+Surely you will meet again one day...<WAI9999<END
+
+#7002
+<MLP<END
+
+#7018
+<KEY<MSG要取下来吗？<YNJ0000<EQ-0001<FL-0742<MSG
+推进器 v0.8被取下来了。<NOD<WAI0003<FRE<EVE5018
+#7023
+<KEY<MSG要取下来吗？<YNJ0000<EQ-0032<FL-0743<MSG
+推进器 v2.0被取下来了。<NOD<WAI0003<FRE<EVE5023
+
+#7038
+<KEY<MSG要取下来吗？<YNJ0000<EQ-0128<FL-0722<MSG
+无常之星被取下来了。<NOD<WAI0003<FRE<EVE5038
+

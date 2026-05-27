@@ -1,0 +1,12 @@
+{
+  "parts": "White",
+  "map": "Kings",
+  "bkType": 4,
+  "back": "Bk0",
+  "back_water": "Bk0",
+  "npc": "Kings",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "u"
+}

@@ -1,0 +1,12 @@
+{
+  "parts" : "Eggs",
+  "map" : "Eggs",
+  "bkType" : 1,
+  "back" : "bkGreen",
+  "back_water" : "bkGreen",
+  "npc" : "Eggs1",
+  "boss" : "Grobo2",
+  "boss_no" : 0,
+  "lighting" : "normal",
+  "name" : "蛋之回廊"
+}

@@ -1,0 +1,12 @@
+{
+  "parts": "Dawn",
+  "map": "JN102",
+  "bkType": 6,
+  "back": "bkDawn",
+  "back_water": "bkDawn",
+  "npc": "Dawn",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "外壁"
+}

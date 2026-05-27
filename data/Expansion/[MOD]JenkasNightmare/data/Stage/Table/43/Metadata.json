@@ -1,0 +1,12 @@
+{
+  "parts": "River",
+  "map": "JN043",
+  "bkType": 2,
+  "back": "bkFragB",
+  "back_water": "bkFragB",
+  "npc": "Guest",
+  "boss": "Bllg",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "水流之间"
+}

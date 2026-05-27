@@ -1,0 +1,12 @@
+{
+  "parts": "Barr",
+  "map": "JN005",
+  "bkType": 4,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Guest",
+  "boss": "Guest2",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "珍卡的家"
+}

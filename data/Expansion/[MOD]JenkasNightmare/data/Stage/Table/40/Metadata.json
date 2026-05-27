@@ -1,0 +1,12 @@
+{
+  "parts": "Pens",
+  "map": "JN040",
+  "bkType": 2,
+  "back": "bk40",
+  "back_water": "bk40",
+  "npc": "Guest",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "工作室"
+}

@@ -1,0 +1,12 @@
+{
+  "parts": "Dark",
+  "map": "JN067",
+  "bkType": 5,
+  "back": "bkStars",
+  "back_water": "bkStars",
+  "npc": "Floaty",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "虚无"
+}

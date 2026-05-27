@@ -1,0 +1,12 @@
+{
+  "parts": "Cave",
+  "map": "JN105",
+  "bkType": 4,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Guest2",
+  "boss": "Suto",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "蘑菇隐藏地"
+}

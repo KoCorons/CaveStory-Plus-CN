@@ -1,0 +1,12 @@
+{
+  "parts": "Pens",
+  "map": "JN050",
+  "bkType": 2,
+  "back": "bkFrag",
+  "back_water": "bkFrag",
+  "npc": "Guest",
+  "boss": "Weed",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "死路"
+}

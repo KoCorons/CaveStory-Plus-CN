@@ -1,0 +1,12 @@
+{
+  "parts": "Barr",
+  "map": "Malco",
+  "bkType": 1,
+  "back": "BkBlue",
+  "back_water": "BkBlue",
+  "npc": "Weed",
+  "boss": "Bllg",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Power Room"
+}

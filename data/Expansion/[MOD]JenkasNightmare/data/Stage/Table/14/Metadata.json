@@ -1,0 +1,12 @@
+{
+  "parts": "Pens",
+  "map": "JN014",
+  "bkType": 2,
+  "back": "bk14",
+  "back_water": "bk14",
+  "npc": "Guest",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "集会所"
+}

@@ -1,0 +1,12 @@
+{
+  "parts": "Roof",
+  "map": "mod007",
+  "bkType": 7,
+  "back": "bkRooftops",
+  "back_water": "bkRooftops",
+  "npc": "Weed",
+  "boss": "Remy",
+  "boss_no": 2,
+  "lighting": "disabled",
+  "name": "餐厅尽头"
+}

@@ -1,0 +1,10 @@
+{
+  "parts" : "Cent",
+  "map" : "Cent2",
+  "bkType" : 1,
+  "back" : "bkGreen",
+  "npc" : "Guest",
+  "boss" : "Bllg",
+  "boss_no" : 0,
+  "name" : "大农场"
+}

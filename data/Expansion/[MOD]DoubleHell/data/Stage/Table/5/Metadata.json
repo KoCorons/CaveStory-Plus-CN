@@ -1,0 +1,12 @@
+{
+  "parts": "RedHell",
+  "map": "EggR",
+  "bkType": 7,
+  "back": "bkDH_RedSky",
+  "back_water": "bkDH_RedSky",
+  "npc": "Hell",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "登顶"
+}

@@ -1,0 +1,12 @@
+{
+  "parts": "Cent",
+  "map": "JN021",
+  "bkType": 2,
+  "back": "bkGardGT",
+  "back_water": "bkGardGT",
+  "npc": "Miza",
+  "boss": "Ravil",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "风扇阀门"
+}
