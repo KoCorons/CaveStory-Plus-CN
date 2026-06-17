@@ -1,0 +1,12 @@
+{
+  "parts": "Maze",
+  "map": "Stage7-G",
+  "bkType": 1,
+  "back": "bkMaze",
+  "back_water": "bkMaze",
+  "npc": "Sand",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "四号牢房"
+}

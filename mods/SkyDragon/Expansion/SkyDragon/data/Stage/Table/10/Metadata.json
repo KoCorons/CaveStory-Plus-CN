@@ -1,0 +1,12 @@
+{
+  "parts": "Maze2",
+  "map": "h",
+  "bkType": 4,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Cemet",
+  "boss": "0",
+  "boss_no": 1,
+  "lighting": "disabled",
+  "name": "岛屿的中枢 H"
+}

@@ -1,0 +1,12 @@
+{
+  "parts": "Sand",
+  "map": "noname",
+  "bkType": 0,
+  "back": "bkWhite",
+  "back_water": "bkWhite",
+  "npc": "0",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "★实验室★"
+}

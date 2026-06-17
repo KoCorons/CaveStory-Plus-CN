@@ -1,0 +1,12 @@
+{
+  "parts": "Cave",
+  "map": "Kings",
+  "bkType": 1,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Guest",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "原作 开发室Pixel「洞窟物语」"
+}

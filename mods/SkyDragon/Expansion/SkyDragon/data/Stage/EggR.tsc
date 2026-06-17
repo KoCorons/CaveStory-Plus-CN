@@ -1,0 +1,82 @@
+
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+
+#0100
+<PRI<FAO0004<TRA0002:0094:0220:0007
+
+#0150
+<KEY<MSG愒偄壴傃傜偑嶶棎偟偰偄傞丅<NOD<END
+
+#0200
+<KEY<MSG儊儌偑偁傞丅<NOD<CLR<TUR僔乕儖僪偑偠傖傑偱
+No.00偺偁傞晹壆偵嬤偯偗側偄<NOD<CLR<TUR偳偙偐偵僔乕儖僪傪奜偡偨傔偺
+抂枛偑偁傞偼偢側偺偩偑乧<NOD<END
+
+#0300
+<PRI<FLJ0200:0001<FL+0200
+<SOU0022<CNP0300:0021:0000
+<MSG曮敔傪奐偗偨丅<NOD<CLR<EVE0030
+
+
+#0500
+
+#0501
+<PRI<MS3<TUR旘棾偺棏 No.01
+僄儔乕丗棏偺忬懺偑堎忢偱偡丅
+棏傪挷嵏偟偰偔偩偝偄丅<NOD<END
+#0502
+<PRI<MS3<TUR旘棾偺棏 No.02
+惓忢偱偡丅<NOD<END
+#0503
+<PRI<MS3<TUR旘棾偺棏 No.03
+惓忢偱偡丅<NOD<END
+#0504
+<PRI<MS3<TUR旘棾偺棏 No.04
+惓忢偱偡丅<NOD<END
+#0505
+<PRI<MS3<TUR旘棾偺棏 No.05
+惓忢偱偡丅<NOD<END
+#0506
+<PRI<MS3<TUR旘棾偺棏 No.06
+僄儔乕丗棏偺忬懺偑堎忢偱偡丅
+棏傪挷嵏偟偰偔偩偝偄丅<NOD<END
+#0507
+<PRI<MS3<TUR旘棾偺棏 No.07
+惓忢偱偡丅<NOD<END
+#0508
+<PRI<MSG<TUR旘棾偺棏 No.08
+惓忢偱偡丅<NOD<END
+#0509
+<PRI<MSG<TUR旘棾偺棏 No.09
+惓忢偱偡丅<NOD<END
+#0510
+<PRI<MSG<TUR旘棾偺棏 No.10
+惓忢偱偡丅<NOD<END
+#0511
+<PRI<MSG<TUR旘棾偺棏 No.11
+惓忢偱偡丅<NOD<END
+#0512
+<PRI<MSG<TUR旘棾偺棏 No.12
+惓忢偱偡丅<NOD<END
+#0513
+<PRI<MSG<TUR旘棾偺棏 No.13
+惓忢偱偡丅<NOD<END
+#0514
+<PRI<MSG<TUR旘棾偺棏 No.14
+惓忢偱偡丅<NOD<END
+#0515
+<PRI<MSG<TUR旘棾偺棏 No.15
+惓忢偱偡丅<NOD<END
+#0516
+<PRI<MSG<TUR旘棾偺棏 No.16
+惓忢偱偡丅<NOD<END
+

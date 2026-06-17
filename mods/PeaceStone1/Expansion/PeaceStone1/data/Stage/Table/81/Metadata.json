@@ -1,0 +1,12 @@
+{
+  "parts": "White",
+  "map": "Boss1",
+  "bkType": 1,
+  "back": "bkBlue",
+  "back_water": "bkBlue",
+  "npc": "Guest",
+  "boss": "Tuclu",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "城堡"
+}

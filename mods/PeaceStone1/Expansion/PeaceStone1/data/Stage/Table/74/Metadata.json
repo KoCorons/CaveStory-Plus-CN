@@ -1,0 +1,12 @@
+{
+  "parts": "White",
+  "map": "Dr2",
+  "bkType": 7,
+  "back": "bkFog",
+  "back_water": "bkFog",
+  "npc": "0",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "博士的基地？"
+}

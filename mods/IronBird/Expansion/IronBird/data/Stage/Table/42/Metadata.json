@@ -1,0 +1,12 @@
+{
+  "parts": "Cent",
+  "map": "Road7",
+  "bkType": 0,
+  "back": "bkSea",
+  "back_water": "bkSea",
+  "npc": "Sea",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "海岸"
+}

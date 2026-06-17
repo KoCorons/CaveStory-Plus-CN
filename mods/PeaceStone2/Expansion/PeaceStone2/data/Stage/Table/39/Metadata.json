@@ -1,0 +1,12 @@
+{
+  "parts": "Pens",
+  "map": "Creak2",
+  "bkType": 1,
+  "back": "bkBlue",
+  "back_water": "bkBlue",
+  "npc": "Puppy",
+  "boss": "Curly",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "库利库的家？"
+}

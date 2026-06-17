@@ -1,0 +1,12 @@
+{
+  "parts": "Pens",
+  "map": "Stage6-D",
+  "bkType": 0,
+  "back": "bkSky2",
+  "back_water": "bkSky2",
+  "npc": "Sand",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "书房"
+}

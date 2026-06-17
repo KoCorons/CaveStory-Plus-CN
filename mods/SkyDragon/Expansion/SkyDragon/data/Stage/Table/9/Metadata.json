@@ -1,0 +1,12 @@
+{
+  "parts": "Pens",
+  "map": "home4",
+  "bkType": 1,
+  "back": "bkBlue",
+  "back_water": "bkBlue",
+  "npc": "Guest",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "修理屋kabu的家"
+}

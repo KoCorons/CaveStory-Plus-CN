@@ -1,0 +1,12 @@
+{
+  "parts": "Hell2",
+  "map": "Bomb1",
+  "bkType": 2,
+  "back": "bkRed",
+  "back_water": "bkRed",
+  "npc": "Priest",
+  "boss": "Bllg",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "攻防"
+}

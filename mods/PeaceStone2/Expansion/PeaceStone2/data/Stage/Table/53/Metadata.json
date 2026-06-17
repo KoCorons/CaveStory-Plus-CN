@@ -1,0 +1,12 @@
+{
+  "parts": "Pens",
+  "map": "Kero1",
+  "bkType": 1,
+  "back": "bkBlue",
+  "back_water": "bkBlue",
+  "npc": "Guest",
+  "boss": "Maze",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "青蛙医院"
+}

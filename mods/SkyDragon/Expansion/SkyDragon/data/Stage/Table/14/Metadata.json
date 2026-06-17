@@ -1,0 +1,12 @@
+{
+  "parts": "Maze",
+  "map": "r",
+  "bkType": 1,
+  "back": "bkMaze",
+  "back_water": "bkMaze",
+  "npc": "Maze",
+  "boss": "X",
+  "boss_no": 3,
+  "lighting": "disabled",
+  "name": "岛屿的中枢 R"
+}

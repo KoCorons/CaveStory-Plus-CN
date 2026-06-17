@@ -1,0 +1,12 @@
+{
+  "parts": "Sea",
+  "map": "Sea3",
+  "bkType": 7,
+  "back": "bkFog",
+  "back_water": "bkFog",
+  "npc": "Guest",
+  "boss": "Cent",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "对岸"
+}

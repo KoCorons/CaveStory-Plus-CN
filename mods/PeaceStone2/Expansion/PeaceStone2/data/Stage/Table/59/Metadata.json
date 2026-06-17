@@ -1,0 +1,12 @@
+{
+  "parts": "Sea",
+  "map": "Ship",
+  "bkType": 0,
+  "back": "bkShip",
+  "back_water": "bkShip",
+  "npc": "0",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "着岸动画"
+}

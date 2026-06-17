@@ -1,0 +1,12 @@
+{
+  "parts": "Oside",
+  "map": "Igor",
+  "bkType": 2,
+  "back": "bkBlue",
+  "back_water": "bkBlue",
+  "npc": "Ravil",
+  "boss": "Ravil",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "高级安全区域"
+}

@@ -1,0 +1,12 @@
+{
+  "parts": "White",
+  "map": "Stage6-G",
+  "bkType": 1,
+  "back": "bkGard",
+  "back_water": "bkGard",
+  "npc": "Ravil2",
+  "boss": "Ravil",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "地下研究室"
+}

@@ -1,0 +1,12 @@
+{
+  "parts": "Mimi",
+  "map": "Gaudi2",
+  "bkType": 1,
+  "back": "bkBlue",
+  "back_water": "bkBlue",
+  "npc": "Maze",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "高第城２"
+}

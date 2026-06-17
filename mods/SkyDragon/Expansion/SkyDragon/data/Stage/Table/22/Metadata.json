@@ -1,0 +1,12 @@
+{
+  "parts": "Almond",
+  "map": "y",
+  "bkType": 1,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Eggs1",
+  "boss": "TwinD",
+  "boss_no": 6,
+  "lighting": "disabled",
+  "name": "岛屿的中枢 Y"
+}

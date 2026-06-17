@@ -1,0 +1,12 @@
+{
+  "parts": "Hell2",
+  "map": "Dr3",
+  "bkType": 1,
+  "back": "bkBlue",
+  "back_water": "bkBlue",
+  "npc": "Sand",
+  "boss": "Thunder",
+  "boss_no": 7,
+  "lighting": "disabled",
+  "name": "真正的根据地"
+}

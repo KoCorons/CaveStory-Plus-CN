@@ -1,0 +1,12 @@
+{
+  "parts": "Sand",
+  "map": "Stage3-F",
+  "bkType": 1,
+  "back": "bkGard",
+  "back_water": "bkGard",
+  "npc": "Boss1",
+  "boss": "Press",
+  "boss_no": 8,
+  "lighting": "disabled",
+  "name": "大厅"
+}

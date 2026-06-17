@@ -1,0 +1,12 @@
+{
+  "parts": "Barr",
+  "map": "atogaki",
+  "bkType": 1,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "0",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "后记和著作权"
+}

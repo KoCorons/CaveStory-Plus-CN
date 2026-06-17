@@ -1,0 +1,12 @@
+{
+  "parts": "Store",
+  "map": "Stage7-D",
+  "bkType": 1,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Maze2",
+  "boss": "Maze",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "看守室"
+}

@@ -1,0 +1,12 @@
+{
+  "parts": "Weed",
+  "map": "Town6",
+  "bkType": 0,
+  "back": "bkForest",
+  "back_water": "bkForest",
+  "npc": "Guest3",
+  "boss": "Bllg",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "蛙之村落"
+}

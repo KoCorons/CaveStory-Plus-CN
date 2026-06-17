@@ -1,0 +1,12 @@
+{
+  "parts": "Sea",
+  "map": "Apache",
+  "bkType": 7,
+  "back": "bkFog",
+  "back_water": "bkFog",
+  "npc": "All2",
+  "boss": "Apache",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "海域"
+}

@@ -1,0 +1,12 @@
+{
+  "parts": "Pens",
+  "map": "Home9",
+  "bkType": 1,
+  "back": "bkForest",
+  "back_water": "bkForest",
+  "npc": "Guest",
+  "boss": "BllgP",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "魔女的家"
+}

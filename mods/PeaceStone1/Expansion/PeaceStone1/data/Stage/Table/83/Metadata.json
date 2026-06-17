@@ -1,0 +1,12 @@
+{
+  "parts": "White",
+  "map": "Boss3",
+  "bkType": 1,
+  "back": "bkBlue",
+  "back_water": "bkBlue",
+  "npc": "0",
+  "boss": "Dr",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "博士的房间"
+}

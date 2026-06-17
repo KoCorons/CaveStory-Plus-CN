@@ -1,0 +1,12 @@
+{
+  "parts": "Store",
+  "map": "Stage7-C",
+  "bkType": 1,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Maze2",
+  "boss": "Crab",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "武器库"
+}

@@ -1,0 +1,12 @@
+{
+  "parts": "Sea",
+  "map": "Gaudi4",
+  "bkType": 7,
+  "back": "bkFog",
+  "back_water": "bkFog",
+  "npc": "Maze",
+  "boss": "Cent",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "高第城４"
+}

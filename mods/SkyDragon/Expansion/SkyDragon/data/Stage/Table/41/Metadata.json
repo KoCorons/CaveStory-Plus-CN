@@ -1,0 +1,12 @@
+{
+  "parts": "Hell",
+  "map": "hiryu4",
+  "bkType": 1,
+  "back": "bkGard",
+  "back_water": "bkGard",
+  "npc": "0",
+  "boss": "Cent",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "封印之间"
+}

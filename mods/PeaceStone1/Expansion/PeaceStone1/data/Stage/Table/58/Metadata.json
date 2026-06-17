@@ -1,0 +1,12 @@
+{
+  "parts": "Maze",
+  "map": "Tunnel6",
+  "bkType": 1,
+  "back": "bkMaze",
+  "back_water": "bkMaze",
+  "npc": "Maze",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "休息处"
+}

@@ -1,0 +1,12 @@
+{
+  "parts": "Sand",
+  "map": "Prefa",
+  "bkType": 1,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Moon",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "避暑屋"
+}

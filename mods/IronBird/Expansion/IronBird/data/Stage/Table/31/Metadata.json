@@ -1,0 +1,12 @@
+{
+  "parts": "hall",
+  "map": "Room4",
+  "bkType": 0,
+  "back": "bkRed",
+  "back_water": "bkRed",
+  "npc": "Guest",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "市民会馆"
+}

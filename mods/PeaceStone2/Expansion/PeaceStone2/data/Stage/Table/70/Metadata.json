@@ -1,0 +1,12 @@
+{
+  "parts": "Maze",
+  "map": "Omg",
+  "bkType": 2,
+  "back": "bkMaze",
+  "back_water": "bkMaze",
+  "npc": "Maze",
+  "boss": "Omg",
+  "boss_no": 1,
+  "lighting": "disabled",
+  "name": "工业地带的地下"
+}

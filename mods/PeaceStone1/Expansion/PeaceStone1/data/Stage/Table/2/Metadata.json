@@ -1,0 +1,12 @@
+{
+  "parts": "Pens",
+  "map": "Qoute2",
+  "bkType": 1,
+  "back": "bkBlue",
+  "back_water": "bkBlue",
+  "npc": "Sand",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "库特的地下室"
+}

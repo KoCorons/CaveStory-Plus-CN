@@ -1,0 +1,12 @@
+{
+  "parts": "Maze",
+  "map": "X",
+  "bkType": 0,
+  "back": "bkFog",
+  "back_water": "bkFog",
+  "npc": "Maze",
+  "boss": "X",
+  "boss_no": 3,
+  "lighting": "disabled",
+  "name": "山脚下的工业地带"
+}

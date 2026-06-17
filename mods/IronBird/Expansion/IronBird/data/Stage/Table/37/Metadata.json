@@ -1,0 +1,12 @@
+{
+  "parts": "Sand",
+  "map": "Stage3-E",
+  "bkType": 1,
+  "back": "bkGard",
+  "back_water": "bkGard",
+  "npc": "0",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "出口？"
+}

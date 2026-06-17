@@ -1,0 +1,12 @@
+{
+  "parts": "Death",
+  "map": "Death4",
+  "bkType": 2,
+  "back": "bkMaze",
+  "back_water": "bkMaze",
+  "npc": "0",
+  "boss": "Ravil",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "陷阱"
+}

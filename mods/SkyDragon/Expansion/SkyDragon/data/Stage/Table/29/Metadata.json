@@ -1,0 +1,12 @@
+{
+  "parts": "Mimi2",
+  "map": "home7",
+  "bkType": 1,
+  "back": "bkMoon2",
+  "back_water": "bkMoon2",
+  "npc": "Guest",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Unnamed"
+}

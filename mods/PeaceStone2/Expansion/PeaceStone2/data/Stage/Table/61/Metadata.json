@@ -1,0 +1,12 @@
+{
+  "parts": "Jungle",
+  "map": "Mt1",
+  "bkType": 0,
+  "back": "bkFog",
+  "back_water": "bkFog",
+  "npc": "All",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "林间小路"
+}

@@ -1,0 +1,12 @@
+{
+  "parts": "Pens",
+  "map": "Home12-A",
+  "bkType": 0,
+  "back": "bkSea",
+  "back_water": "bkSea",
+  "npc": "Guest2",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "驻在所（派出所）"
+}

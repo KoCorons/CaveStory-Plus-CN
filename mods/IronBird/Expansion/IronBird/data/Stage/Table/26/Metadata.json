@@ -1,0 +1,12 @@
+{
+  "parts": "Weed",
+  "map": "Stage2",
+  "bkType": 0,
+  "back": "bkForest",
+  "back_water": "bkForest",
+  "npc": "Weed",
+  "boss": "Bllg",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "魔女之森"
+}

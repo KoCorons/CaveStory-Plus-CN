@@ -1,0 +1,12 @@
+{
+  "parts": "Maze",
+  "map": "Tunnel7",
+  "bkType": 1,
+  "back": "bkMaze",
+  "back_water": "bkMaze",
+  "npc": "0",
+  "boss": "Bllg",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "隧道(３)"
+}

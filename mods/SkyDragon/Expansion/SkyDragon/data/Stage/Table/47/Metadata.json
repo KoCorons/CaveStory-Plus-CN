@@ -1,0 +1,12 @@
+{
+  "parts": "White",
+  "map": "tizyou",
+  "bkType": 7,
+  "back": "bkFog",
+  "back_water": "bkFog",
+  "npc": "Ravil",
+  "boss": "0",
+  "boss_no": 4,
+  "lighting": "disabled",
+  "name": "地上"
+}

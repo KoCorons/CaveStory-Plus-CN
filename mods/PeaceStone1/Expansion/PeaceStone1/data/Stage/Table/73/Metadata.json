@@ -1,0 +1,12 @@
+{
+  "parts": "Sea",
+  "map": "Bottom",
+  "bkType": 3,
+  "back": "bkWater",
+  "back_water": "bkWater",
+  "npc": "All",
+  "boss": "Almo1",
+  "boss_no": 4,
+  "lighting": "disabled",
+  "name": "深海底"
+}

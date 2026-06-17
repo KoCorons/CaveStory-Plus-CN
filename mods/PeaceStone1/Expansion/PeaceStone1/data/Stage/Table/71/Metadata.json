@@ -1,0 +1,12 @@
+{
+  "parts": "Eggs",
+  "map": "Fridge2",
+  "bkType": 1,
+  "back": "bkGard",
+  "back_water": "bkGard",
+  "npc": "Cemet",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "冷藏库？"
+}

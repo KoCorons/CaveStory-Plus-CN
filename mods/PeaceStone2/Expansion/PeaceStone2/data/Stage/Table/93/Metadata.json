@@ -1,0 +1,12 @@
+{
+  "parts": "Fall",
+  "map": "Stone2",
+  "bkType": 6,
+  "back": "bkFog",
+  "back_water": "bkFog",
+  "npc": "Eagle",
+  "boss": "Eagle",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "上空"
+}

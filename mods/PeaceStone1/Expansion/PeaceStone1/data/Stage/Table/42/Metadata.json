@@ -1,0 +1,12 @@
+{
+  "parts": "Gard",
+  "map": "Prison",
+  "bkType": 2,
+  "back": "bkGard",
+  "back_water": "bkGard",
+  "npc": "Ravil",
+  "boss": "Ravil",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "地下监狱"
+}

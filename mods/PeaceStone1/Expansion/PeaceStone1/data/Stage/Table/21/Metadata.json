@@ -1,0 +1,12 @@
+{
+  "parts": "Weed",
+  "map": "Weed1",
+  "bkType": 1,
+  "back": "bkBlue",
+  "back_water": "bkBlue",
+  "npc": "Eggs1",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "昏暗的草原"
+}

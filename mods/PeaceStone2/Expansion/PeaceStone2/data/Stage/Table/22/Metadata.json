@@ -1,0 +1,12 @@
+{
+  "parts": "Pens",
+  "map": "Jenka",
+  "bkType": 4,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Ravil",
+  "boss": "Bllg",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "珍卡的家"
+}

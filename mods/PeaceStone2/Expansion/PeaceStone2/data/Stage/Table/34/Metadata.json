@@ -1,0 +1,12 @@
+{
+  "parts": "Weed",
+  "map": "Death1",
+  "bkType": 1,
+  "back": "bkGray",
+  "back_water": "bkGray",
+  "npc": "Weed",
+  "boss": "Frog",
+  "boss_no": 2,
+  "lighting": "disabled",
+  "name": "要塞遗迹"
+}

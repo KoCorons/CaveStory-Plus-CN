@@ -1,0 +1,12 @@
+{
+  "parts": "Mimi",
+  "map": "Road5",
+  "bkType": 0,
+  "back": "bkForest",
+  "back_water": "bkForest",
+  "npc": "Weed",
+  "boss": "Cent",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "森林的入口"
+}

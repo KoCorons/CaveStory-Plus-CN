@@ -1,0 +1,12 @@
+{
+  "parts": "Mimi",
+  "map": "Road12",
+  "bkType": 0,
+  "back": "bkSky3",
+  "back_water": "bkSky3",
+  "npc": "0",
+  "boss": "Dragon",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "水岸（泉）"
+}

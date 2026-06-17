@@ -1,0 +1,12 @@
+{
+  "parts": "Hell",
+  "map": "g",
+  "bkType": 4,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Hell",
+  "boss": "Hell",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "岛屿的下层 G"
+}

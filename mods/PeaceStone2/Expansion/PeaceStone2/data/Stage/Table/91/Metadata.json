@@ -1,0 +1,12 @@
+{
+  "parts": "Sea",
+  "map": "Step",
+  "bkType": 0,
+  "back": "bkFog",
+  "back_water": "bkFog",
+  "npc": "0",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "岸边"
+}

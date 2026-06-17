@@ -1,0 +1,12 @@
+{
+  "parts": "Mimi",
+  "map": "Road4",
+  "bkType": 0,
+  "back": "bkSky",
+  "back_water": "bkSky",
+  "npc": "Weed",
+  "boss": "Bllg",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "稻草街"
+}

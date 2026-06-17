@@ -1,0 +1,12 @@
+{
+  "parts": "Mimi",
+  "map": "Ninja",
+  "bkType": 7,
+  "back": "bkFog",
+  "back_water": "bkFog",
+  "npc": "Guest",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "三个月前"
+}

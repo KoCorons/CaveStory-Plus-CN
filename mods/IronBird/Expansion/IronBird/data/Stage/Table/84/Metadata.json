@@ -1,0 +1,12 @@
+{
+  "parts": "River",
+  "map": "Stage8-D",
+  "bkType": 5,
+  "back": "bkGreen",
+  "back_water": "bkGreen",
+  "npc": "Stream",
+  "boss": "IronH",
+  "boss_no": 5,
+  "lighting": "disabled",
+  "name": "地下水脉"
+}

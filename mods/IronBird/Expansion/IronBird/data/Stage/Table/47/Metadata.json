@@ -1,0 +1,12 @@
+{
+  "parts": "Almond",
+  "map": "Stage4",
+  "bkType": 3,
+  "back": "bkWater",
+  "back_water": "bkWater",
+  "npc": "Weed",
+  "boss": "Cent",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "遗迹"
+}

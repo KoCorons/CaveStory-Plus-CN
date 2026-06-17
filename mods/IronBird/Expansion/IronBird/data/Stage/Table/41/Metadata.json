@@ -1,0 +1,12 @@
+{
+  "parts": "White",
+  "map": "Town4",
+  "bkType": 0,
+  "back": "bkSea",
+  "back_water": "bkSea",
+  "npc": "Guest2",
+  "boss": "Bllg",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "海滨之城"
+}

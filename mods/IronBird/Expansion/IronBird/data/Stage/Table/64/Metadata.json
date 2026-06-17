@@ -1,0 +1,12 @@
+{
+  "parts": "Sand",
+  "map": "Stage6-E",
+  "bkType": 1,
+  "back": "bkGard",
+  "back_water": "bkGard",
+  "npc": "Ravil",
+  "boss": "Ravil",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "地下通路"
+}

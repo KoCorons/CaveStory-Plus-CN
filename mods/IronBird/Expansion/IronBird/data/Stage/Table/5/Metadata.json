@@ -1,0 +1,12 @@
+{
+  "parts": "Mimi",
+  "map": "Town1-A",
+  "bkType": 7,
+  "back": "bkFog",
+  "back_water": "bkFog",
+  "npc": "Guest",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "咪咪机器人村"
+}

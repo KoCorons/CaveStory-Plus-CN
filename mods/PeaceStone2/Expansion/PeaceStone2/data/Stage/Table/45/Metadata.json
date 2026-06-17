@@ -1,0 +1,12 @@
+{
+  "parts": "Mimi",
+  "map": "Gaudi3",
+  "bkType": 1,
+  "back": "bkBlue",
+  "back_water": "bkBlue",
+  "npc": "Guest",
+  "boss": "Cent",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "高第城３"
+}

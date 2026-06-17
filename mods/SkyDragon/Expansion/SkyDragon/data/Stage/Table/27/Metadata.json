@@ -1,0 +1,12 @@
+{
+  "parts": "Cent",
+  "map": "hiryu2",
+  "bkType": 1,
+  "back": "bkRed2",
+  "back_water": "bkRed2",
+  "npc": "Guest",
+  "boss": "Cent",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "飞龙沉睡的地方"
+}

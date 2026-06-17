@@ -1,0 +1,12 @@
+{
+  "parts": "Pens",
+  "map": "Home6-B",
+  "bkType": 1,
+  "back": "bkSky",
+  "back_water": "bkSky",
+  "npc": "Guest",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "多隆子的家 二楼"
+}

@@ -1,0 +1,12 @@
+{
+  "parts": "Fall",
+  "map": "Heri",
+  "bkType": 0,
+  "back": "bkHeri",
+  "back_water": "bkHeri",
+  "npc": "0",
+  "boss": "Heri",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "直升飞机着陆"
+}

@@ -1,0 +1,12 @@
+{
+  "parts": "Death",
+  "map": "Death3",
+  "bkType": 1,
+  "back": "bkMaze",
+  "back_water": "bkMaze",
+  "npc": "All",
+  "boss": "Death",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "机械要塞"
+}

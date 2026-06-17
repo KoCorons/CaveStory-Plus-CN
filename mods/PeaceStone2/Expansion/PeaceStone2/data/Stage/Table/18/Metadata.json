@@ -1,0 +1,12 @@
+{
+  "parts": "Eggs",
+  "map": "Warehouse",
+  "bkType": 2,
+  "back": "bkGard",
+  "back_water": "bkGard",
+  "npc": "Guest",
+  "boss": "Bllg",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "大仓库"
+}

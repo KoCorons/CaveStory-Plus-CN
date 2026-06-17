@@ -1,0 +1,12 @@
+{
+  "parts": "Cave",
+  "map": "Road2-A",
+  "bkType": 1,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Guest",
+  "boss": "Bllg",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "秘密通道"
+}

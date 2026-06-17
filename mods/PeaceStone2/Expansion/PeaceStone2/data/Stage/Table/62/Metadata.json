@@ -1,0 +1,12 @@
+{
+  "parts": "White",
+  "map": "Press",
+  "bkType": 0,
+  "back": "bkFog",
+  "back_water": "bkFog",
+  "npc": "All",
+  "boss": "Press",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "突压城"
+}

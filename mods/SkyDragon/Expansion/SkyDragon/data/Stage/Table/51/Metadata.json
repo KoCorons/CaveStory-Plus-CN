@@ -1,0 +1,12 @@
+{
+  "parts": "White",
+  "map": "1kai",
+  "bkType": 7,
+  "back": "bkFog",
+  "back_water": "bkFog",
+  "npc": "Sand",
+  "boss": "Omg",
+  "boss_no": 1,
+  "lighting": "disabled",
+  "name": "神殿1階"
+}

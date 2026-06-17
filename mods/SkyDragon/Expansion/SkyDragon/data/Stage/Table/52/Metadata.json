@@ -1,0 +1,12 @@
+{
+  "parts": "White",
+  "map": "2kai",
+  "bkType": 7,
+  "back": "bkFog",
+  "back_water": "bkFog",
+  "npc": "Toro",
+  "boss": "Ravil",
+  "boss_no": 1,
+  "lighting": "disabled",
+  "name": "神殿2階"
+}

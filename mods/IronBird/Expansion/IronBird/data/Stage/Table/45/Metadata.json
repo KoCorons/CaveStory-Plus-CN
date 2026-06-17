@@ -1,0 +1,12 @@
+{
+  "parts": "Cave",
+  "map": "Home12-B",
+  "bkType": 1,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Guest2",
+  "boss": "Bllg",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "牢房"
+}

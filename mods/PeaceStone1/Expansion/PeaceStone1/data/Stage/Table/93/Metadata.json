@@ -1,0 +1,12 @@
+{
+  "parts": "Hell2",
+  "map": "Stone2",
+  "bkType": 2,
+  "back": "bkRed",
+  "back_water": "bkRed",
+  "npc": "Hell",
+  "boss": "Stone",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "石之间"
+}

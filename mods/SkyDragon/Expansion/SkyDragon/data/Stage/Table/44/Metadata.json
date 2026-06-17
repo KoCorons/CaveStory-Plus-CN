@@ -1,0 +1,12 @@
+{
+  "parts": "Hell",
+  "map": "sinden",
+  "bkType": 1,
+  "back": "bkRed",
+  "back_water": "bkRed",
+  "npc": "Cent",
+  "boss": "Cent",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Dororu的神殿"
+}

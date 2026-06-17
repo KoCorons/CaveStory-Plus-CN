@@ -1,0 +1,12 @@
+{
+  "parts": "Maze",
+  "map": "Stage7",
+  "bkType": 1,
+  "back": "bkMaze",
+  "back_water": "bkMaze",
+  "npc": "Maze",
+  "boss": "X",
+  "boss_no": 3,
+  "lighting": "disabled",
+  "name": "高第之国"
+}

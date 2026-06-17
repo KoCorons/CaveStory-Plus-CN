@@ -1,0 +1,12 @@
+{
+  "parts": "Mimi",
+  "map": "Road6",
+  "bkType": 0,
+  "back": "bkSky",
+  "back_water": "bkSky",
+  "npc": "Plant",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "花街"
+}

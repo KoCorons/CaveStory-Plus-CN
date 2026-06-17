@@ -1,0 +1,12 @@
+{
+  "parts": "Mimi2",
+  "map": "end3",
+  "bkType": 1,
+  "back": "bkFog2",
+  "back_water": "bkFog2",
+  "npc": "Guest",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "Unnamed"
+}

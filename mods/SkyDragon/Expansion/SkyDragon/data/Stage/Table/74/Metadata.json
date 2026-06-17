@@ -1,0 +1,12 @@
+{
+  "parts": "Maze",
+  "map": "\\empty",
+  "bkType": 1,
+  "back": "BkMaze",
+  "back_water": "BkMaze",
+  "npc": "Guest",
+  "boss": "Maze",
+  "boss_no": 3,
+  "lighting": "disabled",
+  "name": "Nothing"
+}

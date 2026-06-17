@@ -1,0 +1,12 @@
+{
+  "parts": "Eggs",
+  "map": "Stage9-C",
+  "bkType": 0,
+  "back": "bkGreen",
+  "back_water": "bkGreen",
+  "npc": "Guest3",
+  "boss": "TwinD",
+  "boss_no": 6,
+  "lighting": "disabled",
+  "name": "空房间"
+}

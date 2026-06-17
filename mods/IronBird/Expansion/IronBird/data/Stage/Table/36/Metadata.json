@@ -1,0 +1,12 @@
+{
+  "parts": "Sand",
+  "map": "Stage3-D",
+  "bkType": 1,
+  "back": "bkGard",
+  "back_water": "bkGard",
+  "npc": "Sand",
+  "boss": "Cent",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "牢笼 第二层"
+}

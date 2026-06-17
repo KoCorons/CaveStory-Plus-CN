@@ -1,0 +1,12 @@
+{
+  "parts": "Mimi",
+  "map": "saikutu",
+  "bkType": 1,
+  "back": "bkGard2",
+  "back_water": "bkGard2",
+  "npc": "Eggs1",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "采矿场"
+}

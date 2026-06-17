@@ -1,0 +1,12 @@
+{
+  "parts": "Mimi",
+  "map": "Town2-B",
+  "bkType": 0,
+  "back": "bkSky",
+  "back_water": "bkSky",
+  "npc": "Guest",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "村门口"
+}

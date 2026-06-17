@@ -1,0 +1,12 @@
+{
+  "parts": "Sand2",
+  "map": "Sand2",
+  "bkType": 0,
+  "back": "bkFog",
+  "back_water": "bkFog",
+  "npc": "Creak",
+  "boss": "Heri",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "沙漠"
+}

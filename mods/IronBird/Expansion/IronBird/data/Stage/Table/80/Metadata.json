@@ -1,0 +1,12 @@
+{
+  "parts": "Pens",
+  "map": "Home17",
+  "bkType": 0,
+  "back": "bkForest",
+  "back_water": "bkForest",
+  "npc": "Guest3",
+  "boss": "Bllg",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "青蛙堂"
+}

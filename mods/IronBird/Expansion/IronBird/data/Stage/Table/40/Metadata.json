@@ -1,0 +1,12 @@
+{
+  "parts": "Mimi",
+  "map": "Town3M",
+  "bkType": 0,
+  "back": "bkSky",
+  "back_water": "bkSky",
+  "npc": "Guest2",
+  "boss": "Bllg",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "草原镇"
+}

@@ -1,0 +1,12 @@
+{
+  "parts": "Almond",
+  "map": "Stage4-D",
+  "bkType": 3,
+  "back": "bkWater",
+  "back_water": "bkWater",
+  "npc": "0",
+  "boss": "Almo1",
+  "boss_no": 4,
+  "lighting": "disabled",
+  "name": "大门之间（扉の間）"
+}
