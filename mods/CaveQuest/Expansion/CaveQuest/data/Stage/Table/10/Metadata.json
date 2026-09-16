@@ -1,0 +1,13 @@
+{
+  "parts": "River",
+  "map": "stage1-6[9]",
+  "bkType": 2,
+  "back": "bkGreen",
+  "back_water": "bkGreen",
+  "npc": "Weed",
+  "boss": "0",
+  "boss_no": 1,
+  "lighting": "disabled",
+  "name": "水路",
+  "camera": "normal"
+}

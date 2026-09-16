@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 4,
   "lighting": "disabled",
-  "name": "地上"
+  "name": "地上",
+  "camera": "normal"
 }

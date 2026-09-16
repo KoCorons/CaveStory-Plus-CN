@@ -1,0 +1,13 @@
+{
+  "parts": "Mirror",
+  "map": "Frame",
+  "bkType": 7,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Eggs2",
+  "boss": "TwinD",
+  "boss_no": 6,
+  "lighting": "disabled",
+  "name": "バンダースナッチの洞穴",
+  "camera": "normal"
+}

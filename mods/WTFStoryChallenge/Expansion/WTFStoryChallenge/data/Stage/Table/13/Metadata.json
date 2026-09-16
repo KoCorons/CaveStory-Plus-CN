@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "enabled",
-  "name": "下层网段"
+  "name": "下层网段",
+  "camera": "normal"
 }

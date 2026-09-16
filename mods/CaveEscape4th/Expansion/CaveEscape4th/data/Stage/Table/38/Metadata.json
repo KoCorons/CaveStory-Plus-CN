@@ -1,0 +1,13 @@
+{
+  "parts": "Jail",
+  "map": "Bottom",
+  "bkType": 1,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Red2",
+  "boss": "Red2",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "财宝洞窟",
+  "camera": "normal"
+}

@@ -8,5 +8,6 @@
   "boss": "Omg",
   "boss_no": 1,
   "lighting": "disabled",
-  "name": "神殿1階"
+  "name": "神殿1階",
+  "camera": "normal"
 }

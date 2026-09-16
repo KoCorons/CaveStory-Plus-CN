@@ -8,5 +8,6 @@
   "boss": "Pig",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "废屋"
+  "name": "废屋",
+  "camera": "normal"
 }

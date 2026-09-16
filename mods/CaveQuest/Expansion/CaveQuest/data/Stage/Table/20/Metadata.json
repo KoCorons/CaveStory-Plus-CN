@@ -1,0 +1,13 @@
+{
+  "parts": "Maze",
+  "map": "stage[19]",
+  "bkType": 1,
+  "back": "bkRed",
+  "back_water": "bkRed",
+  "npc": "Maze",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "被遗忘的迷宫",
+  "camera": "normal"
+}

@@ -8,5 +8,6 @@
   "boss": "Dark",
   "boss_no": 1,
   "lighting": "disabled",
-  "name": "妖怪的住处"
+  "name": "妖怪的住处",
+  "camera": "normal"
 }

@@ -8,5 +8,6 @@
   "boss": "Press",
   "boss_no": 8,
   "lighting": "disabled",
-  "name": "大厅"
+  "name": "大厅",
+  "camera": "normal"
 }

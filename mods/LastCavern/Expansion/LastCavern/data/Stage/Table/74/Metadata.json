@@ -8,5 +8,6 @@
   "boss": "Maze",
   "boss_no": 3,
   "lighting": "disabled",
-  "name": "Nothing"
+  "name": "Nothing",
+  "camera": "normal"
 }

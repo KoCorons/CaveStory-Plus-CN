@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "灰尘通道"
+  "name": "灰尘通道",
+  "camera": "normal"
 }

@@ -1,0 +1,13 @@
+{
+  "parts": "Pens",
+  "map": "Town",
+  "bkType": 0,
+  "back": "bkBlue",
+  "back_water": "bkBlue",
+  "npc": "Guest",
+  "boss": "Curly",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "村民的家",
+  "camera": "normal"
+}

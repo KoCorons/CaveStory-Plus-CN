@@ -8,5 +8,6 @@
   "boss": "Sand",
   "boss_no": 2,
   "lighting": "disabled",
-  "name": "迷宫Ｃ"
+  "name": "迷宫 C",
+  "camera": "normal"
 }

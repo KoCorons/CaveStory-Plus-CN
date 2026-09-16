@@ -1,12 +1,13 @@
 {
-  "parts" : "White",
-  "map" : "Oside2",
-  "bkType" : 6,
-  "back" : "bkFog",
+  "parts": "White",
+  "map": "Oside2",
+  "bkType": 6,
+  "back": "bkFog",
   "back_water": "bkFog",
-  "npc" : "Maze",
-  "boss" : "X",
-  "boss_no" : 3,
+  "npc": "Maze",
+  "boss": "X",
+  "boss_no": 3,
   "lighting": "disabled",
-  "name" : "外壁·里"
+  "name": "外壁·里",
+  "camera": "normal"
 }

@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "海滨之城"
+  "name": "海滨之城",
+  "camera": "normal"
 }

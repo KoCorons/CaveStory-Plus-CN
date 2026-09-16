@@ -7,6 +7,10 @@
 + PeaceStone1
 + PeaceStone2
 + SkyDragon
+//解密
++ CaveEscape4th
+//爽砍
++ CaveQuest
 //硬核
 + DoubleHell
 //竞速

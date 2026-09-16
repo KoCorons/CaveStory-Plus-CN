@@ -1,0 +1,13 @@
+{
+  "parts": "Desert",
+  "map": "Dark01",
+  "bkType": 7,
+  "back": "bksun2",
+  "back_water": "bksun2",
+  "npc": "Weed",
+  "boss": "0",
+  "boss_no": 7,
+  "lighting": "disabled",
+  "name": "遗迹阳台",
+  "camera": "normal"
+}

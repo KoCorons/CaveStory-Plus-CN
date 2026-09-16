@@ -8,5 +8,6 @@
   "boss": "Maze",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "青蛙医院"
+  "name": "青蛙医院",
+  "camera": "normal"
 }

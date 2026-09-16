@@ -8,5 +8,6 @@
   "boss": "Arcadia",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "圣域地上三阶"
+  "name": "圣域地上三阶",
+  "camera": "normal"
 }

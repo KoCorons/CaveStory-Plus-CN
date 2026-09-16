@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "文化馆"
+  "name": "文化馆",
+  "camera": "normal"
 }

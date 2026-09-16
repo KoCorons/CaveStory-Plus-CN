@@ -8,5 +8,6 @@
   "boss": "Remy",
   "boss_no": 2,
   "lighting": "disabled",
-  "name": "餐厅尽头"
+  "name": "餐厅尽头",
+  "camera": "normal"
 }

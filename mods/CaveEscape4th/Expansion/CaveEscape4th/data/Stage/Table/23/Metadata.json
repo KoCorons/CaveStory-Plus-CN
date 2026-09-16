@@ -1,0 +1,13 @@
+{
+  "parts": "Jail",
+  "map": "Weed2",
+  "bkType": 1,
+  "back": "bkBlack",
+  "back_water": "bkBlack",
+  "npc": "Red",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "似曾相识的洞窟",
+  "camera": "normal"
+}

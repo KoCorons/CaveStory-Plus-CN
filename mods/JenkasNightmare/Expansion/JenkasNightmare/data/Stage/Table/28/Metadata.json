@@ -8,5 +8,6 @@
   "boss": "Suto",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "旧仓库"
+  "name": "旧仓库",
+  "camera": "normal"
 }

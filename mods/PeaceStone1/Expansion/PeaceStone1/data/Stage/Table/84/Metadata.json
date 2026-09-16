@@ -8,5 +8,6 @@
   "boss": "Almo2",
   "boss_no": 7,
   "lighting": "disabled",
-  "name": "黑暗大厅"
+  "name": "黑暗大厅",
+  "camera": "normal"
 }

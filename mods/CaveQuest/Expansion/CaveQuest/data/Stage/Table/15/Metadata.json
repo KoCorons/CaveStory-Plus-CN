@@ -1,0 +1,13 @@
+{
+  "parts": "White",
+  "map": "stage1-6-6[14]",
+  "bkType": 4,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Miza",
+  "boss": "Almo2",
+  "boss_no": 7,
+  "lighting": "disabled",
+  "name": "×",
+  "camera": "normal"
+}

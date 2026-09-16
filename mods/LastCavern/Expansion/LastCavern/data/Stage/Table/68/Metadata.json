@@ -8,5 +8,6 @@
   "boss": "Almo2",
   "boss_no": 7,
   "lighting": "disabled",
-  "name": "Black Space"
+  "name": "Black Space",
+  "camera": "normal"
 }

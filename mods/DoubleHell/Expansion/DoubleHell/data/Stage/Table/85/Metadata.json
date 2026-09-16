@@ -8,5 +8,6 @@
   "boss": "Press",
   "boss_no": 8,
   "lighting": "disabled",
-  "name": "Passage?"
+  "name": "Passage?",
+  "camera": "normal"
 }

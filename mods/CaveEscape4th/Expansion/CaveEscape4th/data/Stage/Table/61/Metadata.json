@@ -1,0 +1,13 @@
+{
+  "parts": "Kinoko",
+  "map": "random01",
+  "bkType": 1,
+  "back": "bkGard",
+  "back_water": "bkGard",
+  "npc": "Large",
+  "boss": "Small",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "最深的空洞",
+  "camera": "normal"
+}

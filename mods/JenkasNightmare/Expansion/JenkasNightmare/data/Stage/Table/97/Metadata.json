@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "圣域地上二阶"
+  "name": "圣域地上二阶",
+  "camera": "normal"
 }

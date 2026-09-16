@@ -8,5 +8,6 @@
   "boss": "Cent",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "地下水路"
+  "name": "地下水路",
+  "camera": "normal"
 }

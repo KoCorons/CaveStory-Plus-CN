@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "蛋之检查室"
+  "name": "蛋之检查室",
+  "camera": "normal"
 }

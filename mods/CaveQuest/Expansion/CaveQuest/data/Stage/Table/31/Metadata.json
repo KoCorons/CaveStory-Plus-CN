@@ -1,0 +1,13 @@
+{
+  "parts": "River",
+  "map": "\\empty",
+  "bkType": 5,
+  "back": "BkBlue",
+  "back_water": "BkBlue",
+  "npc": "Stream",
+  "boss": "IronH",
+  "boss_no": 5,
+  "lighting": "disabled",
+  "name": "戝摦柆",
+  "camera": "normal"
+}

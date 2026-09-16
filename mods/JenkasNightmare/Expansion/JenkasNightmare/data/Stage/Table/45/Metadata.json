@@ -8,5 +8,6 @@
   "boss": "X",
   "boss_no": 3,
   "lighting": "disabled",
-  "name": "迷宫Ｗ"
+  "name": "迷宫 W",
+  "camera": "normal"
 }

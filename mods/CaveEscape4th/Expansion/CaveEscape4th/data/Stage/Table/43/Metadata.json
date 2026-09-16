@@ -1,0 +1,13 @@
+{
+  "parts": "Sand",
+  "map": "Sand",
+  "bkType": 1,
+  "back": "bkGreen",
+  "back_water": "bkGreen",
+  "npc": "Sand",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "遗迹的连接通道",
+  "camera": "normal"
+}

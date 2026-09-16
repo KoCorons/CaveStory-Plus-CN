@@ -8,5 +8,6 @@
   "boss": "Miza",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "Throne Room"
+  "name": "Throne Room",
+  "camera": "normal"
 }

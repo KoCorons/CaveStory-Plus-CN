@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "大仓库"
+  "name": "大仓库",
+  "camera": "normal"
 }

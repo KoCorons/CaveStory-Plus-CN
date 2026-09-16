@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "守护者迷宫"
+  "name": "守护者迷宫",
+  "camera": "normal"
 }

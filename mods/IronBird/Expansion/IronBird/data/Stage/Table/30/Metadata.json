@@ -8,5 +8,6 @@
   "boss": "Cent",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "旅馆"
+  "name": "旅馆",
+  "camera": "normal"
 }

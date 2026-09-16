@@ -8,5 +8,6 @@
   "boss": "X",
   "boss_no": 3,
   "lighting": "disabled",
-  "name": "岛屿的下层 D"
+  "name": "岛屿的下层 D",
+  "camera": "normal"
 }

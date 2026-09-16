@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "村门口"
+  "name": "村门口",
+  "camera": "normal"
 }

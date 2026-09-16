@@ -8,5 +8,6 @@
   "boss": "TwinD",
   "boss_no": 6,
   "lighting": "disabled",
-  "name": "蛋 00"
+  "name": "蛋 00",
+  "camera": "normal"
 }

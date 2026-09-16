@@ -8,5 +8,6 @@
   "boss": "Miza",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "隐藏通道"
+  "name": "隐藏通道",
+  "camera": "normal"
 }

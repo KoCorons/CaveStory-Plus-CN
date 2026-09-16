@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "坂本家的屋顶"
+  "name": "坂本家的屋顶",
+  "camera": "normal"
 }

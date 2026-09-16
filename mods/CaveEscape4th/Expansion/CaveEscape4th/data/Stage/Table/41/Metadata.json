@@ -1,0 +1,13 @@
+{
+  "parts": "Weed",
+  "map": "House2",
+  "bkType": 1,
+  "back": "bkGreen",
+  "back_water": "bkGreen",
+  "npc": "0",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "连接通道底部",
+  "camera": "normal"
+}

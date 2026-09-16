@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "竖窟"
+  "name": "竖窟",
+  "camera": "normal"
 }

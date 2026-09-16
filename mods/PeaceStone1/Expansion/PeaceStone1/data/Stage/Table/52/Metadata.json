@@ -8,5 +8,6 @@
   "boss": "TwinD",
   "boss_no": 6,
   "lighting": "disabled",
-  "name": "隐藏宝库"
+  "name": "隐藏宝库",
+  "camera": "normal"
 }

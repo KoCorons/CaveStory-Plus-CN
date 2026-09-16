@@ -8,5 +8,6 @@
   "boss": "Ravil",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "林街"
+  "name": "林街",
+  "camera": "normal"
 }

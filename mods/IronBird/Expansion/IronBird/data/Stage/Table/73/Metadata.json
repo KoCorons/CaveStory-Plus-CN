@@ -8,5 +8,6 @@
   "boss": "Crab",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "武器库"
+  "name": "武器库",
+  "camera": "normal"
 }

@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "塔　中之台阶"
+  "name": "塔　中之台阶",
+  "camera": "normal"
 }

@@ -1,0 +1,13 @@
+{
+  "parts": "Eggs",
+  "map": "stage1-2[2]",
+  "bkType": 1,
+  "back": "bkGreen",
+  "back_water": "bkGreen",
+  "npc": "Eggs1",
+  "boss": "Ravil",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "蛋之回廊",
+  "camera": "normal"
+}

@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "隐藏小屋"
+  "name": "隐藏小屋",
+  "camera": "normal"
 }

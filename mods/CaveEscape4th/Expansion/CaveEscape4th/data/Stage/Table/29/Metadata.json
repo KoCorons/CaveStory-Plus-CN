@@ -1,0 +1,13 @@
+{
+  "parts": "Hell",
+  "map": "Secret_in",
+  "bkType": 1,
+  "back": "bkRed",
+  "back_water": "bkRed",
+  "npc": "0",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "閉ざされた聖域",
+  "camera": "normal"
+}

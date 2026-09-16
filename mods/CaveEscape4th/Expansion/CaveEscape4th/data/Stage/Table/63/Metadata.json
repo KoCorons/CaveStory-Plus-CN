@@ -1,0 +1,13 @@
+{
+  "parts": "Dark",
+  "map": "Ghost02",
+  "bkType": 1,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "0",
+  "boss": "Dark2",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "幽灵仓库",
+  "camera": "normal"
+}

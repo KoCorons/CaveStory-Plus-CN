@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "民房2"
+  "name": "民房2",
+  "camera": "normal"
 }

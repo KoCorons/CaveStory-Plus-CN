@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "小高丘"
+  "name": "小高丘",
+  "camera": "normal"
 }

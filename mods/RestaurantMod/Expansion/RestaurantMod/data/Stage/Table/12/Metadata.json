@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "网吧"
+  "name": "网吧",
+  "camera": "normal"
 }

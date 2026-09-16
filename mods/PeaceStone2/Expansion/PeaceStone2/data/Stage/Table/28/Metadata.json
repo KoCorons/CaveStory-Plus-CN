@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "高速公路(施工完毕)"
+  "name": "高速公路(施工完毕)",
+  "camera": "normal"
 }

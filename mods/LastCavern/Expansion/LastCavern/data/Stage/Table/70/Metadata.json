@@ -8,5 +8,6 @@
   "boss": "Heri",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "天台"
+  "name": "天台",
+  "camera": "normal"
 }

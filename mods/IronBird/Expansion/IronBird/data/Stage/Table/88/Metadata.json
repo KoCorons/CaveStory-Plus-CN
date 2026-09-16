@@ -8,5 +8,6 @@
   "boss": "Cent",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "蛋之保管所"
+  "name": "蛋之保管所",
+  "camera": "normal"
 }

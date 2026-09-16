@@ -8,5 +8,6 @@
   "boss": "Ninja3",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "最后的通路"
+  "name": "最后的通路",
+  "camera": "normal"
 }

@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "塔　地下一层"
+  "name": "塔　地下一层",
+  "camera": "normal"
 }

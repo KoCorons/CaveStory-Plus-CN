@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "楼梯"
+  "name": "楼梯",
+  "camera": "normal"
 }

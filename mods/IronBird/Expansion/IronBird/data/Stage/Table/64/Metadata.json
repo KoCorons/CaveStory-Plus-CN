@@ -8,5 +8,6 @@
   "boss": "Ravil",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "地下通路"
+  "name": "地下通路",
+  "camera": "normal"
 }

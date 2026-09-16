@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "草原镇"
+  "name": "草原镇",
+  "camera": "normal"
 }

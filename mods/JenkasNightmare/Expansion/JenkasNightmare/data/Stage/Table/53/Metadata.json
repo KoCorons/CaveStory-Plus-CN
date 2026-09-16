@@ -8,5 +8,6 @@
   "boss": "End",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "e_Miza"
+  "name": "e_Miza",
+  "camera": "normal"
 }

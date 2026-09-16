@@ -1,0 +1,13 @@
+{
+  "parts": "Oside",
+  "map": "\\empty",
+  "bkType": 6,
+  "back": "BkMoon",
+  "back_water": "BkMoon",
+  "npc": "Moon",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "奜暻",
+  "camera": "normal"
+}

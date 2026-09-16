@@ -8,5 +8,6 @@
   "boss": "Press",
   "boss_no": 8,
   "lighting": "disabled",
-  "name": "通路？"
+  "name": "通路？",
+  "camera": "normal"
 }

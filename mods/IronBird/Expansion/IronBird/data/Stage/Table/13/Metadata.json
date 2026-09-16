@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "资料室"
+  "name": "资料室",
+  "camera": "normal"
 }

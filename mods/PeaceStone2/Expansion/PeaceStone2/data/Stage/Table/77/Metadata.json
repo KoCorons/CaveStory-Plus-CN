@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "Mi panyon的家"
+  "name": "Mi panyon的家",
+  "camera": "normal"
 }

@@ -8,5 +8,6 @@
   "boss": "Dragon",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "飞龙保护基地前"
+  "name": "飞龙保护基地前",
+  "camera": "normal"
 }

@@ -8,5 +8,6 @@
   "boss": "Thunder",
   "boss_no": 7,
   "lighting": "disabled",
-  "name": "真正的根据地"
+  "name": "真正的根据地",
+  "camera": "normal"
 }

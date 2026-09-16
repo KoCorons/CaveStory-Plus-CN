@@ -8,5 +8,6 @@
   "boss": "Thief",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "杂货店"
+  "name": "杂货店",
+  "camera": "normal"
 }

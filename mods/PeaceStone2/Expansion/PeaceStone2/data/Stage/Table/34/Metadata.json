@@ -8,5 +8,6 @@
   "boss": "Frog",
   "boss_no": 2,
   "lighting": "disabled",
-  "name": "要塞遗迹"
+  "name": "要塞遗迹",
+  "camera": "normal"
 }

@@ -8,5 +8,6 @@
   "boss": "IronH",
   "boss_no": 5,
   "lighting": "disabled",
-  "name": "Main Artery"
+  "name": "Main Artery",
+  "camera": "normal"
 }

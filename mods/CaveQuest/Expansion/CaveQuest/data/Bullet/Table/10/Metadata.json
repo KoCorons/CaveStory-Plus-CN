@@ -1,0 +1,28 @@
+{
+  "__group_comment" : "04マシンガン",
+  "is_special" : false,
+  "damage" : 2,
+  "life" : 1,
+  "life_count" : 20,
+  "light_offset" : 0,
+  "bbits" : {
+    "BBITS_BREAKBLOCK" : false,
+    "BBITS_SHOWER" : false,
+    "BBITS_THROWMAP" : false,
+    "BBITS_REPLACE" : false,
+    "BBITS_NOBREAK" : false,
+    "BBITS_BLOCKBUSTER" : true,
+    "BBITS_BLOCKERASE" : false,
+    "BBITS_NOBANISH" : false
+  },
+  "enemyXL" : 2,
+  "enemyYL" : 2,
+  "blockXL" : 2,
+  "blockYL" : 2,
+  "view" : {
+    "front" : 8,
+    "top" : 8,
+    "back" : 8,
+    "bottom" : 8
+  }
+}

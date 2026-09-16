@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "青蛙堂"
+  "name": "青蛙堂",
+  "camera": "normal"
 }

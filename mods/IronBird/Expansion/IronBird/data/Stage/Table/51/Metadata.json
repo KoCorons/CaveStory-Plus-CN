@@ -8,5 +8,6 @@
   "boss": "Omg",
   "boss_no": 1,
   "lighting": "disabled",
-  "name": "遗迹之间（小房间）"
+  "name": "遗迹之间（小房间）",
+  "camera": "normal"
 }

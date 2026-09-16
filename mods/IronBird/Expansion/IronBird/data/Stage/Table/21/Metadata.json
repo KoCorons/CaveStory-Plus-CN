@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "多隆子的家 二楼"
+  "name": "多隆子的家 二楼",
+  "camera": "normal"
 }

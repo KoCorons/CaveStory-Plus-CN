@@ -8,5 +8,6 @@
   "boss": "Cent",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "废弃大厦"
+  "name": "废弃大厦",
+  "camera": "normal"
 }

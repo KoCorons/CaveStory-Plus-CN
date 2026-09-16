@@ -1,0 +1,13 @@
+{
+  "parts": "Gard",
+  "map": "\\empty",
+  "bkType": 1,
+  "back": "BkGard",
+  "back_water": "BkGard",
+  "npc": "Toro",
+  "boss": "Bllg",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "嵒嬫憅屔",
+  "camera": "normal"
+}

@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "驿站街"
+  "name": "驿站街",
+  "camera": "normal"
 }

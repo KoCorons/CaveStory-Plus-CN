@@ -1,0 +1,13 @@
+{
+  "parts": "Cent",
+  "map": "stage1-6-4[12]",
+  "bkType": 1,
+  "back": "bkGreen",
+  "back_water": "bkGreen",
+  "npc": "Guest",
+  "boss": "Cent",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "大农场",
+  "camera": "normal"
+}

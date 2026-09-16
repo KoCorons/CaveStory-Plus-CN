@@ -8,5 +8,6 @@
   "boss": "Pignon",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "蘑菇隐藏地"
+  "name": "蘑菇隐藏地",
+  "camera": "normal"
 }

@@ -8,5 +8,6 @@
   "boss": "Cent",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "Statue Chamber"
+  "name": "Statue Chamber",
+  "camera": "normal"
 }

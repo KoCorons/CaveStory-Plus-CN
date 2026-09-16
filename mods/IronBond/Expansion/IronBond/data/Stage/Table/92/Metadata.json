@@ -1,10 +1,11 @@
 {
-  "parts" : "River",
-  "map" : "River2",
-  "bkType" : 2,
-  "back" : "bkGreen",
-  "npc" : "Weed",
-  "boss" : "0",
-  "boss_no" : 0,
-  "name" : "水路·里"
+  "parts": "River",
+  "map": "River2",
+  "bkType": 2,
+  "back": "bkGreen",
+  "npc": "Weed",
+  "boss": "0",
+  "boss_no": 0,
+  "name": "水路·里",
+  "camera": "normal"
 }

@@ -8,5 +8,6 @@
   "boss": "IronH",
   "boss_no": 5,
   "lighting": "disabled",
-  "name": "地下水脉"
+  "name": "地下水脉",
+  "camera": "normal"
 }

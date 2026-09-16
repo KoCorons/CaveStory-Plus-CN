@@ -8,5 +8,6 @@
   "boss": "Toro",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "圣所·里"
+  "name": "圣所·里",
+  "camera": "normal"
 }

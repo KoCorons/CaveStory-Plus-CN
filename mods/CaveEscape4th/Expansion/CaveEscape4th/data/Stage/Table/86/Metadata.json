@@ -1,0 +1,13 @@
+{
+  "parts": "Hell",
+  "map": "Battle2",
+  "bkType": 1,
+  "back": "bkGard",
+  "back_water": "bkGard",
+  "npc": "Gaudi",
+  "boss": "Maze",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "摩天楼地上２阶",
+  "camera": "normal"
+}

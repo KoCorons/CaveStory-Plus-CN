@@ -1,0 +1,13 @@
+{
+  "parts": "Eggs",
+  "map": "\\empty",
+  "bkType": 1,
+  "back": "BkGreen",
+  "back_water": "BkGreen",
+  "npc": "Eggs2",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "僞儅僑夞楲丠",
+  "camera": "normal"
+}

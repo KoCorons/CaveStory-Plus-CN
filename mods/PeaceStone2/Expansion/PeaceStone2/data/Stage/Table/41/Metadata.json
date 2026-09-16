@@ -8,5 +8,6 @@
   "boss": "Cent",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "高第城１"
+  "name": "高第城１",
+  "camera": "normal"
 }

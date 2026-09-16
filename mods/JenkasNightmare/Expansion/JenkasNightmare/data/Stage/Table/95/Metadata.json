@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "正殿"
+  "name": "正殿",
+  "camera": "normal"
 }

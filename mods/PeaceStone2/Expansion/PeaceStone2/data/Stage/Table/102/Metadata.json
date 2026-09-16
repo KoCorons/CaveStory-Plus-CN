@@ -8,5 +8,6 @@
   "boss": "Creak2",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "塔　屋顶"
+  "name": "塔　屋顶",
+  "camera": "normal"
 }

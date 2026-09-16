@@ -8,5 +8,6 @@
   "boss": "Cent",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "巨大的深洞（大穴）"
+  "name": "巨大的深洞（大穴）",
+  "camera": "normal"
 }

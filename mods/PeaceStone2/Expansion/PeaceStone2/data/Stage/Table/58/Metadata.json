@@ -8,5 +8,6 @@
   "boss": "Apache",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "海域"
+  "name": "海域",
+  "camera": "normal"
 }

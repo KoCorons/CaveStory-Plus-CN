@@ -8,5 +8,6 @@
   "boss": "Curly",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "Sand Zone Residence"
+  "name": "Sand Zone Residence",
+  "camera": "normal"
 }

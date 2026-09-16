@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "神殿3階"
+  "name": "神殿3階",
+  "camera": "normal"
 }

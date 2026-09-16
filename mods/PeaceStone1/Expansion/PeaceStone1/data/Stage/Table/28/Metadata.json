@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "高速公路遗迹"
+  "name": "高速公路遗迹",
+  "camera": "normal"
 }

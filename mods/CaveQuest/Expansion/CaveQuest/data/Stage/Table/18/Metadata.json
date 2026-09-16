@@ -1,0 +1,13 @@
+{
+  "parts": "Fall",
+  "map": "stage1-6-9[17]",
+  "bkType": 1,
+  "back": "bkFall",
+  "back_water": "bkFall",
+  "npc": "Guest",
+  "boss": "Heri",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "落下",
+  "camera": "normal"
+}

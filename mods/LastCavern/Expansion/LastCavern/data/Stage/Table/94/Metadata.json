@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "废弃瞭望台"
+  "name": "废弃瞭望台",
+  "camera": "normal"
 }

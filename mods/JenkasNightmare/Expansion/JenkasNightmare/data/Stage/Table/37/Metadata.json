@@ -8,5 +8,6 @@
   "boss": "Sand",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "砂区"
+  "name": "砂区",
+  "camera": "normal"
 }

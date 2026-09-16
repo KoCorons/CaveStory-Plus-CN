@@ -1,0 +1,13 @@
+{
+  "parts": "Hell",
+  "map": "WB2",
+  "bkType": 7,
+  "back": "bkMoon",
+  "back_water": "bkMoon",
+  "npc": "Cemet",
+  "boss": "Cemet",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "激战摩天楼",
+  "camera": "normal"
+}

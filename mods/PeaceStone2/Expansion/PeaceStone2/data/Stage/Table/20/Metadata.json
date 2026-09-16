@@ -8,5 +8,6 @@
   "boss": "Omg",
   "boss_no": 1,
   "lighting": "disabled",
-  "name": "垃圾处理厂"
+  "name": "垃圾处理厂",
+  "camera": "normal"
 }

@@ -8,5 +8,6 @@
   "boss": "X",
   "boss_no": 3,
   "lighting": "disabled",
-  "name": "隧道(３)"
+  "name": "隧道(３)",
+  "camera": "normal"
 }

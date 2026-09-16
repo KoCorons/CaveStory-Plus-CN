@@ -8,5 +8,6 @@
   "boss": "Press",
   "boss_no": 8,
   "lighting": "disabled",
-  "name": "圣域地下三层"
+  "name": "圣域地下三层",
+  "camera": "normal"
 }

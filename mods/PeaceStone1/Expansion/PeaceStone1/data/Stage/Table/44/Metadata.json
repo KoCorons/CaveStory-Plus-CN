@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "第３传送室"
+  "name": "第３传送室",
+  "camera": "normal"
 }

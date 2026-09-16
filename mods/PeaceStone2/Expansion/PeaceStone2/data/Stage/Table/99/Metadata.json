@@ -8,5 +8,6 @@
   "boss": "Hornet2",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "塔　中之广场"
+  "name": "塔　中之广场",
+  "camera": "normal"
 }

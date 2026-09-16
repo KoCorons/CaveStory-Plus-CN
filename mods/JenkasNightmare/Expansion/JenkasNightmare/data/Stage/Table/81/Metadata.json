@@ -8,5 +8,6 @@
   "boss": "Cent",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "石像之间"
+  "name": "石像之间",
+  "camera": "normal"
 }

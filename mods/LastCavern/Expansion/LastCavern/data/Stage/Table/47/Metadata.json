@@ -8,5 +8,6 @@
   "boss": "Almo1",
   "boss_no": 4,
   "lighting": "disabled",
-  "name": "Core"
+  "name": "Core",
+  "camera": "normal"
 }

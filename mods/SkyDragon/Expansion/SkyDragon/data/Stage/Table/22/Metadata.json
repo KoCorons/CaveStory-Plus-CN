@@ -8,5 +8,6 @@
   "boss": "TwinD",
   "boss_no": 6,
   "lighting": "disabled",
-  "name": "岛屿的中枢 Y"
+  "name": "岛屿的中枢 Y",
+  "camera": "normal"
 }

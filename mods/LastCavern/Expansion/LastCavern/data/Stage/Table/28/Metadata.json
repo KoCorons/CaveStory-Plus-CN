@@ -8,5 +8,6 @@
   "boss": "Frog",
   "boss_no": 2,
   "lighting": "disabled",
-  "name": "Gum"
+  "name": "Gum",
+  "camera": "normal"
 }

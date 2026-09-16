@@ -8,5 +8,6 @@
   "boss": "Press",
   "boss_no": 8,
   "lighting": "disabled",
-  "name": "逝去的圣域"
+  "name": "逝去的圣域",
+  "camera": "normal"
 }

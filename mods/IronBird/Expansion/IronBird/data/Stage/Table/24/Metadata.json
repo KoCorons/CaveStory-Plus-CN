@@ -8,5 +8,6 @@
   "boss": "Cent",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "森林的入口"
+  "name": "森林的入口",
+  "camera": "normal"
 }

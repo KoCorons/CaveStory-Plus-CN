@@ -8,5 +8,6 @@
   "boss": "Maze",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "高弟的大图书馆"
+  "name": "高弟的大图书馆",
+  "camera": "normal"
 }

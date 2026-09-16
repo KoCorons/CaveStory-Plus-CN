@@ -1,0 +1,13 @@
+{
+  "parts": "Pens",
+  "map": "stage1-7[18]",
+  "bkType": 1,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Guest",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "亚瑟的陷阱之家",
+  "camera": "normal"
+}

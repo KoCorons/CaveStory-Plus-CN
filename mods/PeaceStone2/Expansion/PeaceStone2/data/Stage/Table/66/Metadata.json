@@ -8,5 +8,6 @@
   "boss": "Cent",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "山路    下坡"
+  "name": "山路    下坡",
+  "camera": "normal"
 }

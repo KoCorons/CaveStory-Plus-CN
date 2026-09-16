@@ -1,0 +1,13 @@
+{
+  "parts": "Barr",
+  "map": "Laby",
+  "bkType": 1,
+  "back": "bkGreen",
+  "back_water": "bkGreen",
+  "npc": "Weed",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "神秘房间",
+  "camera": "normal"
+}

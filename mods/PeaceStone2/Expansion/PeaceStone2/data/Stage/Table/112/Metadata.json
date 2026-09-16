@@ -8,5 +8,6 @@
   "boss": "Ballos",
   "boss_no": 9,
   "lighting": "disabled",
-  "name": "最后之间"
+  "name": "最后之间",
+  "camera": "normal"
 }

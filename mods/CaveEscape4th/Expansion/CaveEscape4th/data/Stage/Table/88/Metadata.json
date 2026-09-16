@@ -1,0 +1,13 @@
+{
+  "parts": "Hell",
+  "map": "Battle4",
+  "bkType": 1,
+  "back": "bkGard",
+  "back_water": "bkGard",
+  "npc": "Red",
+  "boss": "Dark",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "摩天楼地上４阶",
+  "camera": "normal"
+}

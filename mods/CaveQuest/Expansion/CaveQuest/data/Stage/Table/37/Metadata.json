@@ -1,0 +1,13 @@
+{
+  "parts": "Sand",
+  "map": "\\empty",
+  "bkType": 1,
+  "back": "BkGreen",
+  "back_water": "BkGreen",
+  "npc": "Sand",
+  "boss": "Bllg",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "嵒嬫",
+  "camera": "normal"
+}

@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "三个月前"
+  "name": "三个月前",
+  "camera": "normal"
 }

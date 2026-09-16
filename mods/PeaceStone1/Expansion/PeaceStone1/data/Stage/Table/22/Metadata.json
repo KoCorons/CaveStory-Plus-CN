@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "珍卡的家"
+  "name": "珍卡的家",
+  "camera": "normal"
 }

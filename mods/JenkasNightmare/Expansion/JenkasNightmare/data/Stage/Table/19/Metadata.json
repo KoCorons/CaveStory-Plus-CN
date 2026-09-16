@@ -8,5 +8,6 @@
   "boss": "PipeRoom",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "管道通路Ｅ"
+  "name": "管道通路 N",
+  "camera": "normal"
 }

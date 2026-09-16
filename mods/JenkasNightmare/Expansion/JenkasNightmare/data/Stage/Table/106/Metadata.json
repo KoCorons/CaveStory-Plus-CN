@@ -8,5 +8,6 @@
   "boss": "Tristitia",
   "boss_no": 9,
   "lighting": "disabled",
-  "name": "c_arcadia"
+  "name": "c_Prism",
+  "camera": "normal"
 }

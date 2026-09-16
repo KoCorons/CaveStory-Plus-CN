@@ -8,5 +8,6 @@
   "boss": "X",
   "boss_no": 3,
   "lighting": "disabled",
-  "name": "高第之国"
+  "name": "高第之国",
+  "camera": "normal"
 }

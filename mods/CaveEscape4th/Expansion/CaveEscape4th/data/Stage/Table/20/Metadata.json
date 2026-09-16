@@ -1,0 +1,13 @@
+{
+  "parts": "Maze",
+  "map": "WB5",
+  "bkType": 7,
+  "back": "bksun2",
+  "back_water": "bksun2",
+  "npc": "Weed",
+  "boss": "Sand",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "矿山的外壁",
+  "camera": "normal"
+}

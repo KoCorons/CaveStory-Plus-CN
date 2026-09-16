@@ -8,5 +8,6 @@
   "boss": "Oblivion",
   "boss_no": 4,
   "lighting": "disabled",
-  "name": "遗忘之地"
+  "name": "遗忘之地",
+  "camera": "normal"
 }

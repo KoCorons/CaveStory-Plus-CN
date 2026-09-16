@@ -8,5 +8,6 @@
   "boss": "Ravil",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "地下研究室"
+  "name": "地下研究室",
+  "camera": "normal"
 }

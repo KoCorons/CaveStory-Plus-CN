@@ -8,5 +8,6 @@
   "boss": "Null5",
   "boss_no": 9,
   "lighting": "disabled",
-  "name": "白"
+  "name": "白",
+  "camera": "normal"
 }

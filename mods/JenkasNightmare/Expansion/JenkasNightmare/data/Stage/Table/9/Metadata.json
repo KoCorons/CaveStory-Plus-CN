@@ -8,5 +8,6 @@
   "boss": "Guest",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "咪咪卡村落"
+  "name": "咪咪卡村落",
+  "camera": "normal"
 }

@@ -1,12 +1,13 @@
 {
-  "parts" : "Maze",
-  "map" : "MazeW",
-  "bkType" : 1,
-  "back" : "bkMaze",
-  "back_water" : "bkMaze",
-  "npc" : "Guest",
-  "boss" : "Guest",
-  "boss_no" : 3,
-  "lighting" : "normal",
-  "name" : "迷宫Ｗ"
+  "parts": "Maze",
+  "map": "MazeW",
+  "bkType": 1,
+  "back": "bkMaze",
+  "back_water": "bkMaze",
+  "npc": "Guest",
+  "boss": "Guest",
+  "boss_no": 3,
+  "lighting": "normal",
+  "name": "迷宫Ｗ",
+  "camera": "normal"
 }

@@ -1,0 +1,13 @@
+{
+  "parts": "Sand",
+  "map": "stage1-4-4[7]",
+  "bkType": 1,
+  "back": "bkRed",
+  "back_water": "bkRed",
+  "npc": "Sand",
+  "boss": "Omg",
+  "boss_no": 1,
+  "lighting": "disabled",
+  "name": "砂区",
+  "camera": "normal"
+}

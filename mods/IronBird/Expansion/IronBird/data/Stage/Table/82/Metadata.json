@@ -8,5 +8,6 @@
   "boss": "Frog",
   "boss_no": 2,
   "lighting": "disabled",
-  "name": "空洞"
+  "name": "空洞",
+  "camera": "normal"
 }

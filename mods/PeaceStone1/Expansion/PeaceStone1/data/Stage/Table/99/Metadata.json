@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "结尾"
+  "name": "结尾",
+  "camera": "normal"
 }

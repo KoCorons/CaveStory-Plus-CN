@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "Egg Observation Room"
+  "name": "Egg Observation Room",
+  "camera": "normal"
 }

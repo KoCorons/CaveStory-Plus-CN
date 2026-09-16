@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "Boulder Chamber"
+  "name": "Boulder Chamber",
+  "camera": "normal"
 }

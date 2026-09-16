@@ -8,5 +8,6 @@
   "boss": "Cent",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "海岸"
+  "name": "海岸",
+  "camera": "normal"
 }

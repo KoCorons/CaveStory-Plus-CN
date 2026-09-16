@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "外壁"
+  "name": "外壁",
+  "camera": "normal"
 }

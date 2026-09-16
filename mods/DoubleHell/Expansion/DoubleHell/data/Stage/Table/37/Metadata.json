@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "Sand Zone"
+  "name": "Sand Zone",
+  "camera": "normal"
 }

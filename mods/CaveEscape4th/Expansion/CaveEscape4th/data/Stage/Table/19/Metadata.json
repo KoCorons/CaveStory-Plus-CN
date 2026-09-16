@@ -1,0 +1,13 @@
+{
+  "parts": "Mirror",
+  "map": "WB4",
+  "bkType": 1,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Cemet",
+  "boss": "Cemet",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "镜像洞窟",
+  "camera": "normal"
+}

@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "通往村子的道路"
+  "name": "通往村子的道路",
+  "camera": "normal"
 }

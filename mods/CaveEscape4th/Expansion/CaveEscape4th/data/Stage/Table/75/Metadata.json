@@ -1,0 +1,13 @@
+{
+  "parts": "Barr",
+  "map": "Ravil",
+  "bkType": 1,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Ravil",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "魔物的巢穴",
+  "camera": "normal"
+}

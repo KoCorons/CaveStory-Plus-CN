@@ -8,5 +8,6 @@
   "boss": "Cent",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "横向路"
+  "name": "横向路",
+  "camera": "normal"
 }

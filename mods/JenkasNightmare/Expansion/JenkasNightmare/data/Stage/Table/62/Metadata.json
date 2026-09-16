@@ -8,5 +8,6 @@
   "boss": "Suto",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "制枪者隐居处"
+  "name": "制枪者隐居处",
+  "camera": "normal"
 }

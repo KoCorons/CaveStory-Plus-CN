@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "i_egg"
+  "name": "i_egg",
+  "camera": "normal"
 }

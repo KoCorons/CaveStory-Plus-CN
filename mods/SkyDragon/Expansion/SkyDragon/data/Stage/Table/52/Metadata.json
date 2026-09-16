@@ -8,5 +8,6 @@
   "boss": "Ravil",
   "boss_no": 1,
   "lighting": "disabled",
-  "name": "神殿2階"
+  "name": "神殿2階",
+  "camera": "normal"
 }

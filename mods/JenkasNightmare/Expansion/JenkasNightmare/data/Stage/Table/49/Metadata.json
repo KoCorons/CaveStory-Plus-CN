@@ -8,5 +8,6 @@
   "boss": "Maze2",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "迷宫Ｍ"
+  "name": "迷宫 M",
+  "camera": "normal"
 }

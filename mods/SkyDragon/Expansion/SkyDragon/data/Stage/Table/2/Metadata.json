@@ -8,5 +8,6 @@
   "boss": "Weed",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "最初的洞窟"
+  "name": "最初的洞窟",
+  "camera": "normal"
 }

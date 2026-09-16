@@ -8,5 +8,6 @@
   "boss": "Draco",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "米莎莉的住所？"
+  "name": "米莎莉的住所？",
+  "camera": "normal"
 }

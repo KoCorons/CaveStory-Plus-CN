@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "丘陵小屋"
+  "name": "丘陵小屋",
+  "camera": "normal"
 }

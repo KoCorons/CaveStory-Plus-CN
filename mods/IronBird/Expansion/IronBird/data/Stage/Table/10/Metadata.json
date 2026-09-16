@@ -8,5 +8,6 @@
   "boss": "Weed",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "花园"
+  "name": "花园",
+  "camera": "normal"
 }

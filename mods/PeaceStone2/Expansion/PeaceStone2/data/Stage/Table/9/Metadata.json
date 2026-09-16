@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "咪咪卡农场"
+  "name": "咪咪卡农场",
+  "camera": "normal"
 }

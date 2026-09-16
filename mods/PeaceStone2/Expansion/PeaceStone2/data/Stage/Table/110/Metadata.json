@@ -8,5 +8,6 @@
   "boss": "Ninja3",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "波罗斯之间"
+  "name": "波罗斯之间",
+  "camera": "normal"
 }

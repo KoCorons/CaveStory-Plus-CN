@@ -1,0 +1,13 @@
+{
+  "parts": "Jail",
+  "map": "stage1-6-5[13]",
+  "bkType": 4,
+  "back": "bkGray",
+  "back_water": "bkGray",
+  "npc": "Red",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "最后的洞窟",
+  "camera": "normal"
+}

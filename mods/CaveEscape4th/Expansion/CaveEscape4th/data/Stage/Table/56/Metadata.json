@@ -1,0 +1,13 @@
+{
+  "parts": "Barr",
+  "map": "shed2",
+  "bkType": 1,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Ravil",
+  "boss": "Ravil",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "怪物的住处",
+  "camera": "normal"
+}

@@ -8,5 +8,6 @@
   "boss": "Cent",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "港口"
+  "name": "港口",
+  "camera": "normal"
 }

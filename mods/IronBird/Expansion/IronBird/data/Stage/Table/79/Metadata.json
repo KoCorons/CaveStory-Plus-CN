@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "蛙之村落"
+  "name": "蛙之村落",
+  "camera": "normal"
 }

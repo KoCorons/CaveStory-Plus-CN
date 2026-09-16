@@ -8,5 +8,6 @@
   "boss": "Cent",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "Dororu的神殿"
+  "name": "Dororu的神殿",
+  "camera": "normal"
 }

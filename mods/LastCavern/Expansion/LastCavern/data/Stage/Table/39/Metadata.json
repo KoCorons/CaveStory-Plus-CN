@@ -8,5 +8,6 @@
   "boss": "X",
   "boss_no": 3,
   "lighting": "disabled",
-  "name": "Labyrinth W"
+  "name": "Labyrinth W",
+  "camera": "normal"
 }

@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "水底"
+  "name": "水底",
+  "camera": "normal"
 }

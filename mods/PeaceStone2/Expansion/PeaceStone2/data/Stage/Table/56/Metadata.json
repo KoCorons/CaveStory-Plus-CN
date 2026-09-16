@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "天空之城"
+  "name": "天空之城",
+  "camera": "normal"
 }

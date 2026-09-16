@@ -183,6 +183,50 @@
             <string>游戏速度:</string>
             <string>スピード：</string>
         </key>
+        <key name="GameOption_Controls">
+            <string>控制...</string>
+            <string>Controls...</string>
+        </key>
+        <key name="GameOption_ScreenType">
+            <string>屏幕类型:</string>
+            <string>Screen Type:</string>
+        </key>
+        <key name="GameOption_Window">
+            <string>窗口</string>
+            <string>Window</string>
+        </key>
+        <key name="GameOption_Full">
+            <string>全屏</string>
+            <string>Full</string>
+        </key>
+        <key name="GameOption_AspectRatio">
+            <string>宽高比:</string>
+            <string>Aspect Ratio:</string>
+        </key>
+        <key name="GameOption_FourByThree">
+            <string>4:3</string>
+            <string>4:3</string>
+        </key>
+        <key name="GameOption_SixteenByTen">
+            <string>16:10</string>
+            <string>16:10</string>
+        </key>
+        <key name="GameOption_SixteenByNine">
+            <string>16:9</string>
+            <string>16:9</string>
+        </key>
+        <key name="GameOption_ScreenScaling">
+            <string>屏幕缩放:</string>
+            <string>Screen Scaling:</string>
+        </key>
+        <key name="GameOption_ForceHoliday">
+            <string>强制节日:</string>
+            <string>Force Holiday:</string>
+        </key>
+        <key name="GameOption_DeveloperMode">
+            <string>开发者模式:</string>
+            <string>Developer Mode:</string>
+        </key>
         <key name="MusicType_Original">
             <string>原版</string>
             <string>オルガーニャ</string>
@@ -315,7 +359,7 @@
             <string>记录回放</string>
             <string>録画再生</string>
         </key>
-        <key name="MenuOption_SeasonalArt">
+        <key name="GameOption_SeasonalArt">
             <string>节日主题图像:</string>
             <string>季節ものアート</string>
         </key>

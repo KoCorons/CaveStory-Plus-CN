@@ -1,0 +1,13 @@
+{
+  "parts": "Weed",
+  "map": "Weed",
+  "bkType": 1,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Weed",
+  "boss": "0",
+  "boss_no": 3,
+  "lighting": "disabled",
+  "name": "高原的后方",
+  "camera": "normal"
+}

@@ -1,0 +1,13 @@
+{
+  "parts": "Mimi",
+  "map": "Boss",
+  "bkType": 1,
+  "back": "bkBlue",
+  "back_water": "bkBlue",
+  "npc": "Plant",
+  "boss": "Cent",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "村前的小道",
+  "camera": "normal"
+}

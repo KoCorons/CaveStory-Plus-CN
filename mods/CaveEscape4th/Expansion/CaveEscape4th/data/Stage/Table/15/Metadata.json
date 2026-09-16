@@ -1,0 +1,13 @@
+{
+  "parts": "Oside2",
+  "map": "Block",
+  "bkType": 7,
+  "back": "bkMoon",
+  "back_water": "bkMoon",
+  "npc": "Weed",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "雕像溪谷",
+  "camera": "normal"
+}

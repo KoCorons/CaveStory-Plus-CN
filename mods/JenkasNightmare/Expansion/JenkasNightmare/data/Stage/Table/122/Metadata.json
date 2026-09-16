@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "e_Sand"
+  "name": "e_Sand",
+  "camera": "normal"
 }

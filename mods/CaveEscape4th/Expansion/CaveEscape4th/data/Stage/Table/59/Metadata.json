@@ -1,0 +1,13 @@
+{
+  "parts": "Store",
+  "map": "Bar",
+  "bkType": 1,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "Maze",
+  "boss": "Maze",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "迷宫矿吧",
+  "camera": "normal"
+}

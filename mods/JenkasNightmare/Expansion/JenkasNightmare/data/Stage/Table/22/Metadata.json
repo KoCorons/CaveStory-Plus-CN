@@ -8,5 +8,6 @@
   "boss": "Guest",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "草丛区"
+  "name": "草丛区",
+  "camera": "normal"
 }

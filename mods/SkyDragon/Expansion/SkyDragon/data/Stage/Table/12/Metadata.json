@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "暗房"
+  "name": "暗房",
+  "camera": "normal"
 }

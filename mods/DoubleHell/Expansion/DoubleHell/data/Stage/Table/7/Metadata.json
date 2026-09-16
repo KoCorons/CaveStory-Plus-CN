@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "绝境"
+  "name": "绝境",
+  "camera": "normal"
 }

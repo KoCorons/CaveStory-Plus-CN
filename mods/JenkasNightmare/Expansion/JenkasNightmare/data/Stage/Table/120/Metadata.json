@@ -8,5 +8,6 @@
   "boss": "Plant",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "e_Villa"
+  "name": "e_Villa",
+  "camera": "normal"
 }

@@ -1,0 +1,13 @@
+{
+  "parts": "White",
+  "map": "SkyFall",
+  "bkType": 1,
+  "back": "bkStar",
+  "back_water": "bkStar",
+  "npc": "Guest2",
+  "boss": "Cent",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "夜空展望台",
+  "camera": "normal"
+}

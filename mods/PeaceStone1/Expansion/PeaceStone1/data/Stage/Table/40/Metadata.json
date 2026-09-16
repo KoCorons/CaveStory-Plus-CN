@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "迷宮"
+  "name": "迷宮",
+  "camera": "normal"
 }

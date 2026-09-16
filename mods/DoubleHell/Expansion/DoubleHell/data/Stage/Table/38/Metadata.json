@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "Labyrinth H"
+  "name": "Labyrinth H",
+  "camera": "normal"
 }

@@ -8,5 +8,6 @@
   "boss": "Miza",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "塔　牢房"
+  "name": "塔　牢房",
+  "camera": "normal"
 }

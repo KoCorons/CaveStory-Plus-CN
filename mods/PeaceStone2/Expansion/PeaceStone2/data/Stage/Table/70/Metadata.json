@@ -8,5 +8,6 @@
   "boss": "Omg",
   "boss_no": 1,
   "lighting": "disabled",
-  "name": "工业地带的地下"
+  "name": "工业地带的地下",
+  "camera": "normal"
 }

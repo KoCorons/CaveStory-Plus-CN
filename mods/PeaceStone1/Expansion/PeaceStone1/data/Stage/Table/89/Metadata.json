@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "圣域地下二层"
+  "name": "圣域地下二层",
+  "camera": "normal"
 }

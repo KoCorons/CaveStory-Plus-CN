@@ -8,5 +8,6 @@
   "boss": "Ninja2",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "拷问室"
+  "name": "拷问室",
+  "camera": "normal"
 }

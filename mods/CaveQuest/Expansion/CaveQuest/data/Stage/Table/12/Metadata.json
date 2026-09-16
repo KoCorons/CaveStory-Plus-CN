@@ -1,0 +1,13 @@
+{
+  "parts": "Oside",
+  "map": "stage1-6-3[11]",
+  "bkType": 6,
+  "back": "bkMoon",
+  "back_water": "bkMoon",
+  "npc": "Moon",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "外壁",
+  "camera": "normal"
+}

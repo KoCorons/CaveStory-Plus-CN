@@ -8,5 +8,6 @@
   "boss": "Tuclu",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "炸弹之间"
+  "name": "炸弹之间",
+  "camera": "normal"
 }

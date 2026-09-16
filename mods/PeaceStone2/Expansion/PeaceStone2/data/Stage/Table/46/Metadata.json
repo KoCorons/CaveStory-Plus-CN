@@ -8,5 +8,6 @@
   "boss": "Ravil",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "机械要塞病院"
+  "name": "机械要塞病院",
+  "camera": "normal"
 }

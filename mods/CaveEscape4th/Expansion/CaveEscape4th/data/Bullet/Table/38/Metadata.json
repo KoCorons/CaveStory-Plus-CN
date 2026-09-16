@@ -1,0 +1,28 @@
+{
+  "__group_comment": "bullet_38",
+  "is_special": false,
+  "damage": 8,
+  "life": 8,
+  "life_count": 30,
+  "light_offset": 0,
+  "bbits": {
+    "BBITS_BREAKBLOCK": false,
+    "BBITS_SHOWER": false,
+    "BBITS_THROWMAP": false,
+    "BBITS_REPLACE": false,
+    "BBITS_NOBREAK": false,
+    "BBITS_BLOCKBUSTER": false,
+    "BBITS_BLOCKERASE": true,
+    "BBITS_NOBANISH": false
+  },
+  "enemyXL": 6,
+  "enemyYL": 6,
+  "blockXL": 3,
+  "blockYL": 3,
+  "view": {
+    "front": 8,
+    "top": 8,
+    "back": 8,
+    "bottom": 8
+  }
+}

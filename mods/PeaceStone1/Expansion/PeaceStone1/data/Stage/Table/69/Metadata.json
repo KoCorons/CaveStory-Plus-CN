@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "博士的基地"
+  "name": "博士的基地",
+  "camera": "normal"
 }

@@ -8,5 +8,6 @@
   "boss": "Guest",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "蓄水池"
+  "name": "蓄水池",
+  "camera": "normal"
 }

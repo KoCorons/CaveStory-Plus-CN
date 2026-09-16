@@ -8,5 +8,6 @@
   "boss": "Almo1",
   "boss_no": 4,
   "lighting": "disabled",
-  "name": "深海底"
+  "name": "深海底",
+  "camera": "normal"
 }

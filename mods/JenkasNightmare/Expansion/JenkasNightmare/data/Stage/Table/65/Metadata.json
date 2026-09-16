@@ -8,5 +8,6 @@
   "boss": "Mk2",
   "boss_no": 3,
   "lighting": "disabled",
-  "name": "废弃工厂"
+  "name": "废弃工厂",
+  "camera": "normal"
 }

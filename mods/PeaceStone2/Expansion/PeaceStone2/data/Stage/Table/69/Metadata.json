@@ -8,5 +8,6 @@
   "boss": "X",
   "boss_no": 3,
   "lighting": "disabled",
-  "name": "山脚下的工业地带"
+  "name": "山脚下的工业地带",
+  "camera": "normal"
 }

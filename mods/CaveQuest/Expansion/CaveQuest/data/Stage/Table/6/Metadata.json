@@ -1,0 +1,13 @@
+{
+  "parts": "Sand",
+  "map": "stage1-4-2[5]",
+  "bkType": 1,
+  "back": "bkRed",
+  "back_water": "bkRed",
+  "npc": "Sand",
+  "boss": "0",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "×",
+  "camera": "normal"
+}

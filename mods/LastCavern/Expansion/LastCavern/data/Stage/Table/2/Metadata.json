@@ -8,5 +8,6 @@
   "boss": "Ravil",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "Egg Corridor"
+  "name": "Egg Corridor",
+  "camera": "normal"
 }

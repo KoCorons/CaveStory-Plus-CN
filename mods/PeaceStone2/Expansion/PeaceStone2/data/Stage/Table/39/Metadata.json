@@ -8,5 +8,6 @@
   "boss": "Curly",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "库利库的家？"
+  "name": "库利库的家？",
+  "camera": "normal"
 }

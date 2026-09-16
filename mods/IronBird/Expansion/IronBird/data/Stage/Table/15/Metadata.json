@@ -8,5 +8,6 @@
   "boss": "Curly",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "悬崖"
+  "name": "悬崖",
+  "camera": "normal"
 }

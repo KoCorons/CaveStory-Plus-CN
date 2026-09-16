@@ -8,5 +8,6 @@
   "boss": "Heri",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "棊壓"
+  "name": "棊壓",
+  "camera": "normal"
 }

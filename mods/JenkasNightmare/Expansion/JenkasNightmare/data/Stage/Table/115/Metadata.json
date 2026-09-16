@@ -8,5 +8,6 @@
   "boss": "Null3",
   "boss_no": 7,
   "lighting": "disabled",
-  "name": "Nothing"
+  "name": "Nothing",
+  "camera": "normal"
 }

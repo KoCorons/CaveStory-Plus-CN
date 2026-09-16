@@ -8,5 +8,6 @@
   "boss": "Alpha",
   "boss_no": 1,
   "lighting": "disabled",
-  "name": "水路"
+  "name": "水路",
+  "camera": "normal"
 }

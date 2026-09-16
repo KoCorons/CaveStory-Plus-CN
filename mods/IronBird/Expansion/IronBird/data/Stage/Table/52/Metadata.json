@@ -8,5 +8,6 @@
   "boss": "Almo1",
   "boss_no": 4,
   "lighting": "disabled",
-  "name": "大门之间（扉の間）"
+  "name": "大门之间（扉の間）",
+  "camera": "normal"
 }

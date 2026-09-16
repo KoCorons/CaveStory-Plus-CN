@@ -8,5 +8,6 @@
   "boss": "Guest",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "咪咪卡之塔"
+  "name": "咪咪卡之塔",
+  "camera": "normal"
 }

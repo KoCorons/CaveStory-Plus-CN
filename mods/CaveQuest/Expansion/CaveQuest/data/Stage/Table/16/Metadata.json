@@ -1,0 +1,13 @@
+{
+  "parts": "White",
+  "map": "stage1-6-7[15]",
+  "bkType": 7,
+  "back": "bkFog",
+  "back_water": "bkFog",
+  "npc": "Ravil",
+  "boss": "Ravil",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "天台",
+  "camera": "normal"
+}

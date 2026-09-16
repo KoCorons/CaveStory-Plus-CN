@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "钟乳石窟"
+  "name": "钟乳石窟",
+  "camera": "normal"
 }

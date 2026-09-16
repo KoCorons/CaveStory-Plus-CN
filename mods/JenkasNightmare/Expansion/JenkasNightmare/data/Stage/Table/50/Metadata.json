@@ -8,5 +8,6 @@
   "boss": "Weed",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "死路"
+  "name": "死路",
+  "camera": "normal"
 }

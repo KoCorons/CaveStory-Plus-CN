@@ -8,5 +8,6 @@
   "boss": "Mare",
   "boss_no": 7,
   "lighting": "disabled",
-  "name": "珍卡的噩梦"
+  "name": "珍卡的噩梦",
+  "camera": "normal"
 }

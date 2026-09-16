@@ -1,0 +1,13 @@
+{
+  "parts": "Maze",
+  "map": "stage1-5[8]",
+  "bkType": 1,
+  "back": "bkRed",
+  "back_water": "bkRed",
+  "npc": "Maze",
+  "boss": "Dark",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "迷宫",
+  "camera": "normal"
+}

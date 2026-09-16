@@ -8,5 +8,6 @@
   "boss": "Ravil",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "水量监控室"
+  "name": "水量监控室",
+  "camera": "normal"
 }

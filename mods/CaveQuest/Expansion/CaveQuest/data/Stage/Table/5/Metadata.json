@@ -1,0 +1,13 @@
+{
+  "parts": "Sand",
+  "map": "stage1-4-1[4]",
+  "bkType": 1,
+  "back": "bkGard",
+  "back_water": "bkGard",
+  "npc": "Sand",
+  "boss": "0",
+  "boss_no": 1,
+  "lighting": "disabled",
+  "name": "砂区",
+  "camera": "normal"
+}

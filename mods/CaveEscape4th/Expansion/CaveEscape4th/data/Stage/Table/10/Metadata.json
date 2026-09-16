@@ -1,0 +1,13 @@
+{
+  "parts": "Maze",
+  "map": "Delete",
+  "bkType": 2,
+  "back": "bkGray",
+  "back_water": "bkGray",
+  "npc": "Maze",
+  "boss": "Maze",
+  "boss_no": 1,
+  "lighting": "disabled",
+  "name": "幸运矿坑",
+  "camera": "normal"
+}

@@ -8,5 +8,6 @@
   "boss": "TwinD",
   "boss_no": 6,
   "lighting": "disabled",
-  "name": "空房间"
+  "name": "空房间",
+  "camera": "normal"
 }

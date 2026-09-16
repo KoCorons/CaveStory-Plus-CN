@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "魔女之森"
+  "name": "魔女之森",
+  "camera": "normal"
 }

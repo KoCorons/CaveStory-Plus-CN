@@ -8,5 +8,6 @@
   "boss": "0",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "序章"
+  "name": "序章",
+  "camera": "normal"
 }

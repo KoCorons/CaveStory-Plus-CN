@@ -8,5 +8,6 @@
   "boss": "Tuclu",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "塔　仓库"
+  "name": "塔　仓库",
+  "camera": "normal"
 }

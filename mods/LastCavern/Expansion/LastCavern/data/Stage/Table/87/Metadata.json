@@ -8,5 +8,6 @@
   "boss": "Ballos",
   "boss_no": 9,
   "lighting": "disabled",
-  "name": "Seal Chamber"
+  "name": "Seal Chamber",
+  "camera": "normal"
 }

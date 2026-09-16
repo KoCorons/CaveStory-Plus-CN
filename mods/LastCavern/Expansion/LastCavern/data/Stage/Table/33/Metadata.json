@@ -8,5 +8,6 @@
   "boss": "Bllg",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "Jenka's House"
+  "name": "Jenka's House",
+  "camera": "normal"
 }

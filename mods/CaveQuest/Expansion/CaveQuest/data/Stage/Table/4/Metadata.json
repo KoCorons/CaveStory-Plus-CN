@@ -1,0 +1,13 @@
+{
+  "parts": "Weed",
+  "map": "stage1-3[3]",
+  "bkType": 1,
+  "back": "bkBlue",
+  "back_water": "bkBlue",
+  "npc": "Weed",
+  "boss": "Frog",
+  "boss_no": 2,
+  "lighting": "disabled",
+  "name": "草丛区",
+  "camera": "normal"
+}

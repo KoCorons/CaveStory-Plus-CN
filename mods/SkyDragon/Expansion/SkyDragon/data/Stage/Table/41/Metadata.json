@@ -8,5 +8,6 @@
   "boss": "Cent",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "封印之间"
+  "name": "封印之间",
+  "camera": "normal"
 }

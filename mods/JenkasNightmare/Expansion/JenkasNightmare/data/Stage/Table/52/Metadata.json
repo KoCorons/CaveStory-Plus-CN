@@ -8,5 +8,6 @@
   "boss": "White",
   "boss_no": 2,
   "lighting": "disabled",
-  "name": "白色巨兽"
+  "name": "白色巨兽",
+  "camera": "normal"
 }

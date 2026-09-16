@@ -8,5 +8,6 @@
   "boss": "Raptor2",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "校舍"
+  "name": "校舍",
+  "camera": "normal"
 }

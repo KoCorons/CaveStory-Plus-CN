@@ -1,0 +1,13 @@
+{
+  "parts": "Hell",
+  "map": "Last_Boss",
+  "bkType": 7,
+  "back": "bkMoon2",
+  "back_water": "bkMoon2",
+  "npc": "Miza",
+  "boss": "Miza",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "最终决战",
+  "camera": "normal"
+}

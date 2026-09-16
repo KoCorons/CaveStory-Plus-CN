@@ -1,5 +1,5 @@
 {
-  "parts": "Almaze",
+  "parts": "AlMaze",
   "map": "JN054",
   "bkType": 2,
   "back": "bkMisery",
@@ -8,5 +8,6 @@
   "boss": "Maze2",
   "boss_no": 0,
   "lighting": "disabled",
-  "name": "反抗者联盟"
+  "name": "反抗者联盟",
+  "camera": "normal"
 }

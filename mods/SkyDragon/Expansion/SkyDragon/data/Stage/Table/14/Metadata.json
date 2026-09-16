@@ -8,5 +8,6 @@
   "boss": "X",
   "boss_no": 3,
   "lighting": "disabled",
-  "name": "岛屿的中枢 R"
+  "name": "岛屿的中枢 R",
+  "camera": "normal"
 }

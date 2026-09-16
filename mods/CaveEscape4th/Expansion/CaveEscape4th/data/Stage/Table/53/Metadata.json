@@ -1,0 +1,13 @@
+{
+  "parts": "Store",
+  "map": "ghost",
+  "bkType": 1,
+  "back": "bk0",
+  "back_water": "bk0",
+  "npc": "0",
+  "boss": "Dark",
+  "boss_no": 0,
+  "lighting": "disabled",
+  "name": "旧仓库",
+  "camera": "normal"
+}
